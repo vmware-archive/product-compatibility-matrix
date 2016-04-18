@@ -25458,7 +25458,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2016-04-18 21:13:52 +0000</string>
+	<string>2016-04-18 23:18:47 +0000</string>
 	<key>Modifier</key>
 	<string>Molly Crowther</string>
 	<key>NotesVisible</key>
@@ -41764,7 +41764,9 @@
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
-\f0\fs16 \cf2 The visuals depict product upgrades vertically and Operations Manager compatibility horizontally.}</string>
+\f0\fs16 \cf2 The visuals depict product upgrades vertically and Operations Manager compatibility horizontally.\
+\
+Last updated on: &lt;%ModificationDate%&gt;}</string>
 					</dict>
 					<key>TextPlacement</key>
 					<integer>0</integer>
@@ -44605,7 +44607,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 		<key>TopSlabHeight</key>
 		<real>1197</real>
 		<key>VisibleRegion</key>
-		<string>{{-49, 598.57143876503937}, {869.28572908956198, 844.28572866381455}}</string>
+		<string>{{-49, 0}, {869.28572908956198, 844.28572866381455}}</string>
 		<key>Zoom</key>
 		<real>1.3999999761581421</real>
 		<key>ZoomValues</key>
