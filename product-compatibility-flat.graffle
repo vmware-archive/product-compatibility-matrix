@@ -24096,7 +24096,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2016-09-08 16:25:14 +0000</string>
+	<string>2016-09-08 23:53:16 +0000</string>
 	<key>Modifier</key>
 	<string>pivotal</string>
 	<key>NotesVisible</key>
@@ -24314,11 +24314,11 @@
 						<real>12</real>
 					</dict>
 					<key>ID</key>
-					<integer>1140</integer>
+					<integer>1139</integer>
 					<key>Points</key>
 					<array>
-						<string>{389.00106934808059, 1015}</string>
-						<string>{389, 1040}</string>
+						<string>{534.00106934808059, 970}</string>
+						<string>{534, 995}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -24362,11 +24362,11 @@
 						<real>12</real>
 					</dict>
 					<key>ID</key>
-					<integer>1139</integer>
+					<integer>1143</integer>
 					<key>Points</key>
 					<array>
-						<string>{389.00106934808059, 965}</string>
-						<string>{389, 990}</string>
+						<string>{390.00106934808059, 920}</string>
+						<string>{390, 945}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -24401,7 +24401,7 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{330, 990}, {20, 20}}</string>
+					<string>{{475, 995}, {20, 20}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -24429,7 +24429,7 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{330, 1040}, {20, 20}}</string>
+					<string>{{330, 945}, {20, 20}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -24462,7 +24462,7 @@
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{385, 1050}, {10, 10}}</string>
+							<string>{{530, 1005}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -24502,7 +24502,7 @@
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{370, 1050}, {13.541666128569201, 10}}</string>
+							<string>{{515, 1005}, {13.541666128569201, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -24532,7 +24532,7 @@
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{355, 1050}, {10, 10}}</string>
+							<string>{{500, 1005}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -24567,7 +24567,7 @@
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{355, 1040}, {240, 20}}</string>
+									<string>{{500, 995}, {240, 20}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -24619,14 +24619,14 @@
 \f0\b\fs16 \cf2 JMX Bridge 
 \f1\b0 v.1.8.0+\
                             
-\f0\b AKA JMX Bridge}</string>
+\f0\b FKA JMX Bridge}</string>
 										<key>VerticalPad</key>
 										<real>0.0</real>
 									</dict>
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{320, 1030}, {280, 40}}</string>
+									<string>{{470, 985}, {130, 40}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -24678,7 +24678,7 @@
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{385, 1000}, {10, 10}}</string>
+							<string>{{385, 955}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -24718,7 +24718,7 @@
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{370, 1000}, {13.541666128569201, 10}}</string>
+							<string>{{370, 955}, {13.541666128569201, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -24748,7 +24748,7 @@
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{355, 1000}, {10, 10}}</string>
+							<string>{{355, 955}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -24783,7 +24783,7 @@
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{355, 990}, {240, 20}}</string>
+									<string>{{355, 945}, {240, 20}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -24835,14 +24835,14 @@
 \f0\b\fs16 \cf2 JMX Bridge 
 \f1\b0 v1.7.0+\
                             
-\f0\b AKA JMX Bridge}</string>
+\f0\b FKA JMX Bridge}</string>
 										<key>VerticalPad</key>
 										<real>0.0</real>
 									</dict>
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{320, 980}, {280, 40}}</string>
+									<string>{{320, 935}, {280, 40}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -24898,59 +24898,11 @@
 						<real>12</real>
 					</dict>
 					<key>ID</key>
-					<integer>1122</integer>
-					<key>Points</key>
-					<array>
-						<string>{234.50106934808059, 915}</string>
-						<string>{234.5, 940}</string>
-					</array>
-					<key>Style</key>
-					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.494118</real>
-								<key>g</key>
-								<real>0.53725500000000004</real>
-								<key>r</key>
-								<real>0.070588200000000004</real>
-							</dict>
-							<key>HeadArrow</key>
-							<string>FilledArrow</string>
-							<key>HeadScale</key>
-							<real>0.5</real>
-							<key>Legacy</key>
-							<false/>
-							<key>TailArrow</key>
-							<string>FilledBall</string>
-							<key>TailScale</key>
-							<real>0.5</real>
-						</dict>
-					</dict>
-				</dict>
-				<dict>
-					<key>Class</key>
-					<string>LineGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Font</key>
-						<string>Helvetica</string>
-						<key>Size</key>
-						<real>12</real>
-					</dict>
-					<key>ID</key>
 					<integer>1121</integer>
 					<key>Points</key>
 					<array>
-						<string>{234.50106934808059, 865}</string>
-						<string>{234.5, 890}</string>
+						<string>{234.50106934808059, 870}</string>
+						<string>{234.5, 895}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -26504,7 +26456,7 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{180, 940}, {20, 20}}</string>
+					<string>{{180, 895}, {20, 20}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -26537,7 +26489,7 @@
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{235, 950}, {10, 10}}</string>
+							<string>{{235, 905}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -26577,7 +26529,7 @@
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{220, 950}, {13.541666128569201, 10}}</string>
+							<string>{{220, 905}, {13.541666128569201, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -26607,7 +26559,7 @@
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{205, 950}, {10, 10}}</string>
+							<string>{{205, 905}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -26642,7 +26594,7 @@
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{205, 940}, {240, 20}}</string>
+									<string>{{205, 895}, {240, 20}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -26701,7 +26653,7 @@
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{170, 930}, {280, 40}}</string>
+									<string>{{170, 885}, {280, 40}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -27075,88 +27027,12 @@
 					<integer>-1</integer>
 				</dict>
 				<dict>
-					<key>Class</key>
-					<string>LineGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Font</key>
-						<string>Helvetica</string>
-						<key>Size</key>
-						<real>12</real>
-					</dict>
-					<key>ID</key>
-					<integer>342</integer>
-					<key>Points</key>
-					<array>
-						<string>{94.001069348080591, 865}</string>
-						<string>{94, 890}</string>
-					</array>
-					<key>Style</key>
-					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.494118</real>
-								<key>g</key>
-								<real>0.53725500000000004</real>
-								<key>r</key>
-								<real>0.070588200000000004</real>
-							</dict>
-							<key>HeadArrow</key>
-							<string>FilledArrow</string>
-							<key>HeadScale</key>
-							<real>0.5</real>
-							<key>Legacy</key>
-							<false/>
-							<key>TailArrow</key>
-							<string>FilledBall</string>
-							<key>TailScale</key>
-							<real>0.5</real>
-						</dict>
-					</dict>
-				</dict>
-				<dict>
 					<key>Bounds</key>
-					<string>{{30, 890}, {20, 20}}</string>
+					<string>{{30, 845}, {20, 20}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
 					<integer>364</integer>
-					<key>ImageID</key>
-					<integer>16</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
-				</dict>
-				<dict>
-					<key>Bounds</key>
-					<string>{{30, 840}, {20, 20}}</string>
-					<key>Class</key>
-					<string>ShapedGraphic</string>
-					<key>ID</key>
-					<integer>362</integer>
 					<key>ImageID</key>
 					<integer>16</integer>
 					<key>Style</key>
@@ -27185,7 +27061,7 @@
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{85, 900}, {10, 10}}</string>
+							<string>{{85, 855}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -27225,7 +27101,7 @@
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{70, 900}, {13.541666128569201, 10}}</string>
+							<string>{{70, 855}, {13.541666128569201, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -27255,7 +27131,7 @@
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{55, 900}, {10, 10}}</string>
+							<string>{{55, 855}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -27290,7 +27166,7 @@
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{52.790697674418425, 890}, {257.20930232558135, 20}}</string>
+									<string>{{52.790697674418425, 845}, {257.20930232558135, 20}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -27348,7 +27224,7 @@
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{20.000000000000028, 880}, {279.99999999999994, 40}}</string>
+									<string>{{20.000000000000028, 835}, {279.99999999999994, 40}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -27394,144 +27270,8 @@
 					<integer>-1</integer>
 				</dict>
 				<dict>
-					<key>Class</key>
-					<string>Group</string>
-					<key>Graphics</key>
-					<array>
-						<dict>
-							<key>Bounds</key>
-							<string>{{55, 850}, {10, 10}}</string>
-							<key>Class</key>
-							<string>ShapedGraphic</string>
-							<key>ID</key>
-							<integer>329</integer>
-							<key>ImageID</key>
-							<integer>6</integer>
-							<key>Scaling</key>
-							<integer>1</integer>
-							<key>Style</key>
-							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>shadow</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>stroke</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-							</dict>
-						</dict>
-						<dict>
-							<key>Bounds</key>
-							<string>{{55, 840}, {545, 20}}</string>
-							<key>Class</key>
-							<string>ShapedGraphic</string>
-							<key>FontInfo</key>
-							<dict>
-								<key>Font</key>
-								<string>SourceSansPro-Regular</string>
-								<key>Size</key>
-								<real>8</real>
-							</dict>
-							<key>ID</key>
-							<integer>330</integer>
-							<key>Magnets</key>
-							<array>
-								<string>{1, 0}</string>
-								<string>{-1, 0}</string>
-								<string>{0, 0.5}</string>
-							</array>
-							<key>Style</key>
-							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>shadow</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>stroke</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-							</dict>
-							<key>Text</key>
-							<dict>
-								<key>Align</key>
-								<integer>0</integer>
-								<key>Pad</key>
-								<real>0.0</real>
-								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
-{\fonttbl\f0\fnil\fcharset0 SourceSansPro-Semibold;\f1\fnil\fcharset0 SourceSansPro-Regular;}
-{\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-\deftab720
-\pard\pardeftab720\partightenfactor0
-
-\f0\b\fs16 \cf2 OpsMetrics
-\f1\b0  v1.3.2\
-}</string>
-								<key>VerticalPad</key>
-								<real>0.0</real>
-							</dict>
-						</dict>
-						<dict>
-							<key>Bounds</key>
-							<string>{{20, 830}, {280, 40}}</string>
-							<key>Class</key>
-							<string>ShapedGraphic</string>
-							<key>ID</key>
-							<integer>331</integer>
-							<key>Magnets</key>
-							<array>
-								<string>{0, 1}</string>
-								<string>{0, -1}</string>
-								<string>{1, 0}</string>
-								<string>{-1, 0}</string>
-							</array>
-							<key>Style</key>
-							<dict>
-								<key>shadow</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>stroke</key>
-								<dict>
-									<key>Color</key>
-									<dict>
-										<key>b</key>
-										<real>0.73333300000000001</real>
-										<key>g</key>
-										<real>0.72156900000000002</real>
-										<key>r</key>
-										<real>0.71372599999999997</real>
-									</dict>
-									<key>CornerRadius</key>
-									<real>3</real>
-								</dict>
-							</dict>
-						</dict>
-					</array>
-					<key>ID</key>
-					<integer>328</integer>
-					<key>Scaling</key>
-					<integer>-1</integer>
-				</dict>
-				<dict>
 					<key>Bounds</key>
-					<string>{{465, 830}, {140, 245}}</string>
+					<string>{{465, 829.10000000000048}, {140, 200.89999999999995}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -27564,7 +27304,7 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{315, 830}, {140, 245}}</string>
+					<string>{{315, 829.10000000000048}, {140, 200.89999999999995}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -27597,7 +27337,7 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{165, 825}, {140, 250}}</string>
+					<string>{{165, 825}, {140, 205}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -27630,7 +27370,7 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{15, 825}, {140, 250}}</string>
+					<string>{{15, 825}, {140, 205}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -31417,56 +31157,8 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 					</dict>
 				</dict>
 				<dict>
-					<key>Class</key>
-					<string>LineGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Font</key>
-						<string>Helvetica</string>
-						<key>Size</key>
-						<real>12</real>
-					</dict>
-					<key>ID</key>
-					<integer>1166</integer>
-					<key>Points</key>
-					<array>
-						<string>{385.00106934808059, 530}</string>
-						<string>{385, 555}</string>
-					</array>
-					<key>Style</key>
-					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.494118</real>
-								<key>g</key>
-								<real>0.53725500000000004</real>
-								<key>r</key>
-								<real>0.070588200000000004</real>
-							</dict>
-							<key>HeadArrow</key>
-							<string>FilledArrow</string>
-							<key>HeadScale</key>
-							<real>0.5</real>
-							<key>Legacy</key>
-							<false/>
-							<key>TailArrow</key>
-							<string>FilledBall</string>
-							<key>TailScale</key>
-							<real>0.5</real>
-						</dict>
-					</dict>
-				</dict>
-				<dict>
 					<key>Bounds</key>
-					<string>{{325, 555}, {20, 20}}</string>
+					<string>{{480, 555}, {20, 20}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -31494,7 +31186,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{380, 565}, {10, 10}}</string>
+					<string>{{535, 565}, {10, 10}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -31534,7 +31226,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{365, 565}, {13.541666128569201, 10}}</string>
+					<string>{{520, 565}, {13.541666128569201, 10}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -31564,7 +31256,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{350, 565}, {10, 10}}</string>
+					<string>{{505, 565}, {10, 10}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -31594,7 +31286,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{350, 555}, {225, 20}}</string>
+					<string>{{505, 555}, {225, 20}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -31638,12 +31330,14 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 						<real>0.0</real>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
-{\fonttbl\f0\fnil\fcharset0 SourceSansPro-Semibold;}
+{\fonttbl\f0\fnil\fcharset0 SourceSansPro-Semibold;\f1\fnil\fcharset0 SourceSansPro-Regular;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
-\f0\b\fs16 \cf2 Log Search v1.1.0\
+\f0\b\fs16 \cf2 Log Search 
+\f1\b0 v1.0.1
+\f0\b \
 }</string>
 						<key>VerticalPad</key>
 						<real>0.0</real>
@@ -31651,7 +31345,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{320, 545}, {280, 40}}</string>
+					<string>{{470, 545}, {130, 40}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -31860,12 +31554,14 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 						<real>0.0</real>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
-{\fonttbl\f0\fnil\fcharset0 SourceSansPro-Semibold;}
+{\fonttbl\f0\fnil\fcharset0 SourceSansPro-Semibold;\f1\fnil\fcharset0 SourceSansPro-Regular;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
-\f0\b\fs16 \cf2 Log Search v1.0.0\
+\f0\b\fs16 \cf2 Log Search 
+\f1\b0 v1.0.0
+\f0\b \
 }</string>
 						<key>VerticalPad</key>
 						<real>0.0</real>
@@ -32262,12 +31958,16 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 						<real>0.0</real>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
-{\fonttbl\f0\fnil\fcharset0 SourceSansPro-Semibold;}
+{\fonttbl\f0\fnil\fcharset0 SourceSansPro-Semibold;\f1\fnil\fcharset0 SourceSansPro-Regular;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
-\f0\b\fs16 \cf2 PCF Metrics v1.1.0+\
+\f0\b\fs16 \cf2 PCF Metrics 
+\f1\b0 v1.1.0+
+\f0\b  
+\f1\b0 (upgrade only from OpsManager 1.7.8+)
+\f0\b \
 }</string>
 						<key>VerticalPad</key>
 						<real>0.0</real>
@@ -32517,12 +32217,14 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 						<real>0.0</real>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
-{\fonttbl\f0\fnil\fcharset0 SourceSansPro-Semibold;}
+{\fonttbl\f0\fnil\fcharset0 SourceSansPro-Semibold;\f1\fnil\fcharset0 SourceSansPro-Regular;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
-\f0\b\fs16 \cf2 PCF Metrics v1.0.3+\
+\f0\b\fs16 \cf2 PCF Metrics 
+\f1\b0 v1.0.3+
+\f0\b \
 }</string>
 						<key>VerticalPad</key>
 						<real>0.0</real>
@@ -53873,13 +53575,13 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>3</integer>
+		<integer>1</integer>
 		<key>Expanded_Canvases</key>
 		<array>
 			<string>Canvas 1</string>
 		</array>
 		<key>Frame</key>
-		<string>{{1086, 0}, {1751, 1417}}</string>
+		<string>{{1083, 0}, {1351, 1417}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>Sidebar</key>
@@ -53889,7 +53591,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 		<key>TopSlabHeight</key>
 		<real>655</real>
 		<key>VisibleRegion</key>
-		<string>{{0, 0}, {835.33333333333337, 872}}</string>
+		<string>{{170.33333333333334, 38}, {568.66666666666663, 872}}</string>
 		<key>Zoom</key>
 		<real>1.5</real>
 		<key>ZoomValues</key>
