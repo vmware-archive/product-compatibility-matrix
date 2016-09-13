@@ -24096,7 +24096,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2016-09-12 23:00:41 +0000</string>
+	<string>2016-09-13 20:51:38 +0000</string>
 	<key>Modifier</key>
 	<string>pivotal</string>
 	<key>NotesVisible</key>
@@ -36807,6 +36807,104 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 						<real>12</real>
 					</dict>
 					<key>ID</key>
+					<integer>1145</integer>
+					<key>Points</key>
+					<array>
+						<string>{450, 920}</string>
+						<string>{535, 920}</string>
+						<string>{534.578125, 956.86979166666652}</string>
+						<string>{535, 955}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.494118</real>
+								<key>g</key>
+								<real>0.53725500000000004</real>
+								<key>r</key>
+								<real>0.070588200000000004</real>
+							</dict>
+							<key>HeadArrow</key>
+							<string>FilledArrow</string>
+							<key>HeadScale</key>
+							<real>0.5</real>
+							<key>Legacy</key>
+							<false/>
+							<key>TailArrow</key>
+							<string>FilledBall</string>
+							<key>TailScale</key>
+							<real>0.5</real>
+						</dict>
+					</dict>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Font</key>
+						<string>Helvetica</string>
+						<key>Size</key>
+						<real>12</real>
+					</dict>
+					<key>ID</key>
+					<integer>1132</integer>
+					<key>Points</key>
+					<array>
+						<string>{384.50106934808059, 670}</string>
+						<string>{384.5, 695}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.494118</real>
+								<key>g</key>
+								<real>0.53725500000000004</real>
+								<key>r</key>
+								<real>0.070588200000000004</real>
+							</dict>
+							<key>HeadArrow</key>
+							<string>FilledArrow</string>
+							<key>HeadScale</key>
+							<real>0.5</real>
+							<key>Legacy</key>
+							<false/>
+							<key>TailArrow</key>
+							<string>FilledBall</string>
+							<key>TailScale</key>
+							<real>0.5</real>
+						</dict>
+					</dict>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Font</key>
+						<string>Helvetica</string>
+						<key>Size</key>
+						<real>12</real>
+					</dict>
+					<key>ID</key>
 					<integer>1124</integer>
 					<key>Points</key>
 					<array>
@@ -36850,6 +36948,211 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
+					<integer>1131</integer>
+					<key>ImageID</key>
+					<integer>21</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>Group</string>
+					<key>Graphics</key>
+					<array>
+						<dict>
+							<key>Bounds</key>
+							<string>{{370, 652.5}, {13.541666128569201, 10}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>ID</key>
+							<integer>1126</integer>
+							<key>ImageID</key>
+							<integer>7</integer>
+							<key>Scaling</key>
+							<integer>1</integer>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+						</dict>
+						<dict>
+							<key>Bounds</key>
+							<string>{{355, 652.5}, {10, 10}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>ID</key>
+							<integer>1127</integer>
+							<key>ImageID</key>
+							<integer>6</integer>
+							<key>Scaling</key>
+							<integer>1</integer>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+						</dict>
+						<dict>
+							<key>Class</key>
+							<string>Group</string>
+							<key>Graphics</key>
+							<array>
+								<dict>
+									<key>Bounds</key>
+									<string>{{356.2790697674418, 652.5}, {183.72093023255795, 20}}</string>
+									<key>Class</key>
+									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Font</key>
+										<string>SourceSansPro-Regular</string>
+										<key>Size</key>
+										<real>8</real>
+									</dict>
+									<key>ID</key>
+									<integer>1129</integer>
+									<key>Magnets</key>
+									<array>
+										<string>{1, 0}</string>
+										<string>{-1, 0}</string>
+										<string>{-0.41768083836098535, -0.5}</string>
+									</array>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+									</dict>
+									<key>Text</key>
+									<dict>
+										<key>Align</key>
+										<integer>0</integer>
+										<key>Pad</key>
+										<real>0.0</real>
+										<key>Text</key>
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 SourceSansPro-Semibold;\f1\fnil\fcharset0 SourceSansPro-Regular;}
+{\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\b\fs16 \cf2 Push Notification Service \
+                    (Mobile)  
+\f1\b0 \cf2 v1.5.3 \
+                     through v1.6.1\
+}</string>
+										<key>VerticalPad</key>
+										<real>0.0</real>
+									</dict>
+								</dict>
+								<dict>
+									<key>Bounds</key>
+									<string>{{320.00000000000017, 637.5}, {130.23255813953483, 40}}</string>
+									<key>Class</key>
+									<string>ShapedGraphic</string>
+									<key>ID</key>
+									<integer>1130</integer>
+									<key>Magnets</key>
+									<array>
+										<string>{0, 1}</string>
+										<string>{0, -1}</string>
+										<string>{1, 0}</string>
+										<string>{-1, 0}</string>
+									</array>
+									<key>Style</key>
+									<dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Color</key>
+											<dict>
+												<key>b</key>
+												<real>0.73333300000000001</real>
+												<key>g</key>
+												<real>0.72156900000000002</real>
+												<key>r</key>
+												<real>0.71372599999999997</real>
+											</dict>
+											<key>CornerRadius</key>
+											<real>3</real>
+										</dict>
+									</dict>
+								</dict>
+							</array>
+							<key>ID</key>
+							<integer>1128</integer>
+						</dict>
+					</array>
+					<key>ID</key>
+					<integer>1125</integer>
+					<key>Scaling</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{330, 695}, {20, 20}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
 					<integer>1123</integer>
 					<key>ImageID</key>
 					<integer>21</integer>
@@ -36879,7 +37182,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{370, 655}, {13.541666128569201, 10}}</string>
+							<string>{{370, 707.5}, {13.541666128569201, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -36909,7 +37212,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{355, 655}, {10, 10}}</string>
+							<string>{{355, 707.5}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -36944,7 +37247,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{355, 645}, {395, 20}}</string>
+									<string>{{355, 697.5}, {395, 20}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -36994,7 +37297,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Push Notification Service (Mobile) 
-\f1\b0 v1.6.2+\
+\f1\b0 \cf2 v1.6.2+\
 }</string>
 										<key>VerticalPad</key>
 										<real>0.0</real>
@@ -37002,7 +37305,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{320, 635}, {280, 40}}</string>
+									<string>{{320, 687.5}, {280, 40}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -37048,104 +37351,8 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 					<integer>-1</integer>
 				</dict>
 				<dict>
-					<key>Class</key>
-					<string>LineGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Font</key>
-						<string>Helvetica</string>
-						<key>Size</key>
-						<real>12</real>
-					</dict>
-					<key>ID</key>
-					<integer>1116</integer>
-					<key>Points</key>
-					<array>
-						<string>{235.00106934808059, 880}</string>
-						<string>{235, 905}</string>
-					</array>
-					<key>Style</key>
-					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.494118</real>
-								<key>g</key>
-								<real>0.53725500000000004</real>
-								<key>r</key>
-								<real>0.070588200000000004</real>
-							</dict>
-							<key>HeadArrow</key>
-							<string>FilledArrow</string>
-							<key>HeadScale</key>
-							<real>0.5</real>
-							<key>Legacy</key>
-							<false/>
-							<key>TailArrow</key>
-							<string>FilledBall</string>
-							<key>TailScale</key>
-							<real>0.5</real>
-						</dict>
-					</dict>
-				</dict>
-				<dict>
-					<key>Class</key>
-					<string>LineGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Font</key>
-						<string>Helvetica</string>
-						<key>Size</key>
-						<real>12</real>
-					</dict>
-					<key>ID</key>
-					<integer>1115</integer>
-					<key>Points</key>
-					<array>
-						<string>{80.001069348080591, 880}</string>
-						<string>{80, 905}</string>
-					</array>
-					<key>Style</key>
-					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.494118</real>
-								<key>g</key>
-								<real>0.53725500000000004</real>
-								<key>r</key>
-								<real>0.070588200000000004</real>
-							</dict>
-							<key>HeadArrow</key>
-							<string>FilledArrow</string>
-							<key>HeadScale</key>
-							<real>0.5</real>
-							<key>Legacy</key>
-							<false/>
-							<key>TailArrow</key>
-							<string>FilledBall</string>
-							<key>TailScale</key>
-							<real>0.5</real>
-						</dict>
-					</dict>
-				</dict>
-				<dict>
 					<key>Bounds</key>
-					<string>{{30, 905}, {20, 20}}</string>
+					<string>{{480, 960}, {20, 20}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -37178,7 +37385,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{85, 915}, {10, 10}}</string>
+							<string>{{535, 970}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -37218,7 +37425,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{70, 915}, {13.541666128569201, 10}}</string>
+							<string>{{520, 970}, {13.541666128569201, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -37248,7 +37455,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{55, 915}, {10, 10}}</string>
+							<string>{{505, 970}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -37278,7 +37485,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{55, 905}, {250, 20}}</string>
+							<string>{{505, 960}, {250, 20}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -37328,7 +37535,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 RabbitMQ 
-\f1\b0 v1.7.0+\
+\f1\b0 \cf2 v1.7.0+\
 }</string>
 								<key>VerticalPad</key>
 								<real>0.0</real>
@@ -37336,7 +37543,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{20, 895}, {580, 40}}</string>
+							<string>{{470, 950}, {130, 40}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -37391,8 +37598,8 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 					<integer>1106</integer>
 					<key>Points</key>
 					<array>
-						<string>{80.001069348080591, 830}</string>
-						<string>{80, 855}</string>
+						<string>{80.001069348080591, 885}</string>
+						<string>{80, 910}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -37439,8 +37646,8 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 					<integer>1105</integer>
 					<key>Points</key>
 					<array>
-						<string>{235.00106934808059, 830}</string>
-						<string>{235, 855}</string>
+						<string>{235.00106934808059, 885}</string>
+						<string>{235, 910}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -37487,8 +37694,8 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 					<integer>1104</integer>
 					<key>Points</key>
 					<array>
-						<string>{235.00106934808059, 780}</string>
-						<string>{235, 805}</string>
+						<string>{235.00106934808059, 835}</string>
+						<string>{235, 860}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -37535,8 +37742,8 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 					<integer>1103</integer>
 					<key>Points</key>
 					<array>
-						<string>{80.001069348080591, 780}</string>
-						<string>{80, 805}</string>
+						<string>{80.001069348080591, 835}</string>
+						<string>{80, 860}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -37583,8 +37790,8 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 					<integer>1102</integer>
 					<key>Points</key>
 					<array>
-						<string>{234.00106934808059, 730}</string>
-						<string>{234, 755}</string>
+						<string>{234.00106934808059, 785}</string>
+						<string>{234, 810}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -39316,7 +39523,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Push Notification Service (Mobile) 
-\f1\b0 v1.4.5 through v1.6.0\
+\f1\b0 \cf2 v1.4.5 through v1.4.12\
 }</string>
 										<key>VerticalPad</key>
 										<real>0.0</real>
@@ -39568,7 +39775,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 
 \f0\b\fs16 \cf2 Push Notification Service\
                     
-\f1\b0 v1.4.0 through \
+\f1\b0 \cf2 v1.4.0 through \
                     v1.4.4}</string>
 										<key>VerticalPad</key>
 										<real>0.0</real>
@@ -40386,7 +40593,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{465, 380}, {140, 300}}</string>
+					<string>{{465, 380}, {140, 355.00000000000006}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -40419,7 +40626,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{315, 380}, {140, 300}}</string>
+					<string>{{315, 380}, {140, 355.00000000000006}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -40452,7 +40659,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{165, 380}, {140, 300}}</string>
+					<string>{{165, 380}, {140, 355.00000000000006}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -40485,7 +40692,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{15, 380}, {140, 300}}</string>
+					<string>{{15, 380}, {140, 355.00000000000006}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -40575,7 +40782,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{30, 855}, {20, 20}}</string>
+					<string>{{30, 910}, {20, 20}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -40608,7 +40815,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{85, 865}, {10, 10}}</string>
+							<string>{{85, 920}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -40648,7 +40855,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{70, 865}, {13.541666128569201, 10}}</string>
+							<string>{{70, 920}, {13.541666128569201, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -40678,7 +40885,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{55, 865}, {10, 10}}</string>
+							<string>{{55, 920}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -40708,7 +40915,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{55, 855}, {250, 20}}</string>
+							<string>{{55, 910}, {250, 20}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -40758,7 +40965,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 RabbitMQ 
-\f1\b0 v1.5.9 through v1.6.5\
+\f1\b0 \cf2 v1.5.9 through v1.6.6\
 }</string>
 								<key>VerticalPad</key>
 								<real>0.0</real>
@@ -40766,7 +40973,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{20, 845}, {430, 40}}</string>
+							<string>{{20, 900}, {430, 40}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -40809,7 +41016,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{30, 805}, {20, 20}}</string>
+					<string>{{30, 860}, {20, 20}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -40842,7 +41049,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{85, 815}, {10, 10}}</string>
+							<string>{{85, 870}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -40882,7 +41089,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{70, 815}, {13.541666128569201, 10}}</string>
+							<string>{{70, 870}, {13.541666128569201, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -40912,7 +41119,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{55, 815}, {10, 10}}</string>
+							<string>{{55, 870}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -40942,7 +41149,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{55, 805}, {250, 20}}</string>
+							<string>{{55, 860}, {250, 20}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -40992,7 +41199,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 RabbitMQ 
-\f1\b0 v1.5.0 through v1.5.8\
+\f1\b0 \cf2 v1.5.0 through v1.5.8\
 }</string>
 								<key>VerticalPad</key>
 								<real>0.0</real>
@@ -41000,7 +41207,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{20, 795}, {280, 40}}</string>
+							<string>{{20, 850}, {280, 40}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -41055,8 +41262,8 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 					<integer>998</integer>
 					<key>Points</key>
 					<array>
-						<string>{80.001069348080591, 730}</string>
-						<string>{80, 755}</string>
+						<string>{80.001069348080591, 785}</string>
+						<string>{80, 810}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -41091,7 +41298,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{30, 755}, {20, 20}}</string>
+					<string>{{30, 810}, {20, 20}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -41124,7 +41331,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{85, 765}, {10, 10}}</string>
+							<string>{{85, 820}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -41164,7 +41371,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{70, 765}, {13.541666128569201, 10}}</string>
+							<string>{{70, 820}, {13.541666128569201, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -41194,7 +41401,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{55, 765}, {10, 10}}</string>
+							<string>{{55, 820}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -41224,7 +41431,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{55, 755}, {355, 20}}</string>
+							<string>{{55, 810}, {355, 20}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -41274,7 +41481,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 RabbitMQ 
-\f1\b0 v1.4.0 through v1.4.10\
+\f1\b0 \cf2 v1.4.0 through v1.4.10\
 }</string>
 								<key>VerticalPad</key>
 								<real>0.0</real>
@@ -41282,7 +41489,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{20, 745}, {280, 40}}</string>
+							<string>{{20, 800}, {280, 40}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -41330,7 +41537,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{30, 705}, {20, 20}}</string>
+							<string>{{30, 760}, {20, 20}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -41363,7 +41570,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{55, 715}, {10, 10}}</string>
+									<string>{{55, 770}, {10, 10}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -41393,7 +41600,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{55, 705}, {540, 20}}</string>
+									<string>{{55, 760}, {540, 20}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -41443,7 +41650,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 RabbitMQ 
-\f1\b0 v1.3.4 through v1.3.6\
+\f1\b0 \cf2 v1.3.4 through v1.3.6\
 }</string>
 										<key>VerticalPad</key>
 										<real>0.0</real>
@@ -41451,7 +41658,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{20, 695}, {280, 40}}</string>
+									<string>{{20, 750}, {280, 40}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -41500,7 +41707,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{465, 690}, {140, 250}}</string>
+					<string>{{465, 745}, {140, 250}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -41533,7 +41740,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{315, 690}, {140, 250}}</string>
+					<string>{{315, 745}, {140, 250}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -41566,7 +41773,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{165, 690}, {140, 250}}</string>
+					<string>{{165, 745}, {140, 250}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -41599,7 +41806,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{15, 690}, {140, 250}}</string>
+					<string>{{15, 745}, {140, 250}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -53368,13 +53575,13 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>0</integer>
+		<integer>2</integer>
 		<key>Expanded_Canvases</key>
 		<array>
 			<string>Canvas 1</string>
 		</array>
 		<key>Frame</key>
-		<string>{{483, 94}, {1351, 877}}</string>
+		<string>{{24, -22}, {1351, 877}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>Sidebar</key>
@@ -53384,7 +53591,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 		<key>TopSlabHeight</key>
 		<real>655</real>
 		<key>VisibleRegion</key>
-		<string>{{175.66666666666666, 320.66666666666669}, {568.66666666666674, 511.99999999999994}}</string>
+		<string>{{0, 596.66666666666663}, {568.66666666666663, 512.00000000000011}}</string>
 		<key>Zoom</key>
 		<real>1.5</real>
 		<key>ZoomValues</key>
