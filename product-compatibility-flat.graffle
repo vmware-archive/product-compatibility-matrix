@@ -24096,7 +24096,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2016-09-13 20:51:38 +0000</string>
+	<string>2016-09-14 19:14:32 +0000</string>
 	<key>Modifier</key>
 	<string>pivotal</string>
 	<key>NotesVisible</key>
@@ -29929,7 +29929,7 @@ Last updated on: &lt;%ModificationDate%&gt;}</string>
 
 \f0\fs16 \cf2 To upgrade to the latest desired version of Operations Manager, operators should first upgrade each product to the minimum required version that is certified to run in the version of Operations Manager that they intend to upgrade to.\
 \
-Once every product is upgraded, the Operator can then safely upgrade PCF Operations Manager.}</string>
+Once every product is upgraded, the operator can then safely upgrade PCF Operations Manager.}</string>
 					</dict>
 					<key>TextPlacement</key>
 					<integer>0</integer>
@@ -36562,7 +36562,7 @@ Last updated on: &lt;%ModificationDate%&gt;}</string>
 
 \f0\fs16 \cf2 To upgrade to the latest desired version of Operations Manager, operators should first upgrade each product to the minimum required version that is certified to run in the version of Operations Manager that they intend to upgrade to.\
 \
-Once every product is upgraded, the Operator can then safely upgrade PCF Operations Manager.}</string>
+Once every product is upgraded, the operator can then safely upgrade PCF Operations Manager.}</string>
 					</dict>
 					<key>TextPlacement</key>
 					<integer>0</integer>
@@ -42508,7 +42508,7 @@ Last updated on: &lt;%ModificationDate%&gt;}</string>
 
 \f0\fs16 \cf2 To upgrade to the latest desired version of Operations Manager, operators should first upgrade each product to the minimum required version that is certified to run in the version of Operations Manager that they intend to upgrade to.\
 \
-Once every product is upgraded, the Operator can then safely upgrade PCF Operations Manager.}</string>
+Once every product is upgraded, the operator can then safely upgrade PCF Operations Manager.}</string>
 					</dict>
 					<key>TextPlacement</key>
 					<integer>0</integer>
@@ -49202,7 +49202,7 @@ Last updated on: &lt;%ModificationDate%&gt;}</string>
 
 \f0\fs16 \cf2 To upgrade to the latest desired version of Operations Manager, operators should first upgrade each product to the minimum required version that is certified to run in the version of Operations Manager that they intend to upgrade to.\
 \
-Once every product is upgraded, the Operator can then safely upgrade PCF Operations Manager.}</string>
+Once every product is upgraded, the operator can then safely upgrade PCF Operations Manager.}</string>
 					</dict>
 					<key>TextPlacement</key>
 					<integer>0</integer>
@@ -53575,13 +53575,13 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>2</integer>
+		<integer>3</integer>
 		<key>Expanded_Canvases</key>
 		<array>
 			<string>Canvas 1</string>
 		</array>
 		<key>Frame</key>
-		<string>{{24, -22}, {1351, 877}}</string>
+		<string>{{1121, 308}, {1351, 877}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>Sidebar</key>
@@ -53591,7 +53591,7 @@ Once every product is upgraded, the Operator can then safely upgrade PCF Operati
 		<key>TopSlabHeight</key>
 		<real>655</real>
 		<key>VisibleRegion</key>
-		<string>{{0, 596.66666666666663}, {568.66666666666663, 512.00000000000011}}</string>
+		<string>{{0, 0}, {568.66666666666663, 512}}</string>
 		<key>Zoom</key>
 		<real>1.5</real>
 		<key>ZoomValues</key>
