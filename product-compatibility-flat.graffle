@@ -24096,7 +24096,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2016-09-15 00:16:18 +0000</string>
+	<string>2016-09-16 17:27:43 +0000</string>
 	<key>Modifier</key>
 	<string>pivotal</string>
 	<key>NotesVisible</key>
@@ -24196,8 +24196,56 @@
 			<key>GraphicsList</key>
 			<array>
 				<dict>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Font</key>
+						<string>Helvetica</string>
+						<key>Size</key>
+						<real>12</real>
+					</dict>
+					<key>ID</key>
+					<integer>1148</integer>
+					<key>Points</key>
+					<array>
+						<string>{530.00106934808059, 720}</string>
+						<string>{530, 745}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.494118</real>
+								<key>g</key>
+								<real>0.53725500000000004</real>
+								<key>r</key>
+								<real>0.070588200000000004</real>
+							</dict>
+							<key>HeadArrow</key>
+							<string>FilledArrow</string>
+							<key>HeadScale</key>
+							<real>0.5</real>
+							<key>Legacy</key>
+							<false/>
+							<key>TailArrow</key>
+							<string>FilledBall</string>
+							<key>TailScale</key>
+							<real>0.5</real>
+						</dict>
+					</dict>
+				</dict>
+				<dict>
 					<key>Bounds</key>
-					<string>{{475, 682.5}, {245, 20}}</string>
+					<string>{{540, 695}, {245, 20}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -24246,65 +24294,12 @@
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
-\f0\fs16 \cf2 (You must upgrade OpsManager and \
-Elastic Runtime simultaneously.)}</string>
+\f0\fs16 \cf2 (You must upgrade \
+Elastic Runtime to \
+v1.8.0+ before \
+deploying.)}</string>
 						<key>VerticalPad</key>
 						<real>0.0</real>
-					</dict>
-				</dict>
-				<dict>
-					<key>Class</key>
-					<string>LineGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Font</key>
-						<string>Helvetica</string>
-						<key>Size</key>
-						<real>12</real>
-					</dict>
-					<key>ID</key>
-					<integer>1145</integer>
-					<key>Points</key>
-					<array>
-						<string>{450, 707.5}</string>
-						<string>{535, 707.5}</string>
-						<string>{534.578125, 744.36979166666663}</string>
-						<string>{535, 742.5}</string>
-					</array>
-					<key>Style</key>
-					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.494118</real>
-								<key>g</key>
-								<real>0.53725500000000004</real>
-								<key>r</key>
-								<real>0.070588200000000004</real>
-							</dict>
-							<key>HeadArrow</key>
-							<string>FilledArrow</string>
-							<key>HeadScale</key>
-							<real>0.5</real>
-							<key>Legacy</key>
-							<false/>
-							<key>TailArrow</key>
-							<string>FilledBall</string>
-							<key>TailScale</key>
-							<real>0.5</real>
-						</dict>
-					</dict>
-					<key>Tail</key>
-					<dict>
-						<key>ID</key>
-						<integer>1105</integer>
 					</dict>
 				</dict>
 				<dict>
@@ -25520,7 +25515,7 @@ Elastic Runtime simultaneously.)}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{320, 687.5}, {130, 40}}</string>
+					<string>{{320, 687.5}, {215, 40}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -53575,13 +53570,13 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>4</integer>
+		<integer>0</integer>
 		<key>Expanded_Canvases</key>
 		<array>
 			<string>Canvas 1</string>
 		</array>
 		<key>Frame</key>
-		<string>{{53, 0}, {1351, 877}}</string>
+		<string>{{212, 354}, {1605, 1063}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>Sidebar</key>
@@ -53591,7 +53586,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 		<key>TopSlabHeight</key>
 		<real>655</real>
 		<key>VisibleRegion</key>
-		<string>{{0, 0}, {568.66666666666663, 512}}</string>
+		<string>{{47, 419.33333333333331}, {738, 636}}</string>
 		<key>Zoom</key>
 		<real>1.5</real>
 		<key>ZoomValues</key>
