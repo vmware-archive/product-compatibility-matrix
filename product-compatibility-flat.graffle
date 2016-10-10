@@ -24096,7 +24096,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2016-09-29 16:31:01 +0000</string>
+	<string>2016-10-10 22:47:25 +0000</string>
 	<key>Modifier</key>
 	<string>pivotal</string>
 	<key>NotesVisible</key>
@@ -49963,7 +49963,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{330, 595}, {20, 20}}</string>
+					<string>{{180, 595}, {20, 20}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -49996,7 +49996,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{370, 605}, {13.541666128569201, 10}}</string>
+							<string>{{220.7291669357154, 605}, {13.541666128569201, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -50026,7 +50026,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{355, 605}, {10, 10}}</string>
+							<string>{{205.7291669357154, 605}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -50061,7 +50061,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{355, 595}, {110, 20}}</string>
+									<string>{{203.75000000000023, 595}, {168.92857142857136, 20}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -50112,14 +50112,14 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 
 \f0\b\fs16 \cf2 Spring Cloud Services\
                    
-\f1\b0 v1.2.0+}</string>
+\f1\b0 \cf2 v1.2.0+}</string>
 										<key>VerticalPad</key>
 										<real>0.0</real>
 									</dict>
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{320, 585}, {280, 40}}</string>
+									<string>{{170.00000000000011, 585}, {429.99999999999977, 40}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -50465,7 +50465,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{330, 495}, {20, 20}}</string>
+					<string>{{30, 495}, {20, 20}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -50498,7 +50498,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{375, 505}, {13.541666128569201, 10}}</string>
+							<string>{{70, 505}, {13.541666128569201, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -50528,7 +50528,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{360, 505}, {10, 10}}</string>
+							<string>{{55, 505}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -50563,7 +50563,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{360, 495}, {110, 20}}</string>
+									<string>{{55.000000000000256, 495}, {329.99999999999994, 20}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -50614,14 +50614,14 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 
 \f0\b\fs16 \cf2 Spring Cloud Services\
                    
-\f1\b0 v1.0.9+}</string>
+\f1\b0 \cf2 v1.0.9+}</string>
 										<key>VerticalPad</key>
 										<real>0.0</real>
 									</dict>
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{320, 485}, {130, 40}}</string>
+									<string>{{19.999999999999972, 485}, {430, 40}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -53624,7 +53624,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 			<string>Canvas 1</string>
 		</array>
 		<key>Frame</key>
-		<string>{{51, 0}, {2080, 1417}}</string>
+		<string>{{932, 0}, {2080, 1417}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>Sidebar</key>
