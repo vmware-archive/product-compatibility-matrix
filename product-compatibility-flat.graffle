@@ -23746,7 +23746,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2016-12-07 19:35:33 +0000</string>
+	<string>2016-12-07 22:12:26 +0000</string>
 	<key>Modifier</key>
 	<string>Paul Spinrad</string>
 	<key>NotesVisible</key>
@@ -23846,6 +23846,126 @@
 			<key>GraphicsList</key>
 			<array>
 				<dict>
+					<key>Bounds</key>
+					<string>{{15, 235}, {595, 20}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>b</key>
+							<string>0.337255</string>
+							<key>g</key>
+							<string>0.301961</string>
+							<key>r</key>
+							<string>0.243137</string>
+						</dict>
+						<key>Font</key>
+						<string>SourceSansPro-Regular</string>
+						<key>Size</key>
+						<real>6</real>
+					</dict>
+					<key>ID</key>
+					<integer>1155</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Align</key>
+						<integer>0</integer>
+						<key>Pad</key>
+						<real>2</real>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 SourceSansPro-Regular;}
+{\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs12 \cf2 *PCF Services are supported but not necessarily verified on versions of OpenStack and vSphere certified for OpsManager; see specific service documentation for details.\
+OpsManager and Elastic Runtime 1.5.x through 1.8.x are certified on Mirantis OpenStack versions I (IceHouse) and J (Juno). PCF 1.8.x  has run on OpenStack versions H through M, from Canonical, EMC, Mirantis, Red Hat, and SUSE.\
+}</string>
+						<key>VerticalPad</key>
+						<real>2</real>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{255, 205}, {45, 20}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>b</key>
+							<string>0.337255</string>
+							<key>g</key>
+							<string>0.301961</string>
+							<key>r</key>
+							<string>0.243137</string>
+						</dict>
+						<key>Font</key>
+						<string>SourceSansPro-Regular</string>
+						<key>Size</key>
+						<real>6</real>
+					</dict>
+					<key>ID</key>
+					<integer>1153</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Align</key>
+						<integer>0</integer>
+						<key>Pad</key>
+						<real>2</real>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 SourceSansPro-Regular;}
+{\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs12 \cf2 6.0, 5.5, or 5.1*}</string>
+						<key>VerticalPad</key>
+						<real>2</real>
+					</dict>
+				</dict>
+				<dict>
 					<key>Class</key>
 					<string>LineGraphic</string>
 					<key>FontInfo</key>
@@ -23859,8 +23979,8 @@
 					<integer>1148</integer>
 					<key>Points</key>
 					<array>
-						<string>{530.00106934808059, 720}</string>
-						<string>{530, 745}</string>
+						<string>{530.00106934808059, 750}</string>
+						<string>{530, 775}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -23895,7 +24015,7 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{540, 695}, {245, 20}}</string>
+					<string>{{540, 725}, {245, 20}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -23966,9 +24086,9 @@ deploying.)}</string>
 					<integer>1142</integer>
 					<key>Points</key>
 					<array>
-						<string>{390.00106934808059, 620}</string>
-						<string>{390, 682.5}</string>
-						<string>{390, 695}</string>
+						<string>{390.00106934808059, 650}</string>
+						<string>{390, 712.5}</string>
+						<string>{390, 725}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -24003,7 +24123,7 @@ deploying.)}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{15, 795}, {260, 25}}</string>
+					<string>{{15, 830}, {260, 25}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -24074,8 +24194,8 @@ deploying.)}</string>
 					<integer>1139</integer>
 					<key>Points</key>
 					<array>
-						<string>{534.00106934808059, 970}</string>
-						<string>{534, 995}</string>
+						<string>{534.00106934808059, 1005}</string>
+						<string>{534, 1030}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -24122,8 +24242,8 @@ deploying.)}</string>
 					<integer>1143</integer>
 					<key>Points</key>
 					<array>
-						<string>{390.00106934808059, 920}</string>
-						<string>{390, 945}</string>
+						<string>{390.00106934808059, 955}</string>
+						<string>{390, 980}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -24158,7 +24278,7 @@ deploying.)}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{475, 995}, {20, 20}}</string>
+					<string>{{475, 1030}, {20, 20}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -24186,7 +24306,7 @@ deploying.)}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{330, 945}, {20, 20}}</string>
+					<string>{{330, 980}, {20, 20}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -24219,7 +24339,7 @@ deploying.)}</string>
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{530, 1005}, {10, 10}}</string>
+							<string>{{530, 1040}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -24259,7 +24379,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{515, 1005}, {13.541666128569201, 10}}</string>
+							<string>{{515, 1040}, {13.541666128569201, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -24289,7 +24409,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{500, 1005}, {10, 10}}</string>
+							<string>{{500, 1040}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -24324,7 +24444,7 @@ deploying.)}</string>
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{500, 995}, {240, 20}}</string>
+									<string>{{500, 1030}, {240, 20}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -24374,7 +24494,7 @@ deploying.)}</string>
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 JMX Bridge 
-\f1\b0 v.1.8.0+\
+\f1\b0 \cf2 v.1.8.0+\
                           }</string>
 										<key>VerticalPad</key>
 										<real>0.0</real>
@@ -24382,7 +24502,7 @@ deploying.)}</string>
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{470, 985}, {130, 40}}</string>
+									<string>{{470, 1020}, {130, 40}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -24434,7 +24554,7 @@ deploying.)}</string>
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{385, 955}, {10, 10}}</string>
+							<string>{{385, 990}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -24474,7 +24594,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{370, 955}, {13.541666128569201, 10}}</string>
+							<string>{{370, 990}, {13.541666128569201, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -24504,7 +24624,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{355, 955}, {10, 10}}</string>
+							<string>{{355, 990}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -24539,7 +24659,7 @@ deploying.)}</string>
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{355, 950}, {240, 20}}</string>
+									<string>{{355, 985}, {240, 20}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -24589,7 +24709,7 @@ deploying.)}</string>
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 JMX Bridge 
-\f1\b0 v1.7.0+ (Pivotal recommends upgrading to JMX Bridge \
+\f1\b0 \cf2 v1.7.0+ (Pivotal recommends upgrading to JMX Bridge \
                                            v1.8.0+ on OpsManager v1.8.0+)\
                             }</string>
 										<key>VerticalPad</key>
@@ -24598,7 +24718,7 @@ deploying.)}</string>
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{320, 935}, {280, 40}}</string>
+									<string>{{320, 970}, {280, 40}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -24657,8 +24777,8 @@ deploying.)}</string>
 					<integer>1121</integer>
 					<key>Points</key>
 					<array>
-						<string>{234.50106934808059, 870}</string>
-						<string>{234.5, 895}</string>
+						<string>{234.50106934808059, 905}</string>
+						<string>{234.5, 930}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -24698,7 +24818,7 @@ deploying.)}</string>
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{530, 757.5}, {10, 10}}</string>
+							<string>{{530, 787.5}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -24738,7 +24858,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{515, 757.5}, {13.541666128569201, 10}}</string>
+							<string>{{515, 787.5}, {13.541666128569201, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -24768,7 +24888,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{500, 757.5}, {10, 10}}</string>
+							<string>{{500, 787.5}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -24798,7 +24918,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{500, 742.5}, {245, 20}}</string>
+							<string>{{500, 772.5}, {245, 20}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -24848,14 +24968,14 @@ deploying.)}</string>
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Elastic Runtime 
-\f1\b0 v1.8.0+}</string>
+\f1\b0 \cf2 v1.8.0+}</string>
 								<key>VerticalPad</key>
 								<real>0.0</real>
 							</dict>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{475, 747.5}, {20, 20}}</string>
+							<string>{{475, 777.5}, {20, 20}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -24885,7 +25005,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{470, 737.5}, {130, 40}}</string>
+							<string>{{470, 767.5}, {130, 40}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -24940,8 +25060,8 @@ deploying.)}</string>
 					<integer>1111</integer>
 					<key>Points</key>
 					<array>
-						<string>{384.50106934808059, 670}</string>
-						<string>{384.5, 695}</string>
+						<string>{384.50106934808059, 700}</string>
+						<string>{384.5, 725}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -24976,7 +25096,7 @@ deploying.)}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{380, 707.5}, {10, 10}}</string>
+					<string>{{380, 737.5}, {10, 10}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -25016,7 +25136,7 @@ deploying.)}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{365, 707.5}, {13.541666128569201, 10}}</string>
+					<string>{{365, 737.5}, {13.541666128569201, 10}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -25046,7 +25166,7 @@ deploying.)}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{350, 707.5}, {10, 10}}</string>
+					<string>{{350, 737.5}, {10, 10}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -25076,7 +25196,7 @@ deploying.)}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{350, 702.5}, {245, 20}}</string>
+					<string>{{350, 732.5}, {245, 20}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -25126,7 +25246,7 @@ deploying.)}</string>
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Elastic Runtime 
-\f1\b0 v1.7.14+\
+\f1\b0 \cf2 v1.7.14+\
                            \
 }</string>
 						<key>VerticalPad</key>
@@ -25135,7 +25255,7 @@ deploying.)}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{325, 697.5}, {20, 20}}</string>
+					<string>{{325, 727.5}, {20, 20}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -25165,7 +25285,7 @@ deploying.)}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{320, 687.5}, {215, 40}}</string>
+					<string>{{320, 717.5}, {215, 40}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -25214,8 +25334,8 @@ deploying.)}</string>
 					<integer>1104</integer>
 					<key>Points</key>
 					<array>
-						<string>{384.50106934808059, 620}</string>
-						<string>{384.5, 645}</string>
+						<string>{384.50106934808059, 650}</string>
+						<string>{384.5, 675}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -25250,7 +25370,7 @@ deploying.)}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{380, 657.5}, {10, 10}}</string>
+					<string>{{380, 687.5}, {10, 10}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -25290,7 +25410,7 @@ deploying.)}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{365, 657.5}, {13.541666128569201, 10}}</string>
+					<string>{{365, 687.5}, {13.541666128569201, 10}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -25320,7 +25440,7 @@ deploying.)}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{350, 657.5}, {10, 10}}</string>
+					<string>{{350, 687.5}, {10, 10}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -25350,7 +25470,7 @@ deploying.)}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{350, 652.5}, {245, 20}}</string>
+					<string>{{350, 682.5}, {245, 20}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -25401,7 +25521,7 @@ deploying.)}</string>
 
 \f0\b\fs16 \cf2 Elastic Runtime \
                            
-\f1\b0 v1.7.0 through \
+\f1\b0 \cf2 v1.7.0 through \
                             v1.7.13\
 }</string>
 						<key>VerticalPad</key>
@@ -25410,7 +25530,7 @@ deploying.)}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{325, 647.5}, {20, 20}}</string>
+					<string>{{325, 677.5}, {20, 20}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -25440,7 +25560,7 @@ deploying.)}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{320, 637.5}, {130, 40}}</string>
+					<string>{{320, 667.5}, {130, 40}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -25489,8 +25609,8 @@ deploying.)}</string>
 					<integer>1097</integer>
 					<key>Points</key>
 					<array>
-						<string>{294.00106934808059, 515}</string>
-						<string>{294, 595}</string>
+						<string>{294.00106934808059, 545}</string>
+						<string>{294, 625}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -25537,8 +25657,8 @@ deploying.)}</string>
 					<integer>1096</integer>
 					<key>Points</key>
 					<array>
-						<string>{234.00106934808059, 570}</string>
-						<string>{234, 595}</string>
+						<string>{234.00106934808059, 600}</string>
+						<string>{234, 625}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -25585,8 +25705,8 @@ deploying.)}</string>
 					<integer>1095</integer>
 					<key>Points</key>
 					<array>
-						<string>{234.00106934808059, 515}</string>
-						<string>{234, 540}</string>
+						<string>{234.00106934808059, 545}</string>
+						<string>{234, 570}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -25633,8 +25753,8 @@ deploying.)}</string>
 					<integer>1094</integer>
 					<key>Points</key>
 					<array>
-						<string>{89.001069348080591, 470}</string>
-						<string>{89, 495}</string>
+						<string>{89.001069348080591, 500}</string>
+						<string>{89, 525}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -25681,8 +25801,8 @@ deploying.)}</string>
 					<integer>1093</integer>
 					<key>Points</key>
 					<array>
-						<string>{445, 255}</string>
-						<string>{475, 255}</string>
+						<string>{445, 280}</string>
+						<string>{475, 280}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -25727,7 +25847,7 @@ deploying.)}</string>
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{470, 285}, {30, 30}}</string>
+									<string>{{470, 310}, {30, 30}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -25755,7 +25875,7 @@ deploying.)}</string>
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{501.25, 285}, {67.5, 30}}</string>
+									<string>{{501.25, 310}, {67.5, 30}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -25795,7 +25915,7 @@ deploying.)}</string>
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{570, 285}, {30, 30}}</string>
+									<string>{{570, 310}, {30, 30}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -25836,7 +25956,7 @@ deploying.)}</string>
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{475, 245}, {120, 20}}</string>
+									<string>{{475, 270}, {120, 20}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -25908,8 +26028,8 @@ deploying.)}</string>
 									<integer>1091</integer>
 									<key>Points</key>
 									<array>
-										<string>{465.00000000000045, 264}</string>
-										<string>{604.99999999999989, 264}</string>
+										<string>{465.00000000000045, 289}</string>
+										<string>{604.99999999999989, 289}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -25947,7 +26067,7 @@ deploying.)}</string>
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{465, 245}, {140, 95}}</string>
+									<string>{{465, 270}, {140, 95}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -26071,8 +26191,8 @@ deploying.)}</string>
 					<integer>1083</integer>
 					<key>Points</key>
 					<array>
-						<string>{295, 255}</string>
-						<string>{325, 255}</string>
+						<string>{295, 280}</string>
+						<string>{325, 280}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -26164,7 +26284,7 @@ deploying.)}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{180, 895}, {20, 20}}</string>
+					<string>{{180, 930}, {20, 20}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -26197,7 +26317,7 @@ deploying.)}</string>
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{235, 905}, {10, 10}}</string>
+							<string>{{235, 940}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -26237,7 +26357,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{220, 905}, {13.541666128569201, 10}}</string>
+							<string>{{220, 940}, {13.541666128569201, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -26267,7 +26387,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{205, 905}, {10, 10}}</string>
+							<string>{{205, 940}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -26302,7 +26422,7 @@ deploying.)}</string>
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{205, 895}, {240, 20}}</string>
+									<string>{{205, 930}, {240, 20}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -26352,16 +26472,16 @@ deploying.)}</string>
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 OpsMetrics 
-\f1\b0 v1.6.0 through v1.6.10+\
+\f1\b0 \cf2 v1.6.0 through v1.6.10+\
                             
-\f0\b AKA JMX Bridge}</string>
+\f0\b \cf2 AKA JMX Bridge}</string>
 										<key>VerticalPad</key>
 										<real>0.0</real>
 									</dict>
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{170, 885}, {280, 40}}</string>
+									<string>{{170, 920}, {280, 40}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -26408,7 +26528,7 @@ deploying.)}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{315, 1050}, {140, 0.125}}</string>
+					<string>{{315, 1085}, {140, 0.125}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -26441,7 +26561,7 @@ deploying.)}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{15, 350}, {260, 25}}</string>
+					<string>{{15, 380}, {260, 25}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -26505,7 +26625,7 @@ deploying.)}</string>
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{230, 607.5}, {10, 10}}</string>
+							<string>{{230, 637.5}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -26545,7 +26665,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{215, 607.5}, {13.541666128569201, 10}}</string>
+							<string>{{215, 637.5}, {13.541666128569201, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -26575,7 +26695,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{200, 607.5}, {10, 10}}</string>
+							<string>{{200, 637.5}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -26605,7 +26725,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{200, 597.5}, {245, 20}}</string>
+							<string>{{200, 627.5}, {245, 20}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -26655,7 +26775,7 @@ deploying.)}</string>
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Elastic Runtime 
-\f1\b0 v1.6.9+\
+\f1\b0 \cf2 v1.6.9+\
 }</string>
 								<key>VerticalPad</key>
 								<real>0.0</real>
@@ -26663,7 +26783,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{175, 597.5}, {20, 20}}</string>
+							<string>{{175, 627.5}, {20, 20}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -26693,7 +26813,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{170, 587.5}, {280, 40}}</string>
+							<string>{{170, 617.5}, {280, 40}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -26736,7 +26856,7 @@ deploying.)}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{30, 845}, {20, 20}}</string>
+					<string>{{30, 880}, {20, 20}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -26769,7 +26889,7 @@ deploying.)}</string>
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{85, 855}, {10, 10}}</string>
+							<string>{{85, 890}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -26809,7 +26929,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{70, 855}, {13.541666128569201, 10}}</string>
+							<string>{{70, 890}, {13.541666128569201, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -26839,7 +26959,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{55, 855}, {10, 10}}</string>
+							<string>{{55, 890}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -26874,7 +26994,7 @@ deploying.)}</string>
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{52.790697674418425, 845}, {257.20930232558135, 20}}</string>
+									<string>{{52.790697674418425, 880}, {257.20930232558135, 20}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -26924,7 +27044,7 @@ deploying.)}</string>
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 OpsMetrics 
-\f1\b0 v1.4.0 through v1.5.2\
+\f1\b0 \cf2 v1.4.0 through v1.5.2\
 }</string>
 										<key>VerticalPad</key>
 										<real>0.0</real>
@@ -26932,7 +27052,7 @@ deploying.)}</string>
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{20.000000000000028, 835}, {279.99999999999994, 40}}</string>
+									<string>{{20.000000000000028, 870}, {279.99999999999994, 40}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -26979,7 +27099,7 @@ deploying.)}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{465, 829.10000000000048}, {140, 200.89999999999995}}</string>
+					<string>{{465, 864.10000000000048}, {140, 200.89999999999995}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -27012,7 +27132,7 @@ deploying.)}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{315, 829.10000000000048}, {140, 200.89999999999995}}</string>
+					<string>{{315, 864.10000000000048}, {140, 200.89999999999995}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -27045,7 +27165,7 @@ deploying.)}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{165, 825}, {140, 205}}</string>
+					<string>{{165, 860}, {140, 205}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -27078,7 +27198,7 @@ deploying.)}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{15, 825}, {140, 205}}</string>
+					<string>{{15, 860}, {140, 205}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -27121,7 +27241,7 @@ deploying.)}</string>
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{320, 285}, {30, 30}}</string>
+									<string>{{320, 310}, {30, 30}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -27149,7 +27269,7 @@ deploying.)}</string>
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{351.25, 285}, {67.5, 30}}</string>
+									<string>{{351.25, 310}, {67.5, 30}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -27189,7 +27309,7 @@ deploying.)}</string>
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{420, 285}, {30, 30}}</string>
+									<string>{{420, 310}, {30, 30}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -27230,7 +27350,7 @@ deploying.)}</string>
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{325, 245}, {120, 20}}</string>
+									<string>{{325, 270}, {120, 20}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -27302,8 +27422,8 @@ deploying.)}</string>
 									<integer>199</integer>
 									<key>Points</key>
 									<array>
-										<string>{315.00000000000045, 264}</string>
-										<string>{454.99999999999989, 264}</string>
+										<string>{315.00000000000045, 289}</string>
+										<string>{454.99999999999989, 289}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -27341,7 +27461,7 @@ deploying.)}</string>
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{315, 245}, {140, 95}}</string>
+									<string>{{315, 270}, {140, 95}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -27465,8 +27585,8 @@ deploying.)}</string>
 					<integer>181</integer>
 					<key>Points</key>
 					<array>
-						<string>{89.001069348080591, 420}</string>
-						<string>{89, 445}</string>
+						<string>{89.001069348080591, 450}</string>
+						<string>{89, 475}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -27506,7 +27626,7 @@ deploying.)}</string>
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{230, 555}, {10, 10}}</string>
+							<string>{{230, 585}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -27546,7 +27666,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{215, 555}, {13.541666128569201, 10}}</string>
+							<string>{{215, 585}, {13.541666128569201, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -27576,7 +27696,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{200, 555}, {10, 10}}</string>
+							<string>{{200, 585}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -27606,7 +27726,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{200, 545}, {95, 20}}</string>
+							<string>{{200, 575}, {95, 20}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -27656,8 +27776,9 @@ deploying.)}</string>
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Elastic Runtime \
+\pard\pardeftab720\partightenfactor0
 
-\f1\b0                            v1.6.0 through\
+\f1\b0 \cf2                            v1.6.0 through\
                            v1.6.8}</string>
 								<key>VerticalPad</key>
 								<real>0.0</real>
@@ -27665,7 +27786,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{175, 545}, {20, 20}}</string>
+							<string>{{175, 575}, {20, 20}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -27695,7 +27816,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{170, 535}, {130, 40}}</string>
+							<string>{{170, 565}, {130, 40}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -27743,7 +27864,7 @@ deploying.)}</string>
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{85, 507.5}, {10, 10}}</string>
+							<string>{{85, 537.5}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -27783,7 +27904,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{70, 507.5}, {13.541666128569201, 10}}</string>
+							<string>{{70, 537.5}, {13.541666128569201, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -27813,7 +27934,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{55, 507.5}, {10, 10}}</string>
+							<string>{{55, 537.5}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -27843,7 +27964,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{55, 497.5}, {245, 20}}</string>
+							<string>{{55, 527.5}, {245, 20}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -27893,7 +28014,7 @@ deploying.)}</string>
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Elastic Runtime 
-\f1\b0 v1.5.0 through v1.5.7\
+\f1\b0 \cf2 v1.5.0 through v1.5.7\
 }</string>
 								<key>VerticalPad</key>
 								<real>0.0</real>
@@ -27901,7 +28022,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{30, 497.5}, {20, 20}}</string>
+							<string>{{30, 527.5}, {20, 20}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -27931,7 +28052,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{20, 487.5}, {280, 40}}</string>
+							<string>{{20, 517.5}, {280, 40}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -27979,7 +28100,7 @@ deploying.)}</string>
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{85, 455}, {10, 10}}</string>
+							<string>{{85, 485}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -28019,7 +28140,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{70, 455}, {13.541666128569201, 10}}</string>
+							<string>{{70, 485}, {13.541666128569201, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -28049,7 +28170,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{55, 455}, {10, 10}}</string>
+							<string>{{55, 485}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -28079,7 +28200,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{55, 445}, {395, 20}}</string>
+							<string>{{55, 475}, {395, 20}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -28129,7 +28250,7 @@ deploying.)}</string>
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Elastic Runtime 
-\f1\b0 v1.4.1 through v1.4.5\
+\f1\b0 \cf2 v1.4.1 through v1.4.5\
 }</string>
 								<key>VerticalPad</key>
 								<real>0.0</real>
@@ -28137,7 +28258,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{30, 445}, {20, 20}}</string>
+							<string>{{30, 475}, {20, 20}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -28167,7 +28288,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{20, 435}, {280, 40}}</string>
+							<string>{{20, 465}, {280, 40}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -28215,7 +28336,7 @@ deploying.)}</string>
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{85, 405}, {10, 10}}</string>
+							<string>{{85, 435}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -28255,7 +28376,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{70, 405}, {13.541666128569201, 10}}</string>
+							<string>{{70, 435}, {13.541666128569201, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -28285,7 +28406,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{55, 405}, {10, 10}}</string>
+							<string>{{55, 435}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -28315,7 +28436,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{55, 395}, {540, 20}}</string>
+							<string>{{55, 425}, {540, 20}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -28365,7 +28486,7 @@ deploying.)}</string>
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Elastic Runtime 
-\f1\b0 v1.4.0\
+\f1\b0 \cf2 v1.4.0\
 }</string>
 								<key>VerticalPad</key>
 								<real>0.0</real>
@@ -28373,7 +28494,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{30, 395}, {20, 20}}</string>
+							<string>{{30, 425}, {20, 20}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -28403,7 +28524,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{20, 385}, {280, 40}}</string>
+							<string>{{20, 415}, {280, 40}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -28446,7 +28567,7 @@ deploying.)}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{465, 380}, {140, 400}}</string>
+					<string>{{465, 410}, {140, 400}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -28479,7 +28600,7 @@ deploying.)}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{315, 380}, {140, 400}}</string>
+					<string>{{315, 410}, {140, 400}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -28512,7 +28633,7 @@ deploying.)}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{165, 380}, {140, 400}}</string>
+					<string>{{165, 410}, {140, 400}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -28545,7 +28666,7 @@ deploying.)}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{15, 380}, {140, 400}}</string>
+					<string>{{15, 410}, {140, 400}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -28583,7 +28704,7 @@ deploying.)}</string>
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{25, 280}, {30, 30}}</string>
+							<string>{{25, 305}, {30, 30}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -28611,7 +28732,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{56.25, 280}, {67.5, 30}}</string>
+							<string>{{56.25, 305}, {67.5, 30}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -28651,7 +28772,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{125, 280}, {30, 30}}</string>
+							<string>{{125, 305}, {30, 30}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -28699,8 +28820,8 @@ deploying.)}</string>
 					<integer>94</integer>
 					<key>Points</key>
 					<array>
-						<string>{145, 255}</string>
-						<string>{175, 255}</string>
+						<string>{145, 280}</string>
+						<string>{175, 280}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -28747,7 +28868,7 @@ deploying.)}</string>
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{25, 245}, {120, 20}}</string>
+							<string>{{25, 270}, {120, 20}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -28819,8 +28940,8 @@ deploying.)}</string>
 							<integer>87</integer>
 							<key>Points</key>
 							<array>
-								<string>{15.000000000000455, 264}</string>
-								<string>{154.99999999999989, 264}</string>
+								<string>{15.000000000000455, 289}</string>
+								<string>{154.99999999999989, 289}</string>
 							</array>
 							<key>Style</key>
 							<dict>
@@ -28858,7 +28979,7 @@ deploying.)}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{15, 245}, {140, 95}}</string>
+							<string>{{15, 270}, {140, 95}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -29067,7 +29188,7 @@ deploying.)}</string>
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
-\f0\fs16 \cf2 Runs on OpenStack}</string>
+\f0\fs16 \cf2 Runs on OpenStack*}</string>
 							</dict>
 						</dict>
 						<dict>
@@ -29711,7 +29832,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{170, 285}, {30, 30}}</string>
+									<string>{{170, 310}, {30, 30}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -29739,7 +29860,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{201.25, 285}, {67.5, 30}}</string>
+									<string>{{201.25, 310}, {67.5, 30}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -29779,7 +29900,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{270, 285}, {30, 30}}</string>
+									<string>{{270, 310}, {30, 30}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -29820,7 +29941,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{175, 245}, {120, 20}}</string>
+									<string>{{175, 270}, {120, 20}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -29892,8 +30013,8 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 									<integer>190</integer>
 									<key>Points</key>
 									<array>
-										<string>{165.00000000000045, 264}</string>
-										<string>{304.99999999999983, 264.00000000000006}</string>
+										<string>{165.00000000000045, 289}</string>
+										<string>{304.99999999999983, 289.00000000000006}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -29931,7 +30052,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{165, 245}, {140, 95}}</string>
+									<string>{{165, 270}, {140, 95}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -52188,11 +52309,11 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>4</integer>
+		<integer>0</integer>
 		<key>Expanded_Canvases</key>
 		<array/>
 		<key>Frame</key>
-		<string>{{80, 80}, {2480, 1337}}</string>
+		<string>{{81, 80}, {2480, 1337}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>Sidebar</key>
@@ -52202,7 +52323,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 		<key>TopSlabHeight</key>
 		<real>655</real>
 		<key>VisibleRegion</key>
-		<string>{{-343, 89.333333333333329}, {1311.3333333333335, 818.66666666666663}}</string>
+		<string>{{-263, 0}, {1311.3333333333333, 818.66666666666663}}</string>
 		<key>Zoom</key>
 		<real>1.5</real>
 		<key>ZoomValues</key>
