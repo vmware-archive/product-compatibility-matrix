@@ -5,7 +5,7 @@
 	<key>ApplicationVersion</key>
 	<array>
 		<string>com.omnigroup.OmniGraffle6</string>
-		<string>169.5.0.253125</string>
+		<string>169.20.0.267128</string>
 	</array>
 	<key>CreationDate</key>
 	<string>2016-03-22 16:45:13 +0000</string>
@@ -23746,9 +23746,9 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2016-11-18 23:14:29 +0000</string>
+	<string>2016-12-07 19:35:33 +0000</string>
 	<key>Modifier</key>
-	<string>pivotal</string>
+	<string>Paul Spinrad</string>
 	<key>NotesVisible</key>
 	<string>NO</string>
 	<key>OriginVisible</key>
@@ -30066,6 +30066,8 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<string>Layer 1</string>
 					<key>Print</key>
 					<string>YES</string>
+					<key>Slices</key>
+					<string>NO</string>
 					<key>View</key>
 					<string>YES</string>
 				</dict>
@@ -30090,7 +30092,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 			<key>Orientation</key>
 			<integer>2</integer>
 			<key>PrintOnePage</key>
-			<false/>
+			<true/>
 			<key>RowAlign</key>
 			<integer>1</integer>
 			<key>RowSpacing</key>
@@ -36261,6 +36263,8 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<string>Layer 1</string>
 					<key>Print</key>
 					<string>YES</string>
+					<key>Slices</key>
+					<string>NO</string>
 					<key>View</key>
 					<string>YES</string>
 				</dict>
@@ -36285,7 +36289,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 			<key>Orientation</key>
 			<integer>2</integer>
 			<key>PrintOnePage</key>
-			<false/>
+			<true/>
 			<key>RowAlign</key>
 			<integer>1</integer>
 			<key>RowSpacing</key>
@@ -42207,6 +42211,8 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<string>Layer 1</string>
 					<key>Print</key>
 					<string>YES</string>
+					<key>Slices</key>
+					<string>NO</string>
 					<key>View</key>
 					<string>YES</string>
 				</dict>
@@ -42231,7 +42237,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 			<key>Orientation</key>
 			<integer>2</integer>
 			<key>PrintOnePage</key>
-			<false/>
+			<true/>
 			<key>RowAlign</key>
 			<integer>1</integer>
 			<key>RowSpacing</key>
@@ -47907,6 +47913,8 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<string>Layer 1</string>
 					<key>Print</key>
 					<string>YES</string>
+					<key>Slices</key>
+					<string>NO</string>
 					<key>View</key>
 					<string>YES</string>
 				</dict>
@@ -47931,7 +47939,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 			<key>Orientation</key>
 			<integer>2</integer>
 			<key>PrintOnePage</key>
-			<false/>
+			<true/>
 			<key>RowAlign</key>
 			<integer>1</integer>
 			<key>RowSpacing</key>
@@ -52132,6 +52140,8 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<string>Layer 1</string>
 					<key>Print</key>
 					<string>YES</string>
+					<key>Slices</key>
+					<string>NO</string>
 					<key>View</key>
 					<string>YES</string>
 				</dict>
@@ -52156,7 +52166,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 			<key>Orientation</key>
 			<integer>2</integer>
 			<key>PrintOnePage</key>
-			<false/>
+			<true/>
 			<key>RowAlign</key>
 			<integer>1</integer>
 			<key>RowSpacing</key>
@@ -52178,13 +52188,11 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>3</integer>
+		<integer>4</integer>
 		<key>Expanded_Canvases</key>
-		<array>
-			<string>Canvas 1</string>
-		</array>
+		<array/>
 		<key>Frame</key>
-		<string>{{80, -0}, {2480, 1417}}</string>
+		<string>{{80, 80}, {2480, 1337}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>Sidebar</key>
@@ -52194,7 +52202,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 		<key>TopSlabHeight</key>
 		<real>655</real>
 		<key>VisibleRegion</key>
-		<string>{{-205, 252.66666666666666}, {1311.3333333333333, 872.00000000000011}}</string>
+		<string>{{-343, 89.333333333333329}, {1311.3333333333335, 818.66666666666663}}</string>
 		<key>Zoom</key>
 		<real>1.5</real>
 		<key>ZoomValues</key>
