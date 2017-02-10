@@ -5,7 +5,7 @@
 	<key>ApplicationVersion</key>
 	<array>
 		<string>com.omnigroup.OmniGraffle6</string>
-		<string>169.5.0.253125</string>
+		<string>169.23.0.276662</string>
 	</array>
 	<key>CreationDate</key>
 	<string>2016-03-22 16:45:13 +0000</string>
@@ -24433,9 +24433,9 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2017-01-13 18:57:27 +0000</string>
+	<string>2017-02-09 23:51:11 +0000</string>
 	<key>Modifier</key>
-	<string>pivotal</string>
+	<string>Paul Spinrad</string>
 	<key>NotesVisible</key>
 	<string>NO</string>
 	<key>OriginVisible</key>
@@ -26875,7 +26875,7 @@ deploying.)}</string>
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Elastic Runtime 
-\f1\b0 \cf2 v1.7.14+\
+\f1\b0 v1.7.20+\
                            \
 }</string>
 						<key>VerticalPad</key>
@@ -27150,8 +27150,8 @@ deploying.)}</string>
 
 \f0\b\fs16 \cf2 Elastic Runtime \
                            
-\f1\b0 \cf2 v1.7.0 through \
-                            v1.7.13\
+\f1\b0 v1.7.0 through \
+                            v1.7.19\
 }</string>
 						<key>VerticalPad</key>
 						<real>0.0</real>
@@ -31654,6 +31654,8 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<string>Layer 1</string>
 					<key>Print</key>
 					<string>YES</string>
+					<key>Slices</key>
+					<string>NO</string>
 					<key>View</key>
 					<string>YES</string>
 				</dict>
@@ -38150,6 +38152,8 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<string>Layer 1</string>
 					<key>Print</key>
 					<string>YES</string>
+					<key>Slices</key>
+					<string>NO</string>
 					<key>View</key>
 					<string>YES</string>
 				</dict>
@@ -44371,6 +44375,8 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<string>Layer 1</string>
 					<key>Print</key>
 					<string>YES</string>
+					<key>Slices</key>
+					<string>NO</string>
 					<key>View</key>
 					<string>YES</string>
 				</dict>
@@ -50748,6 +50754,8 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<string>Layer 1</string>
 					<key>Print</key>
 					<string>YES</string>
+					<key>Slices</key>
+					<string>NO</string>
 					<key>View</key>
 					<string>YES</string>
 				</dict>
@@ -55909,6 +55917,8 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<string>Layer 1</string>
 					<key>Print</key>
 					<string>YES</string>
+					<key>Slices</key>
+					<string>NO</string>
 					<key>View</key>
 					<string>YES</string>
 				</dict>
@@ -55955,11 +55965,11 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>1</integer>
+		<integer>0</integer>
 		<key>Expanded_Canvases</key>
 		<array/>
 		<key>Frame</key>
-		<string>{{493, 0}, {2081, 1417}}</string>
+		<string>{{245, 1226}, {1440, 812}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>Sidebar</key>
@@ -55969,7 +55979,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 		<key>TopSlabHeight</key>
 		<real>655</real>
 		<key>VisibleRegion</key>
-		<string>{{-209, 244.66666666666666}, {1045.3333333333335, 872.00000000000011}}</string>
+		<string>{{-1, 422}, {618, 458.66666666666663}}</string>
 		<key>Zoom</key>
 		<real>1.5</real>
 		<key>ZoomValues</key>
