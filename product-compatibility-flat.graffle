@@ -24688,7 +24688,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2017-03-15 21:35:06 +0000</string>
+	<string>2017-03-15 22:17:48 +0000</string>
 	<key>Modifier</key>
 	<string>pivotal</string>
 	<key>NotesVisible</key>
@@ -34542,7 +34542,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{140, 590}, {345, 40}}</string>
+					<string>{{140, 590}, {465, 40}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -69902,11 +69902,11 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>5</integer>
+		<integer>1</integer>
 		<key>Expanded_Canvases</key>
 		<array/>
 		<key>Frame</key>
-		<string>{{196, 235}, {1920, 1182}}</string>
+		<string>{{53, 0}, {1387, 877}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>Sidebar</key>
@@ -69916,7 +69916,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 		<key>TopSlabHeight</key>
 		<real>384</real>
 		<key>VisibleRegion</key>
-		<string>{{-156, 316.66666666666669}, {938, 715.33333333333326}}</string>
+		<string>{{32, 278.66666666666669}, {592.66666666666663, 511.99999999999994}}</string>
 		<key>Zoom</key>
 		<real>1.5</real>
 		<key>ZoomValues</key>
