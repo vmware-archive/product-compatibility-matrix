@@ -24688,9 +24688,9 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2017-03-20 21:08:13 +0000</string>
+	<string>2017-03-27 17:55:57 +0000</string>
 	<key>Modifier</key>
-	<string>pivotal</string>
+	<string>Pivotal</string>
 	<key>NotesVisible</key>
 	<string>NO</string>
 	<key>OriginVisible</key>
@@ -28824,7 +28824,7 @@ OpsManager and Elastic Runtime 1.5.x through 1.8.x are certified on Mirantis Ope
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{180, 205}, {45, 20}}</string>
+					<string>{{175, 205}, {55, 15}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -28841,7 +28841,7 @@ OpsManager and Elastic Runtime 1.5.x through 1.8.x are certified on Mirantis Ope
 						<key>Font</key>
 						<string>SourceSansPro-Regular</string>
 						<key>Size</key>
-						<real>6</real>
+						<real>7</real>
 					</dict>
 					<key>ID</key>
 					<integer>1153</integer>
@@ -28870,13 +28870,14 @@ OpsManager and Elastic Runtime 1.5.x through 1.8.x are certified on Mirantis Ope
 						<key>Pad</key>
 						<real>2</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
 {\fonttbl\f0\fnil\fcharset0 SourceSansPro-Regular;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
+{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
-\f0\fs12 \cf2 6.0, 5.5, or 5.1*}</string>
+\f0\fs12 \cf2 6.5, 6.0, 5.5, or 5.1*}</string>
 						<key>VerticalPad</key>
 						<real>2</real>
 					</dict>
@@ -69902,11 +69903,11 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>4</integer>
+		<integer>0</integer>
 		<key>Expanded_Canvases</key>
 		<array/>
 		<key>Frame</key>
-		<string>{{113, 540}, {1387, 877}}</string>
+		<string>{{254, 68}, {1387, 877}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>Sidebar</key>
@@ -69916,15 +69917,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 		<key>TopSlabHeight</key>
 		<real>384</real>
 		<key>VisibleRegion</key>
-		<string>{{150, 332}, {582.66666666666663, 502}}</string>
+		<string>{{152.66666666666666, 169}, {291.33333333333337, 255}}</string>
 		<key>Zoom</key>
-		<real>1.5</real>
+		<real>3</real>
 		<key>ZoomValues</key>
 		<array>
 			<array>
 				<string>Canvas 1</string>
+				<real>3</real>
 				<real>1.5</real>
-				<real>0.6600000262260437</real>
 			</array>
 			<array>
 				<string>Canvas 2</string>
