@@ -24688,7 +24688,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2017-04-11 17:47:51 +0000</string>
+	<string>2017-04-13 16:29:14 +0000</string>
 	<key>Modifier</key>
 	<string>Landon Jarzynski</string>
 	<key>NotesVisible</key>
@@ -56995,6 +56995,58 @@ deploying.)}</string>
 								<integer>0</integer>
 								<key>Pad</key>
 								<real>0.0</real>
+								<key>RTFD</key>
+								<data>
+								BAtzdHJlYW10
+								eXBlZIHoA4QB
+								QISEhBJOU0F0
+								dHJpYnV0ZWRT
+								dHJpbmcAhIQI
+								TlNPYmplY3QA
+								hZKEhIQITlNT
+								dHJpbmcBlIQB
+								Kw5SZWRpcyB2
+								MS43LjIrCoaE
+								AmlJAQaShISE
+								DE5TRGljdGlv
+								bmFyeQCUhAFp
+								A5KElpYHTlND
+								b2xvcoaShISE
+								B05TQ29sb3IA
+								lIQBYwGEBGZm
+								ZmaDfPLwPYN8
+								8vA9g3zy8D0B
+								hpKElpYQTlNQ
+								YXJhZ3JhcGhT
+								dHlsZYaShISE
+								F05TTXV0YWJs
+								ZVBhcmFncmFw
+								aFN0eWxlAISE
+								EE5TUGFyYWdy
+								YXBoU3R5bGUA
+								lIQEQ0NAUwAA
+								hISEB05TQXJy
+								YXkAlJkAhoEA
+								AoQEWzFmXSSG
+								koSWlgZOU0Zv
+								bnSGkoSEhAZO
+								U0ZvbnQelJko
+								hAVbNDBjXQYA
+								AAAeAAAA//5I
+								AGUAbAB2AGUA
+								dABpAGMAYQAt
+								AEIAbwBsAGQA
+								AACEAWYImwCb
+								AZsAmwCGhpcC
+								CJKEmJkDkpmS
+								mpKckp2SopKE
+								pJkchAVbMjhj
+								XQYAAAAUAAAA
+								//5IAGUAbAB2
+								AGUAdABpAGMA
+								YQCkCJsAmwGb
+								AJsAhoaG
+								</data>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
@@ -57004,7 +57056,7 @@ deploying.)}</string>
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Redis 
-\b0 v1.7.3+\
+\b0 v1.7.2+\
 }</string>
 								<key>VerticalPad</key>
 								<real>0.0</real>
@@ -57297,6 +57349,59 @@ deploying.)}</string>
 								<integer>0</integer>
 								<key>Pad</key>
 								<real>0.0</real>
+								<key>RTFD</key>
+								<data>
+								BAtzdHJlYW10
+								eXBlZIHoA4QB
+								QISEhBJOU0F0
+								dHJpYnV0ZWRT
+								dHJpbmcAhIQI
+								TlNPYmplY3QA
+								hZKEhIQITlNT
+								dHJpbmcBlIQB
+								KxhSZWRpcyB2
+								MS43LjAgYW5k
+								IHYxLjcuMQqG
+								hAJpSQEGkoSE
+								hAxOU0RpY3Rp
+								b25hcnkAlIQB
+								aQOShJaWB05T
+								Q29sb3KGkoSE
+								hAdOU0NvbG9y
+								AJSEAWMBhARm
+								ZmZmg3zy8D2D
+								fPLwPYN88vA9
+								AYaShJaWEE5T
+								UGFyYWdyYXBo
+								U3R5bGWGkoSE
+								hBdOU011dGFi
+								bGVQYXJhZ3Jh
+								cGhTdHlsZQCE
+								hBBOU1BhcmFn
+								cmFwaFN0eWxl
+								AJSEBENDQFMA
+								AISEhAdOU0Fy
+								cmF5AJSZAIaB
+								AAKEBFsxZl0k
+								hpKElpYGTlNG
+								b250hpKEhIQG
+								TlNGb250HpSZ
+								KIQFWzQwY10G
+								AAAAHgAAAP/+
+								SABlAGwAdgBl
+								AHQAaQBjAGEA
+								LQBCAG8AbABk
+								AAAAhAFmCJsA
+								mwGbAJsAhoaX
+								AhKShJiZA5KZ
+								kpqSnJKdkqKS
+								hKSZHIQFWzI4
+								Y10GAAAAFAAA
+								AP/+SABlAGwA
+								dgBlAHQAaQBj
+								AGEApAibAJsB
+								mwCbAIaGhg==
+								</data>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
@@ -57306,7 +57411,7 @@ deploying.)}</string>
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Redis 
-\b0 v1.7.0 thru v1.7.2\
+\b0 v1.7.0 and v1.7.1\
 }</string>
 								<key>VerticalPad</key>
 								<real>0.0</real>
@@ -63666,7 +63771,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{260, 720}, {224.9999999999996, 39.999999999999979}}</string>
+					<string>{{260, 720}, {345, 39.999999999999979}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
