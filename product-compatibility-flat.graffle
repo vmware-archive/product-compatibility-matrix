@@ -4,15 +4,15 @@
 <dict>
 	<key>ApplicationVersion</key>
 	<array>
-		<string>com.omnigroup.OmniGraffle7</string>
-		<string>179.19.0.296447</string>
+		<string>com.omnigroup.OmniGraffle6</string>
+		<string>169.23.0.276662</string>
 	</array>
 	<key>Creator</key>
 	<string>Molly Crowther</string>
 	<key>FileType</key>
 	<string>flat</string>
 	<key>GraphDocumentVersion</key>
-	<integer>14</integer>
+	<integer>12</integer>
 	<key>GuidesLocked</key>
 	<string>NO</string>
 	<key>GuidesVisible</key>
@@ -23865,11 +23865,9 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2017-09-28 10:09:13 am +0000</string>
+	<string>2017-09-28 15:15:25 +0000</string>
 	<key>Modifier</key>
-	<string>Gigi Hanna</string>
-	<key>MovementHandleVisible</key>
-	<string>NO</string>
+	<string>Paul Spinrad</string>
 	<key>NotesVisible</key>
 	<string>NO</string>
 	<key>OriginVisible</key>
@@ -23893,15 +23891,10 @@
 			<string>float</string>
 			<string>18</string>
 		</array>
-		<key>NSPaperName</key>
-		<array>
-			<string>string</string>
-			<string>na-letter</string>
-		</array>
 		<key>NSPaperSize</key>
 		<array>
 			<string>size</string>
-			<string>{612, 792}</string>
+			<string>{611.99998760223389, 792}</string>
 		</array>
 		<key>NSPrintReverseOrientation</key>
 		<array>
@@ -23927,15 +23920,13 @@
 			<key>ActiveLayerIndex</key>
 			<integer>0</integer>
 			<key>AutoAdjust</key>
-			<integer>0</integer>
-			<key>AutosizingMargin</key>
-			<integer>25</integer>
+			<false/>
 			<key>BackgroundGraphic</key>
 			<dict>
 				<key>Bounds</key>
 				<string>{{0, 0}, {625, 1125}}</string>
 				<key>Class</key>
-				<string>GraffleShapes.CanvasBackgroundGraphic</string>
+				<string>SolidGraphic</string>
 				<key>ID</key>
 				<integer>2</integer>
 				<key>Style</key>
@@ -23954,11 +23945,6 @@
 							<string>srgb</string>
 						</dict>
 					</dict>
-					<key>shadow</key>
-					<dict>
-						<key>Draws</key>
-						<string>NO</string>
-					</dict>
 					<key>stroke</key>
 					<dict>
 						<key>Draws</key>
@@ -23968,14 +23954,10 @@
 			</dict>
 			<key>BaseZoom</key>
 			<integer>0</integer>
-			<key>CanvasDimensionsOrigin</key>
-			<string>{0, 0}</string>
 			<key>CanvasOrigin</key>
 			<string>{0, 0}</string>
 			<key>CanvasSize</key>
 			<string>{625, 1125}</string>
-			<key>CanvasSizingMode</key>
-			<integer>0</integer>
 			<key>ColumnAlign</key>
 			<integer>2</integer>
 			<key>ColumnSpacing</key>
@@ -24003,11 +23985,6 @@
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -24058,11 +24035,6 @@
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -24113,11 +24085,6 @@
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -24350,10 +24317,9 @@
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -24632,10 +24598,9 @@ Windows
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -24737,11 +24702,6 @@ Windows
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -24797,11 +24757,6 @@ Windows
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -25097,10 +25052,9 @@ Windows
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -25209,11 +25163,6 @@ Segment
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -25451,10 +25400,9 @@ Segment
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -25539,24 +25487,6 @@ Segment
 					<integer>37</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -25577,11 +25507,6 @@ Segment
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -25721,24 +25646,6 @@ Segment
 					<integer>45</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -25843,10 +25750,9 @@ Segment
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
@@ -25881,11 +25787,6 @@ Segment
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -26027,24 +25928,6 @@ Segment
 					</array>
 					<key>ID</key>
 					<integer>51</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -26105,11 +25988,6 @@ Segment
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -26165,11 +26043,6 @@ Segment
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -26246,10 +26119,9 @@ Segment
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -26459,10 +26331,9 @@ Segment
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -26774,10 +26645,9 @@ Windows
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -26832,24 +26702,6 @@ Windows
 					<integer>70</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -27185,10 +27037,9 @@ Windows
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -27472,10 +27323,9 @@ Segment
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -27530,24 +27380,6 @@ Segment
 					<integer>90</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -27860,10 +27692,9 @@ Segment
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -27948,24 +27779,6 @@ Segment
 					<integer>101</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -28098,11 +27911,6 @@ Segment
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -28153,11 +27961,6 @@ Segment
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -28297,24 +28100,6 @@ Segment
 					<integer>114</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -28480,24 +28265,6 @@ Segment
 					<integer>120</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -28663,24 +28430,6 @@ Segment
 					<integer>126</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -28785,10 +28534,9 @@ Segment
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
@@ -28823,11 +28571,6 @@ Segment
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -28969,24 +28712,6 @@ Segment
 					</array>
 					<key>ID</key>
 					<integer>132</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -29033,10 +28758,9 @@ Segment
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -29196,10 +28920,9 @@ and OpsManager simultaneously.)}</string>
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -29283,24 +29006,6 @@ and OpsManager simultaneously.)}</string>
 					<integer>137</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -29452,10 +29157,9 @@ and OpsManager simultaneously.)}</string>
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -29540,24 +29244,6 @@ and OpsManager simultaneously.)}</string>
 					<integer>144</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -29606,10 +29292,9 @@ and OpsManager simultaneously.)}</string>
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
@@ -29644,11 +29329,6 @@ and OpsManager simultaneously.)}</string>
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -29790,24 +29470,6 @@ and OpsManager simultaneously.)}</string>
 					</array>
 					<key>ID</key>
 					<integer>151</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -29856,10 +29518,9 @@ and OpsManager simultaneously.)}</string>
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
@@ -29894,11 +29555,6 @@ and OpsManager simultaneously.)}</string>
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -30040,24 +29696,6 @@ and OpsManager simultaneously.)}</string>
 					</array>
 					<key>ID</key>
 					<integer>155</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -30105,10 +29743,9 @@ and OpsManager simultaneously.)}</string>
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -30189,10 +29826,9 @@ and OpsManager simultaneously.)}</string>
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -30275,10 +29911,9 @@ and OpsManager simultaneously.)}</string>
 						<key>Pad</key>
 						<real>2</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -30337,10 +29972,9 @@ OpsManager and Elastic Runtime 1.5.x through 1.8.x are certified on Mirantis Ope
 						<key>Pad</key>
 						<real>2</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -30395,10 +30029,9 @@ OpsManager and Elastic Runtime 1.5.x through 1.8.x are certified on Mirantis Ope
 						<key>Pad</key>
 						<real>20</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
 \deftab720
 \pard\pardeftab720\qr\partightenfactor0
 
@@ -30453,10 +30086,9 @@ OpsManager and Elastic Runtime 1.5.x through 1.8.x are certified on Mirantis Ope
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -30491,11 +30123,6 @@ OpsManager and Elastic Runtime 1.5.x through 1.8.x are certified on Mirantis Ope
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -30573,10 +30200,9 @@ OpsManager and Elastic Runtime 1.5.x through 1.8.x are certified on Mirantis Ope
 								<key>Align</key>
 								<integer>0</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -30629,10 +30255,9 @@ OpsManager and Elastic Runtime 1.5.x through 1.8.x are certified on Mirantis Ope
 								<key>Align</key>
 								<integer>0</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -30685,10 +30310,9 @@ OpsManager and Elastic Runtime 1.5.x through 1.8.x are certified on Mirantis Ope
 								<key>Align</key>
 								<integer>0</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -30741,10 +30365,9 @@ OpsManager and Elastic Runtime 1.5.x through 1.8.x are certified on Mirantis Ope
 								<key>Align</key>
 								<integer>0</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -30854,24 +30477,6 @@ OpsManager and Elastic Runtime 1.5.x through 1.8.x are certified on Mirantis Ope
 					<integer>167</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -30897,11 +30502,6 @@ OpsManager and Elastic Runtime 1.5.x through 1.8.x are certified on Mirantis Ope
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -30950,11 +30550,6 @@ OpsManager and Elastic Runtime 1.5.x through 1.8.x are certified on Mirantis Ope
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -31008,24 +30603,6 @@ OpsManager and Elastic Runtime 1.5.x through 1.8.x are certified on Mirantis Ope
 					</array>
 					<key>ID</key>
 					<integer>176</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -31073,10 +30650,9 @@ OpsManager and Elastic Runtime 1.5.x through 1.8.x are certified on Mirantis Ope
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -31133,10 +30709,9 @@ Last updated on: &lt;%ModificationDate%&gt;}</string>
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -31191,10 +30766,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -31394,16 +30968,16 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 			<key>Layers</key>
 			<array>
 				<dict>
-					<key>Artboards</key>
-					<false/>
 					<key>Lock</key>
-					<false/>
+					<string>NO</string>
 					<key>Name</key>
 					<string>Layer 1</string>
 					<key>Print</key>
-					<true/>
+					<string>YES</string>
+					<key>Slices</key>
+					<string>NO</string>
 					<key>View</key>
-					<true/>
+					<string>YES</string>
 				</dict>
 			</array>
 			<key>LayoutInfo</key>
@@ -31437,22 +31011,18 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 			<integer>1</integer>
 			<key>VPages</key>
 			<integer>2</integer>
-			<key>VisibleVoidKey</key>
-			<real>1</real>
 		</dict>
 		<dict>
 			<key>ActiveLayerIndex</key>
 			<integer>0</integer>
 			<key>AutoAdjust</key>
-			<integer>0</integer>
-			<key>AutosizingMargin</key>
-			<integer>25</integer>
+			<false/>
 			<key>BackgroundGraphic</key>
 			<dict>
 				<key>Bounds</key>
 				<string>{{0, 0}, {625, 1125}}</string>
 				<key>Class</key>
-				<string>GraffleShapes.CanvasBackgroundGraphic</string>
+				<string>SolidGraphic</string>
 				<key>ID</key>
 				<integer>2</integer>
 				<key>Style</key>
@@ -31471,11 +31041,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							<string>srgb</string>
 						</dict>
 					</dict>
-					<key>shadow</key>
-					<dict>
-						<key>Draws</key>
-						<string>NO</string>
-					</dict>
 					<key>stroke</key>
 					<dict>
 						<key>Draws</key>
@@ -31485,14 +31050,10 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 			</dict>
 			<key>BaseZoom</key>
 			<integer>0</integer>
-			<key>CanvasDimensionsOrigin</key>
-			<string>{0, 0}</string>
 			<key>CanvasOrigin</key>
 			<string>{0, 0}</string>
 			<key>CanvasSize</key>
 			<string>{625, 1125}</string>
-			<key>CanvasSizingMode</key>
-			<integer>0</integer>
 			<key>ColumnAlign</key>
 			<integer>1</integer>
 			<key>ColumnSpacing</key>
@@ -31520,11 +31081,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -31757,10 +31313,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -31858,11 +31413,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -31913,11 +31463,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -32188,10 +31733,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 										<key>Pad</key>
 										<real>0.0</real>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -32244,48 +31788,12 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							</array>
 							<key>ID</key>
 							<integer>21</integer>
-							<key>Style</key>
-							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>shadow</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>stroke</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-							</dict>
 						</dict>
 					</array>
 					<key>ID</key>
 					<integer>17</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -32462,11 +31970,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -32517,11 +32020,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -32572,11 +32070,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -32842,10 +32335,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -32900,24 +32392,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>32</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -32938,11 +32412,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -33208,10 +32677,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -33266,24 +32734,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>45</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -33304,11 +32754,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -33534,24 +32979,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>52</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -33603,10 +33030,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -33659,24 +33085,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>ID</key>
 					<integer>59</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -33837,11 +33245,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -33981,24 +33384,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>67</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -34103,10 +33488,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
@@ -34141,11 +33525,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -34287,24 +33666,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>ID</key>
 					<integer>73</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -34640,10 +34001,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -34698,24 +34058,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>80</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -34736,11 +34078,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -34791,11 +34128,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -34846,11 +34178,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -35200,10 +34527,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -35258,24 +34584,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>98</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -35324,11 +34632,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -35405,10 +34708,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -35657,10 +34959,9 @@ and OpsManager simultaneously.)}</string>
 										<key>Pad</key>
 										<real>0.0</real>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -35713,48 +35014,12 @@ and OpsManager simultaneously.)}</string>
 							</array>
 							<key>ID</key>
 							<integer>114</integer>
-							<key>Style</key>
-							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>shadow</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>stroke</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-							</dict>
 						</dict>
 					</array>
 					<key>ID</key>
 					<integer>110</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -35775,11 +35040,6 @@ and OpsManager simultaneously.)}</string>
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -35830,11 +35090,6 @@ and OpsManager simultaneously.)}</string>
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -35974,24 +35229,6 @@ and OpsManager simultaneously.)}</string>
 					<integer>119</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -36157,24 +35394,6 @@ and OpsManager simultaneously.)}</string>
 					<integer>125</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -36340,24 +35559,6 @@ and OpsManager simultaneously.)}</string>
 					<integer>131</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -36462,10 +35663,9 @@ and OpsManager simultaneously.)}</string>
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
@@ -36500,11 +35700,6 @@ and OpsManager simultaneously.)}</string>
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -36646,24 +35841,6 @@ and OpsManager simultaneously.)}</string>
 					</array>
 					<key>ID</key>
 					<integer>137</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -36712,10 +35889,9 @@ and OpsManager simultaneously.)}</string>
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
@@ -36750,11 +35926,6 @@ and OpsManager simultaneously.)}</string>
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -36896,24 +36067,6 @@ and OpsManager simultaneously.)}</string>
 					</array>
 					<key>ID</key>
 					<integer>141</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -36962,10 +36115,9 @@ and OpsManager simultaneously.)}</string>
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
@@ -37000,11 +36152,6 @@ and OpsManager simultaneously.)}</string>
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -37146,24 +36293,6 @@ and OpsManager simultaneously.)}</string>
 					</array>
 					<key>ID</key>
 					<integer>145</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -37210,10 +36339,9 @@ and OpsManager simultaneously.)}</string>
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -37582,10 +36710,9 @@ and OpsManager simultaneously.)}</string>
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -37638,24 +36765,6 @@ and OpsManager simultaneously.)}</string>
 					</array>
 					<key>ID</key>
 					<integer>160</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -37767,11 +36876,6 @@ and OpsManager simultaneously.)}</string>
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -38004,10 +37108,9 @@ and OpsManager simultaneously.)}</string>
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -38259,10 +37362,9 @@ and OpsManager simultaneously.)}</string>
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -38331,11 +37433,6 @@ and OpsManager simultaneously.)}</string>
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -38413,10 +37510,9 @@ and OpsManager simultaneously.)}</string>
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -38473,10 +37569,9 @@ and OpsManager simultaneously.)}</string>
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -38557,10 +37652,9 @@ and OpsManager simultaneously.)}</string>
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -38619,11 +37713,6 @@ and OpsManager simultaneously.)}</string>
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -38701,10 +37790,9 @@ and OpsManager simultaneously.)}</string>
 								<key>Align</key>
 								<integer>0</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -38757,10 +37845,9 @@ and OpsManager simultaneously.)}</string>
 								<key>Align</key>
 								<integer>0</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -38813,10 +37900,9 @@ and OpsManager simultaneously.)}</string>
 								<key>Align</key>
 								<integer>0</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -38869,10 +37955,9 @@ and OpsManager simultaneously.)}</string>
 								<key>Align</key>
 								<integer>0</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -38982,24 +38067,6 @@ and OpsManager simultaneously.)}</string>
 					<integer>187</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -39025,11 +38092,6 @@ and OpsManager simultaneously.)}</string>
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -39078,11 +38140,6 @@ and OpsManager simultaneously.)}</string>
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -39136,24 +38193,6 @@ and OpsManager simultaneously.)}</string>
 					</array>
 					<key>ID</key>
 					<integer>196</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -39201,10 +38240,9 @@ and OpsManager simultaneously.)}</string>
 						<key>Pad</key>
 						<real>20</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
 \deftab720
 \pard\pardeftab720\qr\partightenfactor0
 
@@ -39363,10 +38401,9 @@ and OpsManager simultaneously.)}</string>
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -39421,24 +38458,6 @@ and OpsManager simultaneously.)}</string>
 					<integer>201</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -39490,10 +38509,9 @@ and OpsManager simultaneously.)}</string>
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -39546,24 +38564,6 @@ and OpsManager simultaneously.)}</string>
 					</array>
 					<key>ID</key>
 					<integer>207</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -39611,10 +38611,9 @@ and OpsManager simultaneously.)}</string>
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -39671,10 +38670,9 @@ Last updated on: &lt;%ModificationDate%&gt;}</string>
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -39729,10 +38727,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -40267,16 +39264,16 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 			<key>Layers</key>
 			<array>
 				<dict>
-					<key>Artboards</key>
-					<false/>
 					<key>Lock</key>
-					<false/>
+					<string>NO</string>
 					<key>Name</key>
 					<string>Layer 1</string>
 					<key>Print</key>
-					<true/>
+					<string>YES</string>
+					<key>Slices</key>
+					<string>NO</string>
 					<key>View</key>
-					<true/>
+					<string>YES</string>
 				</dict>
 			</array>
 			<key>LayoutInfo</key>
@@ -40310,22 +39307,18 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 			<integer>3</integer>
 			<key>VPages</key>
 			<integer>2</integer>
-			<key>VisibleVoidKey</key>
-			<real>1</real>
 		</dict>
 		<dict>
 			<key>ActiveLayerIndex</key>
 			<integer>0</integer>
 			<key>AutoAdjust</key>
-			<integer>0</integer>
-			<key>AutosizingMargin</key>
-			<integer>25</integer>
+			<false/>
 			<key>BackgroundGraphic</key>
 			<dict>
 				<key>Bounds</key>
 				<string>{{0, 0}, {625, 1125}}</string>
 				<key>Class</key>
-				<string>GraffleShapes.CanvasBackgroundGraphic</string>
+				<string>SolidGraphic</string>
 				<key>ID</key>
 				<integer>2</integer>
 				<key>Style</key>
@@ -40344,11 +39337,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							<string>srgb</string>
 						</dict>
 					</dict>
-					<key>shadow</key>
-					<dict>
-						<key>Draws</key>
-						<string>NO</string>
-					</dict>
 					<key>stroke</key>
 					<dict>
 						<key>Draws</key>
@@ -40358,14 +39346,10 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 			</dict>
 			<key>BaseZoom</key>
 			<integer>0</integer>
-			<key>CanvasDimensionsOrigin</key>
-			<string>{0, 0}</string>
 			<key>CanvasOrigin</key>
 			<string>{0, 0}</string>
 			<key>CanvasSize</key>
 			<string>{625, 1125}</string>
-			<key>CanvasSizingMode</key>
-			<integer>0</integer>
 			<key>ColumnAlign</key>
 			<integer>1</integer>
 			<key>ColumnSpacing</key>
@@ -40393,11 +39377,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -40448,11 +39427,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -40713,10 +39687,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -41000,10 +39973,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -41058,24 +40030,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>13</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -41096,11 +40050,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -41151,11 +40100,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -41206,11 +40150,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -41261,11 +40200,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -41536,10 +40470,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 										<key>Pad</key>
 										<real>0.0</real>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -41592,48 +40525,12 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							</array>
 							<key>ID</key>
 							<integer>33</integer>
-							<key>Style</key>
-							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>shadow</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>stroke</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-							</dict>
 						</dict>
 					</array>
 					<key>ID</key>
 					<integer>30</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -41654,11 +40551,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -41709,11 +40601,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -41764,11 +40651,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -42029,10 +40911,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -42316,10 +41197,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -42374,24 +41254,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>50</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -42627,10 +41489,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -42685,24 +41546,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>59</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -42723,11 +41566,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -42867,24 +41705,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>66</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -42989,10 +41809,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
@@ -43027,11 +41846,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -43173,24 +41987,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>ID</key>
 					<integer>72</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -43211,11 +42007,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -43266,11 +42057,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -43321,11 +42107,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -43376,11 +42157,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -43651,10 +42427,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 										<key>Pad</key>
 										<real>0.0</real>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -43707,48 +42482,12 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							</array>
 							<key>ID</key>
 							<integer>87</integer>
-							<key>Style</key>
-							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>shadow</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>stroke</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-							</dict>
 						</dict>
 					</array>
 					<key>ID</key>
 					<integer>84</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -43989,10 +42728,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 										<key>Pad</key>
 										<real>0.0</real>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -44045,48 +42783,12 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							</array>
 							<key>ID</key>
 							<integer>97</integer>
-							<key>Style</key>
-							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>shadow</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>stroke</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-							</dict>
 						</dict>
 					</array>
 					<key>ID</key>
 					<integer>94</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -44282,11 +42984,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -44337,11 +43034,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -44481,24 +43173,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>107</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -44664,24 +43338,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>113</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -44847,24 +43503,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>119</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -44969,10 +43607,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
@@ -45007,11 +43644,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -45153,24 +43785,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>ID</key>
 					<integer>125</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -45219,10 +43833,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
@@ -45257,11 +43870,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -45403,24 +44011,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>ID</key>
 					<integer>129</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -45469,10 +44059,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
@@ -45507,11 +44096,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -45653,24 +44237,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>ID</key>
 					<integer>133</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -45831,11 +44397,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -46017,10 +44578,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -46075,24 +44635,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>143</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -46272,10 +44814,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -46330,24 +44871,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>150</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -46395,10 +44918,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -46479,10 +45001,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -46541,11 +45062,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -46623,10 +45139,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Align</key>
 								<integer>0</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -46679,10 +45194,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Align</key>
 								<integer>0</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -46735,10 +45249,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Align</key>
 								<integer>0</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -46791,10 +45304,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Align</key>
 								<integer>0</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -46904,24 +45416,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>160</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -46947,11 +45441,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -47000,11 +45489,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -47058,24 +45542,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>ID</key>
 					<integer>169</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -47123,10 +45589,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						<key>Pad</key>
 						<real>20</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
 \deftab720
 \pard\pardeftab720\qr\partightenfactor0
 
@@ -47181,10 +45646,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -47241,10 +45705,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -47301,10 +45764,9 @@ Last updated on: &lt;%ModificationDate%&gt;}</string>
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -47359,10 +45821,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -47602,16 +46063,16 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 			<key>Layers</key>
 			<array>
 				<dict>
-					<key>Artboards</key>
-					<false/>
 					<key>Lock</key>
-					<false/>
+					<string>NO</string>
 					<key>Name</key>
 					<string>Layer 1</string>
 					<key>Print</key>
-					<true/>
+					<string>YES</string>
+					<key>Slices</key>
+					<string>NO</string>
 					<key>View</key>
-					<true/>
+					<string>YES</string>
 				</dict>
 			</array>
 			<key>LayoutInfo</key>
@@ -47645,22 +46106,18 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 			<integer>2</integer>
 			<key>VPages</key>
 			<integer>2</integer>
-			<key>VisibleVoidKey</key>
-			<real>1</real>
 		</dict>
 		<dict>
 			<key>ActiveLayerIndex</key>
 			<integer>0</integer>
 			<key>AutoAdjust</key>
-			<integer>0</integer>
-			<key>AutosizingMargin</key>
-			<integer>25</integer>
+			<false/>
 			<key>BackgroundGraphic</key>
 			<dict>
 				<key>Bounds</key>
 				<string>{{0, 0}, {625, 1125}}</string>
 				<key>Class</key>
-				<string>GraffleShapes.CanvasBackgroundGraphic</string>
+				<string>SolidGraphic</string>
 				<key>ID</key>
 				<integer>2</integer>
 				<key>Style</key>
@@ -47679,11 +46136,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							<string>srgb</string>
 						</dict>
 					</dict>
-					<key>shadow</key>
-					<dict>
-						<key>Draws</key>
-						<string>NO</string>
-					</dict>
 					<key>stroke</key>
 					<dict>
 						<key>Draws</key>
@@ -47693,14 +46145,10 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 			</dict>
 			<key>BaseZoom</key>
 			<integer>0</integer>
-			<key>CanvasDimensionsOrigin</key>
-			<string>{0, 0}</string>
 			<key>CanvasOrigin</key>
 			<string>{0, 0}</string>
 			<key>CanvasSize</key>
 			<string>{625, 1125}</string>
-			<key>CanvasSizingMode</key>
-			<integer>0</integer>
 			<key>ColumnAlign</key>
 			<integer>1</integer>
 			<key>ColumnSpacing</key>
@@ -47728,11 +46176,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -47783,11 +46226,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -47990,24 +46428,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							<integer>5</integer>
 							<key>Scaling</key>
 							<integer>-1</integer>
-							<key>Style</key>
-							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>shadow</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>stroke</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-							</dict>
 						</dict>
 						<dict>
 							<key>Bounds</key>
@@ -48082,10 +46502,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -48101,24 +46520,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>4</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -48237,10 +46638,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -48254,24 +46654,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>ID</key>
 					<integer>14</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -48439,24 +46821,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>17</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -48516,11 +46880,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -48578,11 +46937,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -48640,11 +46994,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -48910,10 +47259,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -48967,24 +47315,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>27</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -49220,10 +47550,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -49277,24 +47606,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>36</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -49315,11 +47626,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -49379,11 +47685,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -49655,10 +47956,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -49713,24 +48013,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>47</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -49966,10 +48248,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -50023,24 +48304,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>56</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -50061,11 +48324,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -50205,24 +48463,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>66</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -50327,10 +48567,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
@@ -50365,11 +48604,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -50511,24 +48745,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>ID</key>
 					<integer>72</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -50803,10 +49019,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -50860,24 +49075,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>77</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -50898,11 +49095,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -51109,11 +49301,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -51311,24 +49498,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>94</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -51349,11 +49518,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -51460,11 +49624,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -51515,11 +49674,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -51659,24 +49813,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>105</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -51842,24 +49978,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>111</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -52025,24 +50143,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>117</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -52147,10 +50247,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
@@ -52185,11 +50284,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -52331,24 +50425,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>ID</key>
 					<integer>123</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -52397,10 +50473,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
@@ -52435,11 +50510,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -52581,24 +50651,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>ID</key>
 					<integer>127</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -52647,10 +50699,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
@@ -52685,11 +50736,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -52831,24 +50877,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>ID</key>
 					<integer>131</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -52895,10 +50923,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -52995,11 +51022,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -53209,10 +51231,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -53228,24 +51249,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>140</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -53481,10 +51484,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -53539,24 +51541,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>148</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -53792,10 +51776,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -53850,24 +51833,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>157</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -53915,10 +51880,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -53999,10 +51963,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -54061,11 +52024,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -54143,10 +52101,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Align</key>
 								<integer>0</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -54199,10 +52156,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Align</key>
 								<integer>0</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -54255,10 +52211,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Align</key>
 								<integer>0</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -54311,10 +52266,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Align</key>
 								<integer>0</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -54424,24 +52378,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>167</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -54467,11 +52403,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -54520,11 +52451,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -54578,24 +52504,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>ID</key>
 					<integer>176</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -54643,10 +52551,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -54703,10 +52610,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						<key>Pad</key>
 						<real>20</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
 \deftab720
 \pard\pardeftab720\qr\partightenfactor0
 
@@ -54761,10 +52667,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -54821,10 +52726,9 @@ Last updated on: &lt;%ModificationDate%&gt;}</string>
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -54879,10 +52783,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -55301,16 +53204,16 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 			<key>Layers</key>
 			<array>
 				<dict>
-					<key>Artboards</key>
-					<false/>
 					<key>Lock</key>
-					<false/>
+					<string>NO</string>
 					<key>Name</key>
 					<string>Layer 1</string>
 					<key>Print</key>
-					<true/>
+					<string>YES</string>
+					<key>Slices</key>
+					<string>NO</string>
 					<key>View</key>
-					<true/>
+					<string>YES</string>
 				</dict>
 			</array>
 			<key>LayoutInfo</key>
@@ -55344,22 +53247,18 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 			<integer>5</integer>
 			<key>VPages</key>
 			<integer>2</integer>
-			<key>VisibleVoidKey</key>
-			<real>1</real>
 		</dict>
 		<dict>
 			<key>ActiveLayerIndex</key>
 			<integer>0</integer>
 			<key>AutoAdjust</key>
-			<integer>0</integer>
-			<key>AutosizingMargin</key>
-			<integer>25</integer>
+			<false/>
 			<key>BackgroundGraphic</key>
 			<dict>
 				<key>Bounds</key>
 				<string>{{0, 0}, {625, 1125}}</string>
 				<key>Class</key>
-				<string>GraffleShapes.CanvasBackgroundGraphic</string>
+				<string>SolidGraphic</string>
 				<key>ID</key>
 				<integer>2</integer>
 				<key>Style</key>
@@ -55378,11 +53277,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							<string>srgb</string>
 						</dict>
 					</dict>
-					<key>shadow</key>
-					<dict>
-						<key>Draws</key>
-						<string>NO</string>
-					</dict>
 					<key>stroke</key>
 					<dict>
 						<key>Draws</key>
@@ -55392,14 +53286,10 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 			</dict>
 			<key>BaseZoom</key>
 			<integer>0</integer>
-			<key>CanvasDimensionsOrigin</key>
-			<string>{0, 0}</string>
 			<key>CanvasOrigin</key>
 			<string>{0, 0}</string>
 			<key>CanvasSize</key>
 			<string>{625, 1125}</string>
-			<key>CanvasSizingMode</key>
-			<integer>0</integer>
 			<key>ColumnAlign</key>
 			<integer>1</integer>
 			<key>ColumnSpacing</key>
@@ -55427,121 +53317,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.56715000000000004</real>
-								<key>g</key>
-								<real>0.60053999999999996</real>
-								<key>r</key>
-								<real>0.0047153799999999999</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>HeadArrow</key>
-							<string>FilledArrow</string>
-							<key>HeadScale</key>
-							<real>0.5</real>
-							<key>Legacy</key>
-							<false/>
-							<key>TailArrow</key>
-							<string>FilledBall</string>
-							<key>TailScale</key>
-							<real>0.5</real>
-						</dict>
-					</dict>
-				</dict>
-				<dict>
-					<key>Class</key>
-					<string>LineGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Font</key>
-						<string>Helvetica</string>
-						<key>Size</key>
-						<real>12</real>
-					</dict>
-					<key>ID</key>
-					<integer>4</integer>
-					<key>Points</key>
-					<array>
-						<string>{394.50106934808059, 660}</string>
-						<string>{394.5, 685}</string>
-					</array>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.56715000000000004</real>
-								<key>g</key>
-								<real>0.60053999999999996</real>
-								<key>r</key>
-								<real>0.0047153799999999999</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>HeadArrow</key>
-							<string>FilledArrow</string>
-							<key>HeadScale</key>
-							<real>0.5</real>
-							<key>Legacy</key>
-							<false/>
-							<key>TailArrow</key>
-							<string>FilledBall</string>
-							<key>TailScale</key>
-							<real>0.5</real>
-						</dict>
-					</dict>
-				</dict>
-				<dict>
-					<key>Class</key>
-					<string>LineGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Font</key>
-						<string>Helvetica</string>
-						<key>Size</key>
-						<real>12</real>
-					</dict>
-					<key>ID</key>
-					<integer>5</integer>
-					<key>Points</key>
-					<array>
-						<string>{249.50106934808059, 710}</string>
-						<string>{249.5, 735}</string>
-					</array>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -55592,11 +53367,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -55635,7 +53405,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{290, 750.34482758620697}, {10, 10}}</string>
+							<string>{{403.37209302325579, 750.34482758620697}, {6.5116279069767451, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -55663,7 +53433,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{272.5, 750.34482758620697}, {10, 10}}</string>
+							<string>{{391.97674418604652, 750.34482758620697}, {6.5116279069767451, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -55691,7 +53461,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{255, 750.34482758620697}, {10, 10}}</string>
+							<string>{{380.58139534883719, 750.34482758620697}, {6.5116279069767451, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -55703,7 +53473,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							<key>Offset</key>
 							<string>{0.043062200956937788, 0.0047846889952153108}</string>
 							<key>Scale</key>
-							<real>0.10526315789473688</real>
+							<real>0.068543451652386816</real>
 							<key>ScaleY</key>
 							<real>0.10526315867900848</real>
 							<key>Scaling</key>
@@ -55731,7 +53501,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{190, 735.34482758620697}, {20, 20}}</string>
+							<string>{{338.25581395348837, 735.34482758620697}, {13.02325581395349, 20}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -55759,7 +53529,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{231.16648734033367, 750.17241379310349}, {13.658404629677555, 10.086206896551724}}</string>
+							<string>{{365.06189873324047, 750.17241379310349}, {8.8938448751388748, 10.086206896551724}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -55789,7 +53559,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{216.03717699550606, 750.17241379310349}, {10.086206896551724, 10.086206896551724}}</string>
+							<string>{{355.21025478777142, 750.17241379310349}, {6.5677626303127514, 10.086206896551724}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -55819,7 +53589,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{217.66099322133829, 730.08620689655174}, {168.92857142857136, 20.172413793103448}}</string>
+							<string>{{356.2676234929645, 730.08620689655174}, {109.99999999999996, 20.172413793103448}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -55862,10 +53632,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -55877,7 +53646,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{185, 725}, {430, 40.344827586206897}}</string>
+							<string>{{335, 725}, {280, 40.344827586206897}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -55919,24 +53688,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>7</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -56172,10 +53923,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -56229,24 +53979,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>16</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -56255,7 +53987,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{290, 650.34482758620697}, {10, 10}}</string>
+							<string>{{140, 650.34482758620697}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -56283,7 +54015,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{272.5, 650.34482758620697}, {10, 10}}</string>
+							<string>{{122.5, 650.34482758620697}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -56311,7 +54043,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{255, 650.34482758620697}, {10, 10}}</string>
+							<string>{{105, 650.34482758620697}, {10, 10}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -56351,7 +54083,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{190, 635.34482758620697}, {20, 20}}</string>
+							<string>{{40, 635.34482758620697}, {20, 20}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -56379,7 +54111,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{231.16648734033367, 650.17241379310349}, {13.658404629677555, 10.086206896551724}}</string>
+							<string>{{81.166487340333674, 650.17241379310349}, {13.658404629677555, 10.086206896551724}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -56409,7 +54141,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{216.03717699550606, 650.17241379310349}, {10.086206896551724, 10.086206896551724}}</string>
+							<string>{{66.037176995506059, 650.17241379310349}, {10.086206896551724, 10.086206896551724}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -56439,7 +54171,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{217.66099322133829, 630.08620689655174}, {168.92857142857136, 20.172413793103448}}</string>
+							<string>{{67.660993221338288, 630.08620689655174}, {168.92857142857136, 20.172413793103448}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -56482,10 +54214,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -56497,7 +54228,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{185, 625}, {280, 40.344827586206897}}</string>
+							<string>{{35, 625}, {280, 40.344827586206897}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -56539,24 +54270,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>25</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -56722,11 +54435,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -56777,11 +54485,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -56832,11 +54535,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -56887,11 +54585,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -57031,24 +54724,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>42</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -57153,10 +54828,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
@@ -57191,11 +54865,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -57337,24 +55006,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>ID</key>
 					<integer>48</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -57375,11 +55026,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -57430,11 +55076,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -57695,10 +55336,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -57767,11 +55407,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -57822,11 +55457,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -57966,24 +55596,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>64</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -58149,24 +55761,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>70</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -58332,24 +55926,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<integer>76</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -58454,10 +56030,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
@@ -58492,11 +56067,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -58638,24 +56208,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>ID</key>
 					<integer>82</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -58704,10 +56256,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
@@ -58742,11 +56293,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -58888,24 +56434,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>ID</key>
 					<integer>86</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -58954,10 +56482,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
@@ -58992,11 +56519,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -59138,24 +56660,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>ID</key>
 					<integer>90</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -59176,11 +56680,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -59286,10 +56785,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -59529,10 +57027,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -59765,11 +57262,6 @@ v1.3.0+}</string>
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>shadow</key>
 						<dict>
 							<key>Draws</key>
@@ -59944,10 +57436,9 @@ v1.3.0+}</string>
 										<key>Pad</key>
 										<real>0.0</real>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -60000,48 +57491,12 @@ v1.3.0+}</string>
 							</array>
 							<key>ID</key>
 							<integer>115</integer>
-							<key>Style</key>
-							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>shadow</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>stroke</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-							</dict>
 						</dict>
 					</array>
 					<key>ID</key>
 					<integer>112</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -60186,10 +57641,9 @@ v1.3.0+}</string>
 										<key>Pad</key>
 										<real>0.0</real>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -60241,48 +57695,12 @@ v1.3.0+}</string>
 							</array>
 							<key>ID</key>
 							<integer>122</integer>
-							<key>Style</key>
-							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>shadow</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>stroke</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-							</dict>
 						</dict>
 					</array>
 					<key>ID</key>
 					<integer>119</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -60330,10 +57748,9 @@ v1.3.0+}</string>
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -60414,10 +57831,9 @@ v1.3.0+}</string>
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -60476,11 +57892,6 @@ v1.3.0+}</string>
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -60558,10 +57969,9 @@ v1.3.0+}</string>
 								<key>Align</key>
 								<integer>0</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -60614,10 +58024,9 @@ v1.3.0+}</string>
 								<key>Align</key>
 								<integer>0</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -60670,10 +58079,9 @@ v1.3.0+}</string>
 								<key>Align</key>
 								<integer>0</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -60726,10 +58134,9 @@ v1.3.0+}</string>
 								<key>Align</key>
 								<integer>0</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -60839,24 +58246,6 @@ v1.3.0+}</string>
 					<integer>129</integer>
 					<key>Scaling</key>
 					<integer>-1</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Class</key>
@@ -60882,11 +58271,6 @@ v1.3.0+}</string>
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -60935,11 +58319,6 @@ v1.3.0+}</string>
 							</array>
 							<key>Style</key>
 							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
 								<key>shadow</key>
 								<dict>
 									<key>Draws</key>
@@ -60993,24 +58372,6 @@ v1.3.0+}</string>
 					</array>
 					<key>ID</key>
 					<integer>138</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -61058,10 +58419,9 @@ v1.3.0+}</string>
 						<key>Pad</key>
 						<real>20</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
 \deftab720
 \pard\pardeftab720\qr\partightenfactor0
 
@@ -61116,10 +58476,9 @@ v1.3.0+}</string>
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -61176,10 +58535,9 @@ Last updated on: &lt;%ModificationDate%&gt;}</string>
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -61234,10 +58592,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
-{\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
@@ -61477,16 +58834,16 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 			<key>Layers</key>
 			<array>
 				<dict>
-					<key>Artboards</key>
-					<false/>
 					<key>Lock</key>
-					<false/>
+					<string>NO</string>
 					<key>Name</key>
 					<string>Layer 1</string>
 					<key>Print</key>
-					<true/>
+					<string>YES</string>
+					<key>Slices</key>
+					<string>NO</string>
 					<key>View</key>
-					<true/>
+					<string>YES</string>
 				</dict>
 			</array>
 			<key>LayoutInfo</key>
@@ -61520,8 +58877,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 			<integer>6</integer>
 			<key>VPages</key>
 			<integer>2</integer>
-			<key>VisibleVoidKey</key>
-			<real>1</real>
 		</dict>
 	</array>
 	<key>SmartAlignmentGuidesActive</key>
@@ -61533,19 +58888,23 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>3</integer>
+		<integer>4</integer>
+		<key>Expanded_Canvases</key>
+		<array/>
 		<key>Frame</key>
-		<string>{{580, 80}, {1635, 1295}}</string>
+		<string>{{86, 1226}, {1440, 812}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>Sidebar</key>
 		<true/>
 		<key>SidebarWidth</key>
 		<integer>200</integer>
-		<key>Sidebar_Tab</key>
-		<integer>0</integer>
+		<key>TopSlabHeight</key>
+		<real>250</real>
 		<key>VisibleRegion</key>
-		<string>{{-21.666666666666668, 342}, {755.33333333333326, 790}}</string>
+		<string>{{0, 388.66666666666669}, {618, 458.66666666666669}}</string>
+		<key>Zoom</key>
+		<real>1.5</real>
 		<key>ZoomValues</key>
 		<array>
 			<array>
@@ -61575,58 +58934,5 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 			</array>
 		</array>
 	</dict>
-	<key>compressOnDiskKey</key>
-	<false/>
-	<key>copyLinkedImagesKey</key>
-	<false/>
-	<key>createSinglePDFKey</key>
-	<true/>
-	<key>exportAreaKey</key>
-	<integer>0</integer>
-	<key>exportQualityKey</key>
-	<real>100</real>
-	<key>exportSizesKey</key>
-	<array>
-		<real>1</real>
-		<string></string>
-	</array>
-	<key>fileFormatKey</key>
-	<integer>0</integer>
-	<key>htmlImageTypeKey</key>
-	<integer>0</integer>
-	<key>includeBackgroundGraphicKey</key>
-	<true/>
-	<key>includeNonPrintingLayersKey</key>
-	<false/>
-	<key>lastExportTypeKey</key>
-	<integer>8</integer>
-	<key>marginWidthKey</key>
-	<real>0.0</real>
-	<key>previewTypeKey</key>
-	<integer>0</integer>
-	<key>readOnlyKey</key>
-	<false/>
-	<key>resolutionForBMPKey</key>
-	<real>1</real>
-	<key>resolutionForGIFKey</key>
-	<real>1</real>
-	<key>resolutionForHTMLKey</key>
-	<real>1</real>
-	<key>resolutionForJPGKey</key>
-	<real>1</real>
-	<key>resolutionForPNGKey</key>
-	<real>1</real>
-	<key>resolutionForTIFFKey</key>
-	<real>1</real>
-	<key>resolutionUnitsKey</key>
-	<integer>0</integer>
-	<key>saveAsFlatFileOptionKey</key>
-	<integer>3</integer>
-	<key>useArtboardsKey</key>
-	<false/>
-	<key>useMarginKey</key>
-	<false/>
-	<key>useNotesKey</key>
-	<false/>
 </dict>
 </plist>
