@@ -24404,9 +24404,9 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2018-04-26 19:23:13 +0000</string>
+	<string>2018-06-05 12:47:07 +0000</string>
 	<key>Modifier</key>
-	<string>pivotal</string>
+	<string>Samia Nneji</string>
 	<key>NotesVisible</key>
 	<string>NO</string>
 	<key>OriginVisible</key>
@@ -24429,6 +24429,11 @@
 		<array>
 			<string>float</string>
 			<string>18</string>
+		</array>
+		<key>NSPaperName</key>
+		<array>
+			<string>string</string>
+			<string>na-letter</string>
 		</array>
 		<key>NSPaperSize</key>
 		<array>
@@ -43746,7 +43751,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{55.000000000000142, 790}, {427.15116279069781, 2.4999999999990905}}</string>
+							<string>{{55, 790}, {537.38372093023224, 2.4999999999990905}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -43764,7 +43769,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<real>8</real>
 							</dict>
 							<key>ID</key>
-							<integer>59</integer>
+							<integer>164</integer>
 							<key>Magnets</key>
 							<array>
 								<string>{1, 0}</string>
@@ -43851,7 +43856,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AZsAmwCGhoY=
 								</data>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf400
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -43867,11 +43872,11 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{19.999999999999943, 772.50000000000102}, {465.00000000000011, 40}}</string>
+							<string>{{20, 772.50000000000102}, {585, 40}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
-							<integer>60</integer>
+							<integer>165</integer>
 							<key>Magnets</key>
 							<array>
 								<string>{0, 1}</string>
@@ -43906,7 +43911,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						</dict>
 					</array>
 					<key>ID</key>
-					<integer>58</integer>
+					<integer>163</integer>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -44521,7 +44526,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{30, 677.5}, {20, 20}}</string>
+					<string>{{30, 682.5}, {20, 20}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -44815,7 +44820,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AZsAmwCGhoY=
 								</data>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf400
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -45170,7 +45175,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AZsAmwCGhoY=
 								</data>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf400
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -63064,11 +63069,11 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>3</integer>
+		<integer>2</integer>
 		<key>Expanded_Canvases</key>
 		<array/>
 		<key>Frame</key>
-		<string>{{275, 186}, {1479, 1175}}</string>
+		<string>{{1119, 242}, {1479, 1175}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>Sidebar</key>
@@ -63078,7 +63083,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 		<key>TopSlabHeight</key>
 		<real>33</real>
 		<key>VisibleRegion</key>
-		<string>{{-8, 160}, {643.33333333333337, 710.66666666666663}}</string>
+		<string>{{-8, 165.33333333333334}, {643.33333333333337, 710}}</string>
 		<key>Zoom</key>
 		<real>1.5</real>
 		<key>ZoomValues</key>
