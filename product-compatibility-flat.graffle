@@ -25873,7 +25873,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2018-07-02 16:14:02 +0000</string>
+	<string>2018-07-05 22:22:05 +0000</string>
 	<key>Modifier</key>
 	<string>Viktoryia Fedzkovich</string>
 	<key>NotesVisible</key>
@@ -37358,36 +37358,36 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						BAtzdHJlYW10eXBlZIHoA4QBQISE
 						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
 						hIQITlNPYmplY3QAhZKEhIQITlNT
-						dHJpbmcBlIQBKxdQQ0YgSGVhbHRo
-						d2F0Y2ggdjEuMi4yCoaEAmlJARCS
-						hISEDE5TRGljdGlvbmFyeQCUhAFp
-						A5KElpYHTlNDb2xvcoaShISEB05T
-						Q29sb3IAlIQBYwGEBGZmZmaDfPLw
-						PYN88vA9g3zy8D0BhpKElpYQTlNQ
-						YXJhZ3JhcGhTdHlsZYaShISEF05T
-						TXV0YWJsZVBhcmFncmFwaFN0eWxl
-						AISEEE5TUGFyYWdyYXBoU3R5bGUA
-						lIQEQ0NAUwAAhISEB05TQXJyYXkA
-						lJkAhoEAAoQEWzFmXSSGkoSWlgZO
-						U0ZvbnSGkoSEhAZOU0ZvbnQelJko
-						hAVbNDBjXQYAAAAeAAAA//5IAGUA
-						bAB2AGUAdABpAGMAYQAtAEIAbwBs
-						AGQAAACEAWYImwCbAZsAmwCGhpcC
-						BpKEmJkDkpmSmpKckp2SopKEpJkc
-						hAVbMjhjXQYAAAAUAAAA//5IAGUA
-						bAB2AGUAdABpAGMAYQCkCJsAmwGb
-						AJsAhoaXAQGG
+						dHJpbmcBlIQBKxhQQ0YgSGVhbHRo
+						d2F0Y2ggdjEuMi4yKwqGhAJpSQEQ
+						koSEhAxOU0RpY3Rpb25hcnkAlIQB
+						aQOShJaWB05TQ29sb3KGkoSEhAdO
+						U0NvbG9yAJSEAWMBhARmZmZmg3zy
+						8D2DfPLwPYN88vA9AYaShJaWEE5T
+						UGFyYWdyYXBoU3R5bGWGkoSEhBdO
+						U011dGFibGVQYXJhZ3JhcGhTdHls
+						ZQCEhBBOU1BhcmFncmFwaFN0eWxl
+						AJSEBENDQFMAAISEhAdOU0FycmF5
+						AJSZAIaBAAKEBFsxZl0khpKElpYG
+						TlNGb250hpKEhIQGTlNGb250HpSZ
+						KIQFWzQwY10GAAAAHgAAAP/+SABl
+						AGwAdgBlAHQAaQBjAGEALQBCAG8A
+						bABkAAAAhAFmCJsAmwGbAJsAhoaX
+						AgeShJiZA5KZkpqSnJKdkqKShKSZ
+						HIQFWzI4Y10GAAAAFAAAAP/+SABl
+						AGwAdgBlAHQAaQBjAGEApAibAJsB
+						mwCbAIaGlwEBhg==
 						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf600
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c11765\c11765\c11765;}
+{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 PCF Healthwatch 
-\b0 v1.2.2
+\b0 v1.2.2+
 \b \
 }</string>
 						<key>VerticalPad</key>
@@ -69541,7 +69541,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>4</integer>
+		<integer>1</integer>
 		<key>Expanded_Canvases</key>
 		<array/>
 		<key>Frame</key>
@@ -69555,9 +69555,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 		<key>TopSlabHeight</key>
 		<real>33</real>
 		<key>VisibleRegion</key>
-		<string>{{-195, 0}, {1016.6666666666666, 782.66666666666663}}</string>
+		<string>{{-68, 269.5}, {762.5, 587}}</string>
 		<key>Zoom</key>
-		<real>1.5</real>
+		<real>2</real>
 		<key>ZoomValues</key>
 		<array>
 			<array>
@@ -69567,8 +69567,8 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 			</array>
 			<array>
 				<string>Canvas 3</string>
+				<real>2</real>
 				<real>1</real>
-				<real>3</real>
 			</array>
 			<array>
 				<string>Canvas 2</string>
