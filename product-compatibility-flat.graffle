@@ -25873,9 +25873,9 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2018-08-16 22:17:22 +0000</string>
+	<string>2018-09-12 21:56:46 +0000</string>
 	<key>Modifier</key>
-	<string>pivotal</string>
+	<string>Severine Abigail Tymon</string>
 	<key>NotesVisible</key>
 	<string>NO</string>
 	<key>OriginVisible</key>
@@ -25902,22 +25902,12 @@
 		<key>NSPaperSize</key>
 		<array>
 			<string>size</string>
-			<string>{612, 792}</string>
+			<string>{611.99998760223389, 792}</string>
 		</array>
 		<key>NSPrintReverseOrientation</key>
 		<array>
 			<string>coded</string>
 			<string>BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU051bWJlcgCEhAdOU1ZhbHVlAISECE5TT2JqZWN0AIWEASqEhAFxlwCG</string>
-		</array>
-		<key>NSPrinter</key>
-		<array>
-			<string>coded</string>
-			<string>BAtzdHJlYW10eXBlZIHoA4QBQISEhAlOU1ByaW50ZXIAhIQITlNPYmplY3QAhZKEhIQITlNTdHJpbmcBlIQBKx1zaWx2YSBAIEphY29i4oCZcyBNYWNCb29rIFByb4aG</string>
-		</array>
-		<key>NSPrinterName</key>
-		<array>
-			<string>string</string>
-			<string>silva @ Jacob’s MacBook Pro</string>
 		</array>
 		<key>NSRightMargin</key>
 		<array>
@@ -26383,28 +26373,28 @@
 						BAtzdHJlYW10eXBlZIHoA4QBQISE
 						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
 						hIQITlNPYmplY3QAhZKEhIQITlNT
-						dHJpbmcBlIQBKyBQaXZvdGFsIENv
+						dHJpbmcBlIQBKyFQaXZvdGFsIENv
 						bnRhaW5lciBTZXJ2aWNlIHYxLjEu
-						eIaEAmlJARqShISEDE5TRGljdGlv
-						bmFyeQCUhAFpA5KElpYHTlNDb2xv
-						coaShISEB05TQ29sb3IAlIQBYwGE
-						BGZmZmaDfPLwPYN88vA9g3zy8D0B
-						hpKElpYQTlNQYXJhZ3JhcGhTdHls
-						ZYaShISEF05TTXV0YWJsZVBhcmFn
-						cmFwaFN0eWxlAISEEE5TUGFyYWdy
-						YXBoU3R5bGUAlIQEQ0NAUwAAhISE
-						B05TQXJyYXkAlJkAhoEAAoQEWzFm
-						XSSGkoSWlgZOU0ZvbnSGkoSEhAZO
-						U0ZvbnQelJkohAVbNDBjXQYAAAAe
-						AAAA//5IAGUAbAB2AGUAdABpAGMA
-						YQAtAEIAbwBsAGQAAACEAWYImwCb
-						AZsAmwCGhpcCBpKEmJkDkpmSmpKc
-						kp2SopKEpJkchAVbMjhjXQYAAAAU
-						AAAA//5IAGUAbAB2AGUAdABpAGMA
-						YQCkCJsAmwGbAJsAhoaG
+						MSuGhAJpSQEakoSEhAxOU0RpY3Rp
+						b25hcnkAlIQBaQOShJaWB05TQ29s
+						b3KGkoSEhAdOU0NvbG9yAJSEAWMB
+						hARmZmZmg3zy8D2DfPLwPYN88vA9
+						AYaShJaWEE5TUGFyYWdyYXBoU3R5
+						bGWGkoSEhBdOU011dGFibGVQYXJh
+						Z3JhcGhTdHlsZQCEhBBOU1BhcmFn
+						cmFwaFN0eWxlAJSEBENDQFMAAISE
+						hAdOU0FycmF5AJSZAIaBAAKEBFsx
+						Zl0khpKElpYGTlNGb250hpKEhIQG
+						TlNGb250HpSZKIQFWzQwY10GAAAA
+						HgAAAP/+SABlAGwAdgBlAHQAaQBj
+						AGEALQBCAG8AbABkAAAAhAFmCJsA
+						mwGbAJsAhoaXAgeShJiZA5KZkpqS
+						nJKdkqKShKSZHIQFWzI4Y10GAAAA
+						FAAAAP/+SABlAGwAdgBlAHQAaQBj
+						AGEApAibAJsBmwCbAIaGhg==
 						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf100
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -26412,7 +26402,7 @@
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Pivotal Container Service 
-\b0 v1.1.x}</string>
+\b0 v1.1.1+}</string>
 						<key>VerticalPad</key>
 						<real>0.0</real>
 					</dict>
@@ -26488,7 +26478,7 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{320, 699.99999999999977}, {130, 40}}</string>
+					<string>{{320, 699.99999999999977}, {280, 40}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -26527,7 +26517,7 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{315, 694.99999999999977}, {140, 50.000000000000227}}</string>
+					<string>{{315, 694.99999999999977}, {290, 50.000000000000227}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -26616,28 +26606,28 @@
 						BAtzdHJlYW10eXBlZIHoA4QBQISE
 						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
 						hIQITlNPYmplY3QAhZKEhIQITlNT
-						dHJpbmcBlIQBKyBQaXZvdGFsIENv
+						dHJpbmcBlIQBKyFQaXZvdGFsIENv
 						bnRhaW5lciBTZXJ2aWNlIHYxLjAu
-						eIaEAmlJARqShISEDE5TRGljdGlv
-						bmFyeQCUhAFpA5KElpYHTlNDb2xv
-						coaShISEB05TQ29sb3IAlIQBYwGE
-						BGZmZmaDfPLwPYN88vA9g3zy8D0B
-						hpKElpYQTlNQYXJhZ3JhcGhTdHls
-						ZYaShISEF05TTXV0YWJsZVBhcmFn
-						cmFwaFN0eWxlAISEEE5TUGFyYWdy
-						YXBoU3R5bGUAlIQEQ0NAUwAAhISE
-						B05TQXJyYXkAlJkAhoEAAoQEWzFm
-						XSSGkoSWlgZOU0ZvbnSGkoSEhAZO
-						U0ZvbnQelJkohAVbNDBjXQYAAAAe
-						AAAA//5IAGUAbAB2AGUAdABpAGMA
-						YQAtAEIAbwBsAGQAAACEAWYImwCb
-						AZsAmwCGhpcCBpKEmJkDkpmSmpKc
-						kp2SopKEpJkchAVbMjhjXQYAAAAU
-						AAAA//5IAGUAbAB2AGUAdABpAGMA
-						YQCkCJsAmwGbAJsAhoaG
+						MiuGhAJpSQEakoSEhAxOU0RpY3Rp
+						b25hcnkAlIQBaQOShJaWB05TQ29s
+						b3KGkoSEhAdOU0NvbG9yAJSEAWMB
+						hARmZmZmg3zy8D2DfPLwPYN88vA9
+						AYaShJaWEE5TUGFyYWdyYXBoU3R5
+						bGWGkoSEhBdOU011dGFibGVQYXJh
+						Z3JhcGhTdHlsZQCEhBBOU1BhcmFn
+						cmFwaFN0eWxlAJSEBENDQFMAAISE
+						hAdOU0FycmF5AJSZAIaBAAKEBFsx
+						Zl0khpKElpYGTlNGb250hpKEhIQG
+						TlNGb250HpSZKIQFWzQwY10GAAAA
+						HgAAAP/+SABlAGwAdgBlAHQAaQBj
+						AGEALQBCAG8AbABkAAAAhAFmCJsA
+						mwGbAJsAhoaXAgeShJiZA5KZkpqS
+						nJKdkqKShKSZHIQFWzI4Y10GAAAA
+						FAAAAP/+SABlAGwAdgBlAHQAaQBj
+						AGEApAibAJsBmwCbAIaGhg==
 						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf100
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -26645,7 +26635,7 @@
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Pivotal Container Service 
-\b0 v1.0.x}</string>
+\b0 v1.0.2+}</string>
 						<key>VerticalPad</key>
 						<real>0.0</real>
 					</dict>
@@ -70428,11 +70418,11 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>2</integer>
+		<integer>0</integer>
 		<key>Expanded_Canvases</key>
 		<array/>
 		<key>Frame</key>
-		<string>{{869, 109}, {1891, 1308}}</string>
+		<string>{{25, 13}, {1680, 961}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>Sidebar</key>
@@ -70442,15 +70432,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 		<key>TopSlabHeight</key>
 		<real>33</real>
 		<key>VisibleRegion</key>
-		<string>{{-27, 284.5}, {681, 599}}</string>
+		<string>{{-263, 202.5}, {1151, 851}}</string>
 		<key>Zoom</key>
-		<real>2</real>
+		<real>1</real>
 		<key>ZoomValues</key>
 		<array>
 			<array>
 				<string>Canvas 1</string>
-				<real>2</real>
 				<real>1</real>
+				<real>2</real>
 			</array>
 			<array>
 				<string>Canvas 3</string>
