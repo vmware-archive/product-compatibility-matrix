@@ -27746,7 +27746,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2018-09-24 16:39:10 +0000</string>
+	<string>2018-09-24 19:59:06 +0000</string>
 	<key>Modifier</key>
 	<string>Severine Abigail Tymon</string>
 	<key>NotesVisible</key>
@@ -59773,7 +59773,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
 						hIQITlNPYmplY3QAhZKEhIQITlNT
 						dHJpbmcBlIQBKw9SZWRpcyB2MS4x
-						My4yKwqGhAJpSQEGkoSEhAxOU0Rp
+						My4zKwqGhAJpSQEGkoSEhAxOU0Rp
 						Y3Rpb25hcnkAlIQBaQOShJaWB05T
 						Q29sb3KGkoSEhAdOU0NvbG9yAJSE
 						AWMBhARmZmZmg3zy8D2DfPLwPYN8
@@ -59800,7 +59800,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Redis 
-\b0 v1.13.2+\
+\b0 v1.13.3+\
 }</string>
 						<key>VerticalPad</key>
 						<real>0.0</real>
@@ -60987,7 +60987,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{205.08974358974356, 592.49999999999977}, {60.153846153846139, 0.1093749999999999}}</string>
+					<string>{{205.08974358974356, 591.16666666666629}, {60.153846153846139, 0.1093749999999999}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -61042,7 +61042,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
 						hIQITlNPYmplY3QAhZKEhIQITlNT
 						dHJpbmcBlIQBKw9SZWRpcyB2MS4x
-						My4yKwqGhAJpSQEGkoSEhAxOU0Rp
+						My4zKwqGhAJpSQEGkoSEhAxOU0Rp
 						Y3Rpb25hcnkAlIQBaQOShJaWB05T
 						Q29sb3KGkoSEhAdOU0NvbG9yAJSE
 						AWMBhARmZmZmg3zy8D2DfPLwPYN8
@@ -61069,7 +61069,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Redis 
-\b0 v1.13.2+\
+\b0 v1.13.3+\
 }</string>
 						<key>VerticalPad</key>
 						<real>0.0</real>
@@ -61804,7 +61804,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{205.08974358974353, 549}, {60.15384615384616, 0.10937499999999997}}</string>
+							<string>{{205.08974358974353, 546.33333333333303}, {60.15384615384616, 0.10937499999999997}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -76533,7 +76533,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>1</integer>
+		<integer>3</integer>
 		<key>Expanded_Canvases</key>
 		<array/>
 		<key>Frame</key>
@@ -76547,7 +76547,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 		<key>TopSlabHeight</key>
 		<real>33</real>
 		<key>VisibleRegion</key>
-		<string>{{-46, 564}, {719.33333333333337, 560.66666666666674}}</string>
+		<string>{{-46, 141}, {719.33333333333337, 560.66666666666663}}</string>
 		<key>Zoom</key>
 		<real>1.5</real>
 		<key>ZoomValues</key>
