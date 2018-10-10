@@ -27746,9 +27746,9 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2018-09-27 20:39:16 +0000</string>
+	<string>2018-10-10 21:35:51 +0000</string>
 	<key>Modifier</key>
-	<string>pivotal</string>
+	<string>Severine Abigail Tymon</string>
 	<key>NotesVisible</key>
 	<string>NO</string>
 	<key>OriginVisible</key>
@@ -27775,7 +27775,7 @@
 		<key>NSPaperSize</key>
 		<array>
 			<string>size</string>
-			<string>{612, 792}</string>
+			<string>{611.99998760223389, 792}</string>
 		</array>
 		<key>NSPrintReverseOrientation</key>
 		<array>
@@ -38185,7 +38185,7 @@ and Ops Manager simultaneously.)}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{15, 235}, {595, 20}}</string>
+					<string>{{15, 230}, {595, 20}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -38235,7 +38235,7 @@ and Ops Manager simultaneously.)}</string>
 						BAtzdHJlYW10eXBlZIHoA4QBQISE
 						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
 						hIQITlNPYmplY3QAhZKEhIQITlNT
-						dHJpbmcBlIQBK4GoACpQQ0YgU2Vy
+						dHJpbmcBlIQBK4H6ACpQQ0YgU2Vy
 						dmljZXMgYXJlIHN1cHBvcnRlZCBi
 						dXQgbm90IG5lY2Vzc2FyaWx5IHZl
 						cmlmaWVkIG9uIHZlcnNpb25zIG9m
@@ -38243,20 +38243,24 @@ and Ops Manager simultaneously.)}</string>
 						ZSBjZXJ0aWZpZWQgZm9yIE9wc01h
 						bmFnZXI7IHNlZSBzcGVjaWZpYyBz
 						ZXJ2aWNlIGRvY3VtZW50YXRpb24g
-						Zm9yIGRldGFpbHMuCoaEAmlJAYGo
-						AJKEhIQMTlNEaWN0aW9uYXJ5AJSE
-						AWkDkoSWlgdOU0NvbG9yhpKEhIQH
-						TlNDb2xvcgCUhAFjAYQEZmZmZoOx
-						+Xg+g4Camj6DCKysPgGGkoSWlhBO
-						U1BhcmFncmFwaFN0eWxlhpKEhIQX
-						TlNNdXRhYmxlUGFyYWdyYXBoU3R5
-						bGUAhIQQTlNQYXJhZ3JhcGhTdHls
-						ZQCUhARDQ0BTAACEhIQHTlNBcnJh
-						eQCUmQCGgQAChARbMWZdJIaShJaW
-						Bk5TRm9udIaShISEBk5TRm9udB6U
-						mRyEBVsyOGNdBgAAABQAAAD//kgA
-						ZQBsAHYAZQB0AGkAYwBhAIQBZgab
-						AJsBmwCbAIaGhg==
+						Zm9yIGRldGFpbHMuCgoqKiB2U3Bo
+						ZXJlIHY2LjcgaXMgb25seSBzdXBw
+						b3J0ZWQgd2l0aCBPcHMgTWFuYWdl
+						ciB2Mi4yLjUrIGFuZCB2Mi4zLjAg
+						YW5kIGxhdGVyLgqGhAJpSQGB+gCS
+						hISEDE5TRGljdGlvbmFyeQCUhAFp
+						A5KElpYHTlNDb2xvcoaShISEB05T
+						Q29sb3IAlIQBYwGEBGZmZmaDsfl4
+						PoOAmpo+gwisrD4BhpKElpYQTlNQ
+						YXJhZ3JhcGhTdHlsZYaShISEF05T
+						TXV0YWJsZVBhcmFncmFwaFN0eWxl
+						AISEEE5TUGFyYWdyYXBoU3R5bGUA
+						lIQEQ0NAUwAAhISEB05TQXJyYXkA
+						lJkAhoEAAoQEWzFmXSSGkoSWlgZO
+						U0ZvbnSGkoSEhAZOU0ZvbnQelJkc
+						hAVbMjhjXQYAAAAUAAAA//5IAGUA
+						bAB2AGUAdABpAGMAYQCEAWYGmwCb
+						AZsAmwCGhoY=
 						</data>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
@@ -38267,6 +38271,8 @@ and Ops Manager simultaneously.)}</string>
 \pard\pardeftab720\partightenfactor0
 
 \f0\fs12 \cf2 *PCF Services are supported but not necessarily verified on versions of OpenStack and vSphere certified for OpsManager; see specific service documentation for details.\
+\
+** vSphere v6.7 is only supported with Ops Manager v2.2.5+ and v2.3.0 and later.\
 }</string>
 						<key>VerticalPad</key>
 						<real>2</real>
@@ -38322,21 +38328,21 @@ and Ops Manager simultaneously.)}</string>
 						BAtzdHJlYW10eXBlZIHoA4QBQISE
 						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
 						hIQITlNPYmplY3QAhZKEhIQITlNT
-						dHJpbmcBlIQBKxA2LjUsIDYuMCwg
-						b3IgNS41hoQCaUkBEJKEhIQMTlNE
-						aWN0aW9uYXJ5AJSEAWkDkoSWlgdO
-						U0NvbG9yhpKEhIQHTlNDb2xvcgCU
-						hAFjAYQEZmZmZoOx+Xg+g4Camj6D
-						CKysPgGGkoSWlhBOU1BhcmFncmFw
-						aFN0eWxlhpKEhIQXTlNNdXRhYmxl
-						UGFyYWdyYXBoU3R5bGUAhIQQTlNQ
-						YXJhZ3JhcGhTdHlsZQCUhARDQ0BT
-						AgCEhIQHTlNBcnJheQCUmQCGgQAC
-						hARbMWZdJIaShJaWBk5TRm9udIaS
-						hISEBk5TRm9udB6UmRyEBVsyOGNd
-						BgAAABQAAAD//kgAZQBsAHYAZQB0
-						AGkAYwBhAIQBZgabAJsBmwCbAIaG
-						hg==
+						dHJpbmcBlIQBKxc2LjcqKiwgNi41
+						LCA2LjAsIG9yIDUuNYaEAmlJAReS
+						hISEDE5TRGljdGlvbmFyeQCUhAFp
+						A5KElpYHTlNDb2xvcoaShISEB05T
+						Q29sb3IAlIQBYwGEBGZmZmaDsfl4
+						PoOAmpo+gwisrD4BhpKElpYQTlNQ
+						YXJhZ3JhcGhTdHlsZYaShISEF05T
+						TXV0YWJsZVBhcmFncmFwaFN0eWxl
+						AISEEE5TUGFyYWdyYXBoU3R5bGUA
+						lIQEQ0NAUwIAhISEB05TQXJyYXkA
+						lJkAhoEAAoQEWzFmXSSGkoSWlgZO
+						U0ZvbnSGkoSEhAZOU0ZvbnQelJkc
+						hAVbMjhjXQYAAAAUAAAA//5IAGUA
+						bAB2AGUAdABpAGMAYQCEAWYGmwCb
+						AZsAmwCGhoY=
 						</data>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
@@ -38346,7 +38352,7 @@ and Ops Manager simultaneously.)}</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs12 \cf2 6.5, 6.0, or 5.5}</string>
+\f0\fs12 \cf2 6.7**, 6.5, 6.0, or 5.5}</string>
 						<key>VerticalPad</key>
 						<real>2</real>
 					</dict>
@@ -77910,7 +77916,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 		<key>Expanded_Canvases</key>
 		<array/>
 		<key>Frame</key>
-		<string>{{930, 247}, {1981, 1155}}</string>
+		<string>{{579, 247}, {1981, 1155}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>Sidebar</key>
@@ -77920,7 +77926,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 		<key>TopSlabHeight</key>
 		<real>33</real>
 		<key>VisibleRegion</key>
-		<string>{{-172, 386.66666666666669}, {968, 696.66666666666652}}</string>
+		<string>{{-172, 0}, {968, 696.66666666666663}}</string>
 		<key>Zoom</key>
 		<real>1.5</real>
 		<key>ZoomValues</key>
