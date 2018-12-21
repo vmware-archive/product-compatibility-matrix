@@ -27746,7 +27746,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2018-12-20 19:46:03 +0000</string>
+	<string>2018-12-21 15:38:57 +0000</string>
 	<key>Modifier</key>
 	<string>Jane Day</string>
 	<key>MovementHandleVisible</key>
@@ -57050,7 +57050,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{59.999999999999766, 513.89062499999932}, {94.999999999999957, 0.10937499999999994}}</string>
+							<string>{{59.999999999999766, 513.89062499999932}, {109, 0.10937499999999994}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -57109,47 +57109,49 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								TlNPYmplY3QA
 								hZKEhIQITlNT
 								dHJpbmcBlIQB
-								KxFSYWJiaXRN
-								USB2MS4xMy54
-								CoaEAmlJAQmS
-								hISEDE5TRGlj
-								dGlvbmFyeQCU
-								hAFpA5KElpYH
-								TlNDb2xvcoaS
-								hISEB05TQ29s
-								b3IAlIQBYwGE
-								BGZmZmaDfPLw
-								PYN88vA9g3zy
-								8D0BhpKElpYQ
-								TlNQYXJhZ3Jh
-								cGhTdHlsZYaS
-								hISEF05TTXV0
-								YWJsZVBhcmFn
+								KxxSYWJiaXRN
+								USB2MS4xMy4w
+								IHRvIDEuMTMu
+								MTEKhoQCaUkB
+								CZKEhIQMTlNE
+								aWN0aW9uYXJ5
+								AJSEAWkDkoSW
+								lgdOU0NvbG9y
+								hpKEhIQHTlND
+								b2xvcgCUhAFj
+								AYQEZmZmZoN8
+								8vA9g3zy8D2D
+								fPLwPQGGkoSW
+								lhBOU1BhcmFn
 								cmFwaFN0eWxl
-								AISEEE5TUGFy
+								hpKEhIQXTlNN
+								dXRhYmxlUGFy
 								YWdyYXBoU3R5
-								bGUAlIQEQ0NA
-								UwAAhISEB05T
-								QXJyYXkAlJkA
-								hoEAAoQEWzFm
-								XSSGkoSWlgZO
-								U0ZvbnSGkoSE
-								hAZOU0ZvbnQe
-								lJkohAVbNDBj
-								XQYAAAAeAAAA
-								//5IAGUAbAB2
-								AGUAdABpAGMA
-								YQAtAEIAbwBs
-								AGQAAACEAWYI
+								bGUAhIQQTlNQ
+								YXJhZ3JhcGhT
+								dHlsZQCUhARD
+								Q0BTAACEhIQH
+								TlNBcnJheQCU
+								mQCGgQAChARb
+								MWZdJIaShJaW
+								Bk5TRm9udIaS
+								hISEBk5TRm9u
+								dB6UmSiEBVs0
+								MGNdBgAAAB4A
+								AAD//kgAZQBs
+								AHYAZQB0AGkA
+								YwBhAC0AQgBv
+								AGwAZAAAAIQB
+								ZgibAJsBmwCb
+								AIaGlwITkoSY
+								mQOSmZKakpyS
+								nZKikoSkmRyE
+								BVsyOGNdBgAA
+								ABQAAAD//kgA
+								ZQBsAHYAZQB0
+								AGkAYwBhAKQI
 								mwCbAZsAmwCG
-								hpcCCJKEmJkD
-								kpmSmpKckp2S
-								opKEpJkchAVb
-								MjhjXQYAAAAU
-								AAAA//5IAGUA
-								bAB2AGUAdABp
-								AGMAYQCkCJsA
-								mwGbAJsAhoaG
+								hoY=
 								</data>
 								<key>Text</key>
 								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf100
@@ -57160,7 +57162,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 RabbitMQ 
-\f1\b0 v1.13.x\
+\f1\b0 v1.13.0 to 1.13.11\
 }</string>
 								<key>VerticalPad</key>
 								<real>0.0</real>
@@ -80788,7 +80790,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 		<key>Sidebar_Tab</key>
 		<integer>0</integer>
 		<key>VisibleRegion</key>
-		<string>{{-149, 340.66666666666669}, {912, 783.33333333333326}}</string>
+		<string>{{-148.33333333333334, 330.66666666666669}, {912, 783.33333333333326}}</string>
 		<key>WindowInfo_InspectorTab</key>
 		<array>
 			<string>com.omnigroup.OmniGraffle.inspectorGroup.object</string>
