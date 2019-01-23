@@ -32053,7 +32053,7 @@ and Ops Manager simultaneously.)}</string>
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{15.5625, 455}, {259, 30}}</string>
+							<string>{{4.5625, 455}, {281, 30}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FitText</key>
@@ -32095,7 +32095,7 @@ and Ops Manager simultaneously.)}</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs16 \cf0 *Do not upgrade directly to v2.2.11. See Known Issues for PAS v2.2.
+\f0\fs16 \cf0 *Do not upgrade directly to v2.2.7 or later. See Known Issues for PAS v2.2.
 \fs32  }</string>
 							</dict>
 							<key>Wrap</key>
@@ -88515,7 +88515,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 		<key>Sidebar_Tab</key>
 		<integer>0</integer>
 		<key>VisibleRegion</key>
-		<string>{{-81, 118.66666666666667}, {788.66666666666663, 804.66666666666674}}</string>
+		<string>{{-80.833333333333329, 118.66666666666667}, {788.66666666666674, 804.66666666666674}}</string>
 		<key>ZoomValues</key>
 		<array>
 			<array>
