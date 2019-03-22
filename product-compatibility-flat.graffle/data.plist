@@ -18290,7 +18290,7 @@ Windows 2012R2\
 								dHJpbmcBlIQB
 								KxhQQVMgZm9y
 								IFdpbmRvd3Mg
-								CiB2Mi40LjSG
+								CiB2Mi41LjCG
 								hAJpSQESkoSE
 								hAxOU0RpY3Rp
 								b25hcnkAlIQB
@@ -18341,7 +18341,7 @@ Windows 2012R2\
 
 \f0\b\fs16 \cf2 PAS for Windows \
  
-\b0 v2.4.4}</string>
+\b0 v2.5.0}</string>
 										<key>VerticalPad</key>
 										<real>0.0</real>
 									</dict>
@@ -72640,9 +72640,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>1</integer>
+		<integer>0</integer>
 		<key>Frame</key>
-		<string>{{518, 54}, {1703, 1245}}</string>
+		<string>{{136, 98}, {1703, 1245}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>Sidebar</key>
@@ -72652,7 +72652,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 		<key>Sidebar_Tab</key>
 		<integer>0</integer>
 		<key>VisibleRegion</key>
-		<string>{{-50.333333333333229, 257.33333333333331}, {727.99999999999989, 746.66666666666674}}</string>
+		<string>{{-50.333333333333229, 112}, {727.99999999999989, 746.66666666666663}}</string>
 		<key>ZoomValues</key>
 		<array>
 			<array>
