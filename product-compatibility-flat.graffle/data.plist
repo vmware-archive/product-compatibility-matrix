@@ -257,59 +257,15 @@
 								<integer>2</integer>
 								<key>Pad</key>
 								<real>20</real>
-								<key>RTFD</key>
-								<data>
-								BAtzdHJlYW10
-								eXBlZIHoA4QB
-								QISEhBJOU0F0
-								dHJpYnV0ZWRT
-								dHJpbmcAhIQI
-								TlNPYmplY3QA
-								hZKEhIQITlNT
-								dHJpbmcBlIQB
-								KypQYWdlIDwl
-								Q2FudmFzTnVt
-								YmVyJT4gb2Yg
-								PCVUb3RhbENh
-								bnZhc2VzJT6G
-								hAJpSQEqkoSE
-								hAxOU0RpY3Rp
-								b25hcnkAlIQB
-								aQOShJaWB05T
-								Q29sb3KGkoSE
-								hAdOU0NvbG9y
-								AJSEAWMDhAJm
-								ZgEBhpKElpYQ
-								TlNQYXJhZ3Jh
-								cGhTdHlsZYaS
-								hISEF05TTXV0
-								YWJsZVBhcmFn
-								cmFwaFN0eWxl
-								AISEEE5TUGFy
-								YWdyYXBoU3R5
-								bGUAlIQEQ0NA
-								UwEAhISEB05T
-								QXJyYXkAlJkA
-								hoEAAoQEWzFm
-								XSSGkoSWlgZO
-								U0ZvbnSGkoSE
-								hAZOU0ZvbnQe
-								lJkchAVbMjhj
-								XQYAAAAUAAAA
-								//5IAGUAbAB2
-								AGUAdABpAGMA
-								YQCEAWYQmwCb
-								AZsAmwCGhoY=
-								</data>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red255\green255\blue255;}
-{\*\expandedcolortbl;;\csgray\c100000;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \deftab720
 \pard\pardeftab720\qr\partightenfactor0
 
-\f0\fs32 \cf2 Page &lt;%CanvasNumber%&gt; of &lt;%TotalCanvases%&gt;}</string>
+\f0\fs32 \cf1 Page &lt;%CanvasNumber%&gt; of &lt;%TotalCanvases%&gt;}</string>
 								<key>TextAlongPathGlyphAnchor</key>
 								<string>left</string>
 							</dict>
@@ -820,8 +776,8 @@
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -1452,8 +1408,8 @@
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -2084,8 +2040,8 @@
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -2636,8 +2592,8 @@
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -3077,7 +3033,7 @@
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -3213,7 +3169,7 @@
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -3317,7 +3273,7 @@
 								mwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -3457,7 +3413,7 @@
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -3605,7 +3561,7 @@
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -3743,7 +3699,7 @@
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -3879,7 +3835,7 @@
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -4185,7 +4141,7 @@
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -4336,7 +4292,7 @@
 								mwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -4475,7 +4431,7 @@ Last updated on: &lt;%ModificationDate%&gt;}</string>
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -4580,7 +4536,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -4730,7 +4686,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						hg==
 						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -4849,7 +4805,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hg==
 								</data>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -4961,7 +4917,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AIaGhg==
 								</data>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -5073,7 +5029,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AIaGhg==
 								</data>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -5705,15 +5661,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								b3KGkqeGhg==
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Pivotal Container Service 
-\f1\b0 \cf2 v1.3.2}</string>
+\b0 \cf2 v1.3.2}</string>
 												<key>TextAlongPathGlyphAnchor</key>
 												<string>left</string>
 												<key>VerticalPad</key>
@@ -6357,15 +6313,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								b3KGkqeGhg==
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Pivotal Container Service 
-\f1\b0 \cf2 v1.3.1}</string>
+\b0 \cf2 v1.3.1}</string>
 												<key>TextAlongPathGlyphAnchor</key>
 												<string>left</string>
 												<key>VerticalPad</key>
@@ -6927,15 +6883,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								b3KGkqeGhg==
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Pivotal Container Service 
-\f1\b0 \cf2 v1.3.0}</string>
+\b0 \cf2 v1.3.0}</string>
 												<key>TextAlongPathGlyphAnchor</key>
 												<string>left</string>
 												<key>VerticalPad</key>
@@ -7766,15 +7722,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Pivotal Container Service 
-\f1\b0 \cf2 v1.2.9 and v 1.2.10}</string>
+\b0 \cf2 v1.2.9 and v 1.2.10}</string>
 												<key>TextAlongPathGlyphAnchor</key>
 												<string>left</string>
 												<key>VerticalPad</key>
@@ -8835,15 +8791,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								b3KGkqeGhg==
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Pivotal Container Service 
-\f1\b0 \cf2 v1.2.8}</string>
+\b0 \cf2 v1.2.8}</string>
 												<key>TextAlongPathGlyphAnchor</key>
 												<string>left</string>
 												<key>VerticalPad</key>
@@ -9651,15 +9607,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								b3KGkqeGhg==
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Pivotal Container Service 
-\f1\b0 \cf2 v1.2.7}</string>
+\b0 \cf2 v1.2.7}</string>
 												<key>TextAlongPathGlyphAnchor</key>
 												<string>left</string>
 												<key>VerticalPad</key>
@@ -10467,15 +10423,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								b3KGkqeGhg==
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Pivotal Container Service 
-\f1\b0 \cf2 v1.2.4}</string>
+\b0 \cf2 v1.2.4}</string>
 												<key>TextAlongPathGlyphAnchor</key>
 												<string>left</string>
 												<key>VerticalPad</key>
@@ -11151,15 +11107,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Pivotal Container Service 
-\f1\b0 \cf2 v1.2.0 to v1.2.3 *}</string>
+\b0 \cf2 v1.2.0 to v1.2.3 *}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 										<key>VerticalPad</key>
@@ -11657,15 +11613,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								b3KGkqeGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Pivotal Container Service 
-\f1\b0 \cf2 v1.3.3}</string>
+\b0 \cf2 v1.3.3}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 										<key>VerticalPad</key>
@@ -12040,15 +11996,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								b2xvcoaSp4aG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Pivotal Container Service 
-\f1\b0 \cf2 v1.2.5 and v1.2.6}</string>
+\b0 \cf2 v1.2.5 and v1.2.6}</string>
 												<key>TextAlongPathGlyphAnchor</key>
 												<string>left</string>
 												<key>VerticalPad</key>
@@ -12520,8 +12476,8 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								coaSp4aG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -12529,7 +12485,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 
 \f0\b\fs16 \cf2 Pivotal Container Service \
                 
-\f1\b0 \cf2 v1.1.x}</string>
+\b0 \cf2 v1.1.x}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 										<key>VerticalPad</key>
@@ -13152,7 +13108,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCbAIaGhg==
 								</data>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -13257,7 +13213,7 @@ and Ops Manager simultaneously.)}</string>
 								hoaG
 								</data>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -13348,7 +13304,7 @@ and Ops Manager simultaneously.)}</string>
 							<key>Text</key>
 							<dict>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
@@ -13787,15 +13743,15 @@ and Ops Manager simultaneously.)}</string>
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Pivotal Application Service 
-\f1\b0 \cf2 v2.2.0+*}</string>
+\b0 \cf2 v2.2.0+*}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 										<key>VerticalPad</key>
@@ -14342,15 +14298,15 @@ and Ops Manager simultaneously.)}</string>
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Pivotal Application Service 
-\f1\b0 \cf2 v2.3.0+}</string>
+\b0 \cf2 v2.3.0+}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 										<key>VerticalPad</key>
@@ -14808,15 +14764,15 @@ and Ops Manager simultaneously.)}</string>
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Pivotal Application Service 
-\f1\b0 \cf2 v2.4.0+}</string>
+\b0 \cf2 v2.4.0+}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 										<key>VerticalPad</key>
@@ -15442,15 +15398,15 @@ and Ops Manager simultaneously.)}</string>
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Pivotal Application Service 
-\f1\b0 \cf2 v2.5.0+}</string>
+\b0 \cf2 v2.5.0+}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 										<key>VerticalPad</key>
@@ -16097,8 +16053,8 @@ and Ops Manager simultaneously.)}</string>
 								hpKnhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -16106,7 +16062,7 @@ and Ops Manager simultaneously.)}</string>
 
 \f0\b\fs16 \cf2 PCF Isolation \
 Segment 
-\f1\b0 \cf2 v2.2.0+}</string>
+\b0 \cf2 v2.2.0+}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 										<key>VerticalPad</key>
@@ -16641,8 +16597,8 @@ Segment
 								hpKnhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -16650,7 +16606,7 @@ Segment
 
 \f0\b\fs16 \cf2 PCF Isolation \
 Segment 
-\f1\b0 \cf2 v2.3.0+}</string>
+\b0 \cf2 v2.3.0+}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 										<key>VerticalPad</key>
@@ -17152,8 +17108,8 @@ Segment
 								hpKnhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -17161,7 +17117,7 @@ Segment
 
 \f0\b\fs16 \cf2 PCF Isolation \
 Segment 
-\f1\b0 \cf2 v2.4.0+}</string>
+\b0 \cf2 v2.4.0+}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 										<key>VerticalPad</key>
@@ -17396,8 +17352,8 @@ Segment
 								hpKnhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -17405,7 +17361,7 @@ Segment
 
 \f0\b\fs16 \cf2 PCF Isolation \
 Segment 
-\f1\b0 \cf2 v2.5.0+}</string>
+\b0 \cf2 v2.5.0+}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 										<key>VerticalPad</key>
@@ -18096,8 +18052,8 @@ Segment
 								b3KGkqeGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -18105,7 +18061,7 @@ Segment
 
 \f0\b\fs16 \cf2 PCF Runtime for \
 Windows 
-\f1\b0 \cf2 v2.2.0+}</string>
+\b0 \cf2 v2.2.0+}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 										<key>VerticalPad</key>
@@ -18577,8 +18533,8 @@ Windows
 									<key>Text</key>
 									<dict>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;\f1\fnil\fcharset0 HelveticaNeue;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
@@ -18586,7 +18542,7 @@ Windows
 \f0\b\fs16 \cf0 PAS for \
 Windows 2012R2\
 
-\f1\b0\fs14 End of Availability \
+\b0\fs14 End of Availability \
 (No support on PCF v2.3)}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
@@ -19072,15 +19028,15 @@ Windows 2012R2\
 								bG9yhpKnhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 PAS for Windows  
-\f1\b0 \cf2 v2.2.0+}</string>
+\b0 \cf2 v2.2.0+}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 										<key>VerticalPad</key>
@@ -19474,60 +19430,60 @@ Windows 2012R2\
 								TlNPYmplY3QA
 								hZKEhIQITlNT
 								dHJpbmcBlIQB
-								KxhQQVMgZm9y
+								KxlQQVMgZm9y
 								IFdpbmRvd3Mg
-								CiB2Mi40LjSG
-								hAJpSQESkoSE
-								hAxOU0RpY3Rp
-								b25hcnkAlIQB
-								aQOShJaWB05T
-								Q29sb3KGkoSE
-								hAdOU0NvbG9y
-								AJSEAWMBhARm
-								ZmZmg3zy8D2D
-								fPLwPYN88vA9
-								AYaShJaWEE5T
-								UGFyYWdyYXBo
-								U3R5bGWGkoSE
-								hBdOU011dGFi
-								bGVQYXJhZ3Jh
-								cGhTdHlsZQCE
-								hBBOU1BhcmFn
-								cmFwaFN0eWxl
-								AJSEBENDQFMA
-								AISEhAdOU0Fy
-								cmF5AJSZAIaB
-								AAKEBFsxZl0k
-								hpKElpYGTlNG
-								b250hpKEhIQG
-								TlNGb250HpSZ
-								KIQFWzQwY10G
-								AAAAHgAAAP/+
-								SABlAGwAdgBl
-								AHQAaQBjAGEA
-								LQBCAG8AbABk
-								AAAAhAFmCJsA
-								mwGbAJsAhoaX
-								AgaShJiZBZKE
-								lpYQTlNVbmRl
-								cmxpbmVDb2xv
-								coaShJubAZyD
-								fPLwPYN88vA9
-								g3zy8D0BhpKi
-								koSkmRyEBVsy
-								OGNdBgAAABQA
-								AAD//kgAZQBs
-								AHYAZQB0AGkA
-								YwBhAKQImwCb
-								AZsAmwCGkpmS
-								p5Kckp2ShJaW
-								FE5TU3RyaWtl
-								dGhyb3VnaENv
-								bG9yhpKnhoY=
+								CiB2Mi41LjAr
+								hoQCaUkBEpKE
+								hIQMTlNEaWN0
+								aW9uYXJ5AJSE
+								AWkDkoSWlgdO
+								U0NvbG9yhpKE
+								hIQHTlNDb2xv
+								cgCUhAFjAYQE
+								ZmZmZoN88vA9
+								g3zy8D2DfPLw
+								PQGGkoSWlhBO
+								U1BhcmFncmFw
+								aFN0eWxlhpKE
+								hIQXTlNNdXRh
+								YmxlUGFyYWdy
+								YXBoU3R5bGUA
+								hIQQTlNQYXJh
+								Z3JhcGhTdHls
+								ZQCUhARDQ0BT
+								AACEhIQHTlNB
+								cnJheQCUmQCG
+								gQAChARbMWZd
+								JIaShJaWBk5T
+								Rm9udIaShISE
+								Bk5TRm9udB6U
+								mSiEBVs0MGNd
+								BgAAAB4AAAD/
+								/kgAZQBsAHYA
+								ZQB0AGkAYwBh
+								AC0AQgBvAGwA
+								ZAAAAIQBZgib
+								AJsBmwCbAIaG
+								lwIHkoSYmQWS
+								hJaWEE5TVW5k
+								ZXJsaW5lQ29s
+								b3KGkoSbmwGc
+								g3zy8D2DfPLw
+								PYN88vA9AYaS
+								opKEpJkchAVb
+								MjhjXQYAAAAU
+								AAAA//5IAGUA
+								bAB2AGUAdABp
+								AGMAYQCkCJsA
+								mwGbAJsAhpKZ
+								kqeSnJKdkoSW
+								lhROU1N0cmlr
+								ZXRocm91Z2hD
+								b2xvcoaSp4aG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -19535,9 +19491,9 @@ Windows 2012R2\
 
 \f0\b\fs16 \cf2 PAS for Windows \
  
-\f1\b0 \cf2 v2.4.4}</string>
+\b0 \cf2 v2.5.0+}</string>
 										<key>TextAlongPathGlyphAnchor</key>
-										<string>left</string>
+										<string>center</string>
 										<key>VerticalPad</key>
 										<real>0.0</real>
 									</dict>
@@ -20070,15 +20026,15 @@ Windows 2012R2\
 								bG9yhpKnhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 PAS for Windows  
-\f1\b0 \cf2 v2.3.0+}</string>
+\b0 \cf2 v2.3.0+}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 										<key>VerticalPad</key>
@@ -20524,8 +20480,8 @@ Windows 2012R2\
 								b2xvcoaSp4aG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -20533,7 +20489,7 @@ Windows 2012R2\
 
 \f0\b\fs16 \cf2 PAS for Windows \
  
-\f1\b0 \cf2 v2.4.0+}</string>
+\b0 \cf2 v2.4.0+}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 										<key>VerticalPad</key>
@@ -21038,59 +20994,15 @@ Windows 2012R2\
 								<integer>2</integer>
 								<key>Pad</key>
 								<real>20</real>
-								<key>RTFD</key>
-								<data>
-								BAtzdHJlYW10
-								eXBlZIHoA4QB
-								QISEhBJOU0F0
-								dHJpYnV0ZWRT
-								dHJpbmcAhIQI
-								TlNPYmplY3QA
-								hZKEhIQITlNT
-								dHJpbmcBlIQB
-								KypQYWdlIDwl
-								Q2FudmFzTnVt
-								YmVyJT4gb2Yg
-								PCVUb3RhbENh
-								bnZhc2VzJT6G
-								hAJpSQEqkoSE
-								hAxOU0RpY3Rp
-								b25hcnkAlIQB
-								aQOShJaWB05T
-								Q29sb3KGkoSE
-								hAdOU0NvbG9y
-								AJSEAWMDhAJm
-								ZgEBhpKElpYQ
-								TlNQYXJhZ3Jh
-								cGhTdHlsZYaS
-								hISEF05TTXV0
-								YWJsZVBhcmFn
-								cmFwaFN0eWxl
-								AISEEE5TUGFy
-								YWdyYXBoU3R5
-								bGUAlIQEQ0NA
-								UwEAhISEB05T
-								QXJyYXkAlJkA
-								hoEAAoQEWzFm
-								XSSGkoSWlgZO
-								U0ZvbnSGkoSE
-								hAZOU0ZvbnQe
-								lJkchAVbMjhj
-								XQYAAAAUAAAA
-								//5IAGUAbAB2
-								AGUAdABpAGMA
-								YQCEAWYQmwCb
-								AZsAmwCGhoY=
-								</data>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red255\green255\blue255;}
-{\*\expandedcolortbl;;\csgray\c100000;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \deftab720
 \pard\pardeftab720\qr\partightenfactor0
 
-\f0\fs32 \cf2 Page &lt;%CanvasNumber%&gt; of &lt;%TotalCanvases%&gt;}</string>
+\f0\fs32 \cf1 Page &lt;%CanvasNumber%&gt; of &lt;%TotalCanvases%&gt;}</string>
 								<key>TextAlongPathGlyphAnchor</key>
 								<string>left</string>
 							</dict>
@@ -21601,8 +21513,8 @@ Windows 2012R2\
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -22233,8 +22145,8 @@ Windows 2012R2\
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -22865,8 +22777,8 @@ Windows 2012R2\
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -23417,8 +23329,8 @@ Windows 2012R2\
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -23858,7 +23770,7 @@ Windows 2012R2\
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -23994,7 +23906,7 @@ Windows 2012R2\
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -24098,7 +24010,7 @@ Windows 2012R2\
 								mwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -24238,7 +24150,7 @@ Windows 2012R2\
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -24386,7 +24298,7 @@ Windows 2012R2\
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -24524,7 +24436,7 @@ Windows 2012R2\
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -24660,7 +24572,7 @@ Windows 2012R2\
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -24966,7 +24878,7 @@ Windows 2012R2\
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -25117,7 +25029,7 @@ Windows 2012R2\
 								mwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -25256,7 +25168,7 @@ Last updated on: &lt;%ModificationDate%&gt;}</string>
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -25361,7 +25273,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -25732,16 +25644,16 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								nJKdkqmSmoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 PCF Healthwatch 
-\f1\b0 \cf2 v1.5.2
-\f0\b \cf2 \
+\b0 \cf2 v1.5.2
+\b \cf2 \
 }</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>center</string>
@@ -26483,16 +26395,16 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 PCF Healthwatch 
-\f1\b0 \cf2 v1.4.4+
-\f0\b \cf2 \
+\b0 \cf2 v1.4.4+
+\b \cf2 \
 }</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
@@ -27105,16 +27017,16 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 PCF Healthwatch 
-\f1\b0 \cf2 v1.3.2+
-\f0\b \cf2 \
+\b0 \cf2 v1.3.2+
+\b \cf2 \
 }</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>center</string>
@@ -27697,16 +27609,16 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								nJKdkqmSmoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 PCF Healthwatch 
-\f1\b0 \cf2 v1.3.1
-\f0\b \cf2 \
+\b0 \cf2 v1.3.1
+\b \cf2 \
 }</string>
 												<key>TextAlongPathGlyphAnchor</key>
 												<string>left</string>
@@ -28166,15 +28078,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								b3KGkqeGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 MySQL for PCF 
-\f1\b0 \cf2 v2.5.2+ \
+\b0 \cf2 v2.5.2+ \
 }</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
@@ -28758,15 +28670,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								b3KGkqeGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 MySQL for PCF 
-\f1\b0 \cf2 v2.4.2+ \
+\b0 \cf2 v2.4.2+ \
 }</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
@@ -29730,16 +29642,16 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								nJKdkqmSmoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 MySQL for PCF 
-\f1\b0 \cf2 v2.4.0 to v2.4.1 
-\f0\b \cf2 \
+\b0 \cf2 v2.4.0 to v2.4.1 
+\b \cf2 \
 }</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
@@ -30028,15 +29940,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hpKnhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 MySQL for PCF 
-\f1\b0 \cf2 v2.3.x\
+\b0 \cf2 v2.3.x\
 }</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
@@ -30490,15 +30402,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								b2xvcoaSp4aG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 MySQL 
-\f1\b0 \cf2 v1.10.14+\
+\b0 \cf2 v1.10.14+\
 }</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
@@ -30930,15 +30842,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 									<key>Text</key>
 									<dict>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;\f1\fnil\fcharset0 HelveticaNeue;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs16 \cf0 MySQL for PCF v1\
 
-\f1\b0\fs14 End of Availability \
+\b0\fs14 End of Availability \
 (No support on PCF v2.3+)}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
@@ -31359,7 +31271,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						AIQBZgybAJsBmwCbAIaGhg==
 						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -31570,59 +31482,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<integer>2</integer>
 								<key>Pad</key>
 								<real>20</real>
-								<key>RTFD</key>
-								<data>
-								BAtzdHJlYW10
-								eXBlZIHoA4QB
-								QISEhBJOU0F0
-								dHJpYnV0ZWRT
-								dHJpbmcAhIQI
-								TlNPYmplY3QA
-								hZKEhIQITlNT
-								dHJpbmcBlIQB
-								KypQYWdlIDwl
-								Q2FudmFzTnVt
-								YmVyJT4gb2Yg
-								PCVUb3RhbENh
-								bnZhc2VzJT6G
-								hAJpSQEqkoSE
-								hAxOU0RpY3Rp
-								b25hcnkAlIQB
-								aQOShJaWB05T
-								Q29sb3KGkoSE
-								hAdOU0NvbG9y
-								AJSEAWMDhAJm
-								ZgEBhpKElpYQ
-								TlNQYXJhZ3Jh
-								cGhTdHlsZYaS
-								hISEF05TTXV0
-								YWJsZVBhcmFn
-								cmFwaFN0eWxl
-								AISEEE5TUGFy
-								YWdyYXBoU3R5
-								bGUAlIQEQ0NA
-								UwEAhISEB05T
-								QXJyYXkAlJkA
-								hoEAAoQEWzFm
-								XSSGkoSWlgZO
-								U0ZvbnSGkoSE
-								hAZOU0ZvbnQe
-								lJkchAVbMjhj
-								XQYAAAAUAAAA
-								//5IAGUAbAB2
-								AGUAdABpAGMA
-								YQCEAWYQmwCb
-								AZsAmwCGhoY=
-								</data>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red255\green255\blue255;}
-{\*\expandedcolortbl;;\csgray\c100000;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \deftab720
 \pard\pardeftab720\qr\partightenfactor0
 
-\f0\fs32 \cf2 Page &lt;%CanvasNumber%&gt; of &lt;%TotalCanvases%&gt;}</string>
+\f0\fs32 \cf1 Page &lt;%CanvasNumber%&gt; of &lt;%TotalCanvases%&gt;}</string>
 								<key>TextAlongPathGlyphAnchor</key>
 								<string>left</string>
 							</dict>
@@ -32133,8 +32001,8 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -32765,8 +32633,8 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -33397,8 +33265,8 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -33951,8 +33819,8 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -34392,7 +34260,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -34528,7 +34396,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -34632,7 +34500,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -34772,7 +34640,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -34920,7 +34788,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -35058,7 +34926,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -35194,7 +35062,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -35500,7 +35368,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -35651,7 +35519,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -35790,7 +35658,7 @@ Last updated on: &lt;%ModificationDate%&gt;}</string>
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -35895,7 +35763,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -36341,15 +36209,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								b3KGkqeGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Single Sign-On 
-\f1\b0 \cf2 v1.8.1+ }</string>
+\b0 \cf2 v1.8.1+ }</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 										<key>VerticalPad</key>
@@ -37066,15 +36934,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								bG9yhpKnhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Single Sign-On 
-\f1\b0 \cf2 v1.7.2+ *}</string>
+\b0 \cf2 v1.7.2+ *}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 										<key>VerticalPad</key>
@@ -37538,15 +37406,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								b3KGkqeGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Single Sign-On 
-\f1\b0 \cf2 v1.7.1 *}</string>
+\b0 \cf2 v1.7.1 *}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 										<key>VerticalPad</key>
@@ -38520,15 +38388,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hpKnhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Single Sign-On 
-\f1\b0 \cf2 v1.7.0}</string>
+\b0 \cf2 v1.7.0}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>center</string>
 										<key>VerticalPad</key>
@@ -38649,7 +38517,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							<key>Text</key>
 							<dict>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
@@ -38940,7 +38808,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						AJsAhoaG
 						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -39334,15 +39202,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								p4aG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 RabbitMQ 
-\f1\b0 \cf2 v1.15.2+ \
+\b0 \cf2 v1.15.2+ \
 }</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
@@ -39800,15 +39668,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								p4aG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 RabbitMQ 
-\f1\b0 \cf2 v1.15.2+ \
+\b0 \cf2 v1.15.2+ \
 }</string>
 												<key>TextAlongPathGlyphAnchor</key>
 												<string>left</string>
@@ -40343,15 +40211,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								p4aG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 RabbitMQ 
-\f1\b0 \cf2 v1.14.4+ \
+\b0 \cf2 v1.14.4+ \
 }</string>
 												<key>TextAlongPathGlyphAnchor</key>
 												<string>left</string>
@@ -40774,15 +40642,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								kqeGhg==
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 RabbitMQ 
-\f1\b0 \cf2 v1.14.1 to 1.14.3 **}</string>
+\b0 \cf2 v1.14.1 to 1.14.3 **}</string>
 												<key>TextAlongPathGlyphAnchor</key>
 												<string>left</string>
 											</dict>
@@ -41564,15 +41432,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								p4aG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 RabbitMQ 
-\f1\b0 \cf2 v1.14.4+ \
+\b0 \cf2 v1.14.4+ \
 }</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
@@ -41995,15 +41863,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								kqeGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 RabbitMQ 
-\f1\b0 \cf2 v1.14.1 to 1.14.3 **}</string>
+\b0 \cf2 v1.14.1 to 1.14.3 **}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 									</dict>
@@ -42733,15 +42601,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 RabbitMQ 
-\f1\b0 \cf2 v1.13.12+}</string>
+\b0 \cf2 v1.13.12+}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 									</dict>
@@ -43473,15 +43341,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								p4aG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 RabbitMQ 
-\f1\b0 \cf2 v1.13.0 to 1.13.11\
+\b0 \cf2 v1.13.0 to 1.13.11\
 }</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
@@ -43611,7 +43479,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Align</key>
 								<integer>0</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
@@ -44016,59 +43884,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<integer>2</integer>
 								<key>Pad</key>
 								<real>20</real>
-								<key>RTFD</key>
-								<data>
-								BAtzdHJlYW10
-								eXBlZIHoA4QB
-								QISEhBJOU0F0
-								dHJpYnV0ZWRT
-								dHJpbmcAhIQI
-								TlNPYmplY3QA
-								hZKEhIQITlNT
-								dHJpbmcBlIQB
-								KypQYWdlIDwl
-								Q2FudmFzTnVt
-								YmVyJT4gb2Yg
-								PCVUb3RhbENh
-								bnZhc2VzJT6G
-								hAJpSQEqkoSE
-								hAxOU0RpY3Rp
-								b25hcnkAlIQB
-								aQOShJaWB05T
-								Q29sb3KGkoSE
-								hAdOU0NvbG9y
-								AJSEAWMDhAJm
-								ZgEBhpKElpYQ
-								TlNQYXJhZ3Jh
-								cGhTdHlsZYaS
-								hISEF05TTXV0
-								YWJsZVBhcmFn
-								cmFwaFN0eWxl
-								AISEEE5TUGFy
-								YWdyYXBoU3R5
-								bGUAlIQEQ0NA
-								UwEAhISEB05T
-								QXJyYXkAlJkA
-								hoEAAoQEWzFm
-								XSSGkoSWlgZO
-								U0ZvbnSGkoSE
-								hAZOU0ZvbnQe
-								lJkchAVbMjhj
-								XQYAAAAUAAAA
-								//5IAGUAbAB2
-								AGUAdABpAGMA
-								YQCEAWYQmwCb
-								AZsAmwCGhoY=
-								</data>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red255\green255\blue255;}
-{\*\expandedcolortbl;;\csgray\c100000;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \deftab720
 \pard\pardeftab720\qr\partightenfactor0
 
-\f0\fs32 \cf2 Page &lt;%CanvasNumber%&gt; of &lt;%TotalCanvases%&gt;}</string>
+\f0\fs32 \cf1 Page &lt;%CanvasNumber%&gt; of &lt;%TotalCanvases%&gt;}</string>
 								<key>TextAlongPathGlyphAnchor</key>
 								<string>left</string>
 							</dict>
@@ -44579,8 +44403,8 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -45211,8 +45035,8 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -45843,8 +45667,8 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -46397,8 +46221,8 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -46838,7 +46662,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -46974,7 +46798,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -47078,7 +46902,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -47218,7 +47042,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -47366,7 +47190,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -47504,7 +47328,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -47640,7 +47464,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -47946,7 +47770,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -48097,7 +47921,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -48236,7 +48060,7 @@ Last updated on: &lt;%ModificationDate%&gt;}</string>
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -48341,7 +48165,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -49244,15 +49068,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								p4aG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 PCF Metrics 
-\f1\b0 \cf2 v1.5.1+}</string>
+\b0 \cf2 v1.5.1+}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 										<key>VerticalPad</key>
@@ -49414,7 +49238,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Align</key>
 								<integer>0</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
@@ -49477,7 +49301,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Align</key>
 								<integer>0</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
@@ -49866,16 +49690,16 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								kp2SqZKahoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 PCF Metrics 
-\f1\b0 \cf2 v1.5.0 **
-\f0\b \cf2 \
+\b0 \cf2 v1.5.0 **
+\b \cf2 \
 }</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
@@ -50879,16 +50703,16 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								nZKpkpqGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 PCF Metrics 
-\f1\b0 \cf2 v1.4.x *
-\f0\b \cf2 \
+\b0 \cf2 v1.4.x *
+\b \cf2 \
 }</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
@@ -51341,15 +51165,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 PCF Metrics 
-\f1\b0 \cf2 v1.6.0}</string>
+\b0 \cf2 v1.6.0}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 										<key>VerticalPad</key>
@@ -51731,7 +51555,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						AJsAhoaG
 						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -51852,7 +51676,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCGhoY=
 								</data>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -51964,14 +51788,14 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 									<key>Text</key>
 									<dict>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;\f1\fnil\fcharset0 HelveticaNeue;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs16 \cf0 JMX Bridge\uc0\u8232 
-\f1\b0\fs14 End of Availability \
+\b0\fs14 End of Availability \
 (No support on PCF v2.3+)}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
@@ -52815,15 +52639,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Redis 
-\f1\b0 \cf2 v1.14.4+ *\
+\b0 \cf2 v1.14.4+ *\
 }</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
@@ -53280,15 +53104,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								coaSp4aG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Redis 
-\f1\b0 \cf2 v2.0.1\
+\b0 \cf2 v2.0.1\
 }</string>
 												<key>TextAlongPathGlyphAnchor</key>
 												<string>left</string>
@@ -53928,15 +53752,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								coaSp4aG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Redis 
-\f1\b0 \cf2 v2.0.0\
+\b0 \cf2 v2.0.0\
 }</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
@@ -54437,15 +54261,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Redis 
-\f1\b0 \cf2 v1.14.0 to v1.14.3 *}</string>
+\b0 \cf2 v1.14.0 to v1.14.3 *}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 										<key>VerticalPad</key>
@@ -54758,15 +54582,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								bG9yhpKnhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Redis 
-\f1\b0 \cf2 v1.13.3+\
+\b0 \cf2 v1.13.3+\
 }</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
@@ -55883,15 +55707,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								b3KGkqeGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Redis 
-\f1\b0 \cf2 v1.13.1\
+\b0 \cf2 v1.13.1\
 }</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
@@ -56364,59 +56188,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<integer>2</integer>
 								<key>Pad</key>
 								<real>20</real>
-								<key>RTFD</key>
-								<data>
-								BAtzdHJlYW10
-								eXBlZIHoA4QB
-								QISEhBJOU0F0
-								dHJpYnV0ZWRT
-								dHJpbmcAhIQI
-								TlNPYmplY3QA
-								hZKEhIQITlNT
-								dHJpbmcBlIQB
-								KypQYWdlIDwl
-								Q2FudmFzTnVt
-								YmVyJT4gb2Yg
-								PCVUb3RhbENh
-								bnZhc2VzJT6G
-								hAJpSQEqkoSE
-								hAxOU0RpY3Rp
-								b25hcnkAlIQB
-								aQOShJaWB05T
-								Q29sb3KGkoSE
-								hAdOU0NvbG9y
-								AJSEAWMDhAJm
-								ZgEBhpKElpYQ
-								TlNQYXJhZ3Jh
-								cGhTdHlsZYaS
-								hISEF05TTXV0
-								YWJsZVBhcmFn
-								cmFwaFN0eWxl
-								AISEEE5TUGFy
-								YWdyYXBoU3R5
-								bGUAlIQEQ0NA
-								UwEAhISEB05T
-								QXJyYXkAlJkA
-								hoEAAoQEWzFm
-								XSSGkoSWlgZO
-								U0ZvbnSGkoSE
-								hAZOU0ZvbnQe
-								lJkchAVbMjhj
-								XQYAAAAUAAAA
-								//5IAGUAbAB2
-								AGUAdABpAGMA
-								YQCEAWYQmwCb
-								AZsAmwCGhoY=
-								</data>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red255\green255\blue255;}
-{\*\expandedcolortbl;;\csgray\c100000;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \deftab720
 \pard\pardeftab720\qr\partightenfactor0
 
-\f0\fs32 \cf2 Page &lt;%CanvasNumber%&gt; of &lt;%TotalCanvases%&gt;}</string>
+\f0\fs32 \cf1 Page &lt;%CanvasNumber%&gt; of &lt;%TotalCanvases%&gt;}</string>
 								<key>TextAlongPathGlyphAnchor</key>
 								<string>left</string>
 							</dict>
@@ -56929,8 +56709,8 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -57561,8 +57341,8 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -58193,8 +57973,8 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -58745,8 +58525,8 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -59186,7 +58966,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -59322,7 +59102,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -59426,7 +59206,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -59566,7 +59346,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -59714,7 +59494,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -59852,7 +59632,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -59988,7 +59768,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -60294,7 +60074,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -60445,7 +60225,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -60584,7 +60364,7 @@ Last updated on: &lt;%ModificationDate%&gt;}</string>
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -60689,7 +60469,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -61300,15 +61080,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								b3KGkqeGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Spring Cloud Data Flow 
-\f1\b0 \cf2 v1.2.0+ *}</string>
+\b0 \cf2 v1.2.0+ *}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 										<key>VerticalPad</key>
@@ -61939,15 +61719,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								kqeGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Spring Cloud Data Flow 
-\f1\b0 \cf2 v1.4.0}</string>
+\b0 \cf2 v1.4.0}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 										<key>VerticalPad</key>
@@ -62227,15 +62007,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hpKnhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Spring Cloud Data Flow 
-\f1\b0 \cf2 v1.1.0+}</string>
+\b0 \cf2 v1.1.0+}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 										<key>VerticalPad</key>
@@ -62943,15 +62723,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hpKnhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Spring Cloud Data Flow 
-\f1\b0 \cf2 v1.3.0+}</string>
+\b0 \cf2 v1.3.0+}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 										<key>VerticalPad</key>
@@ -63805,15 +63585,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hpKnhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Spring Cloud Services 
-\f1\b0 \cf2 v2.0.3 *}</string>
+\b0 \cf2 v2.0.3 *}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 										<key>VerticalPad</key>
@@ -64439,15 +64219,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								kqeGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Spring Cloud Services 
-\f1\b0 \cf2 v1.5.6+}</string>
+\b0 \cf2 v1.5.6+}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 										<key>VerticalPad</key>
@@ -64900,15 +64680,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								coaSp4aG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Spring Cloud Services 
-\f1\b0 \cf2 v2.0.4+ *}</string>
+\b0 \cf2 v2.0.4+ *}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 										<key>VerticalPad</key>
@@ -65257,7 +65037,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						AJsAhoaG
 						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -65323,7 +65103,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						<key>Align</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
@@ -65533,7 +65313,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>20</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
@@ -66051,8 +65831,8 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -66683,8 +66463,8 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -67315,8 +67095,8 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -67867,8 +67647,8 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -68308,7 +68088,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -68444,7 +68224,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -68548,7 +68328,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -68688,7 +68468,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -68836,7 +68616,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -68974,7 +68754,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -69110,7 +68890,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -69416,7 +69196,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -69567,7 +69347,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -69706,7 +69486,7 @@ Last updated on: &lt;%ModificationDate%&gt;}</string>
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -69811,7 +69591,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -69983,15 +69763,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 									<key>Text</key>
 									<dict>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;\f1\fnil\fcharset0 HelveticaNeue;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs16 \cf0 Push Notification Service (Mobile)\
 
-\f1\b0\fs14 End of Availability \
+\b0\fs14 End of Availability \
 (No support on PCF v2.5+)}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
@@ -70601,8 +70381,8 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -70610,7 +70390,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 
 \f0\b\fs16 \cf2 Push Notification Service \
 (Mobile) 
-\f1\b0 \cf2 v1.10.0\
+\b0 \cf2 v1.10.0\
 }</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
@@ -70845,15 +70625,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								b2xvcoaSp4aG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Push Notification Service (Mobile) 
-\f1\b0 \cf2 v1.10.1\
+\b0 \cf2 v1.10.1\
 }</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
@@ -71482,15 +71262,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Push Notification Service (Mobile) 
-\f1\b0 \cf2 v1.10.2+ \
+\b0 \cf2 v1.10.2+ \
 }</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
@@ -72060,7 +71840,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						AJsAhoaG
 						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -72455,15 +72235,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Pivotal Cloud Cache 
-\f1\b0 \cf2 v1.6.2 }</string>
+\b0 \cf2 v1.6.2 }</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>center</string>
 										<key>VerticalPad</key>
@@ -72972,15 +72752,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								kqeGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Pivotal Cloud Cache 
-\f1\b0 \cf2 v1.5.1+ *}</string>
+\b0 \cf2 v1.5.1+ *}</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>left</string>
 										<key>VerticalPad</key>
@@ -73186,7 +72966,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Align</key>
 								<integer>0</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
@@ -73441,7 +73221,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>1</integer>
+		<integer>0</integer>
 		<key>Frame</key>
 		<string>{{448, 85}, {2092, 1332}}</string>
 		<key>ShowInfo</key>
@@ -73453,7 +73233,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 		<key>Sidebar_Tab</key>
 		<integer>0</integer>
 		<key>VisibleRegion</key>
-		<string>{{-9, 197.33333333333334}, {995.33333333333337, 804.66666666666663}}</string>
+		<string>{{-184.33333333333334, 348.66666666666669}, {995.33333333333337, 804.66666666666652}}</string>
 		<key>WindowInfo_InspectorTab</key>
 		<array>
 			<string>com.omnigroup.OmniGraffle.inspectorGroup.object</string>
