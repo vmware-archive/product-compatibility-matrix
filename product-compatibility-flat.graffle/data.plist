@@ -84,7 +84,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2019-05-22 11:00:33 +0000</string>
+	<string>2019-05-22 14:52:51 +0000</string>
 	<key>Modifier</key>
 	<string>Richard Johnson</string>
 	<key>MovementHandleVisible</key>
@@ -32192,7 +32192,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 		</dict>
 		<dict>
 			<key>ActiveLayerIndex</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>AutoAdjust</key>
 			<integer>0</integer>
 			<key>AutosizingMargin</key>
@@ -38535,170 +38535,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 										<real>12</real>
 									</dict>
 									<key>ID</key>
-									<integer>489</integer>
-									<key>LogicalPath</key>
-									<dict>
-										<key>elements</key>
-										<array>
-											<dict>
-												<key>element</key>
-												<string>MOVETO</string>
-												<key>point</key>
-												<string>{346.10169491525426, 914.91525423728797}</string>
-											</dict>
-											<dict>
-												<key>element</key>
-												<string>LINETO</string>
-												<key>point</key>
-												<string>{346.10169491525426, 993.91525423728797}</string>
-											</dict>
-										</array>
-									</dict>
-									<key>Name</key>
-									<string>SSO 1.7.2 to 1.8.1</string>
-									<key>Points</key>
-									<array>
-										<string>{346.10169491525426, 914.91525423728797}</string>
-										<string>{346.10169491525426, 993.91525423728797}</string>
-									</array>
-									<key>Style</key>
-									<dict>
-										<key>fill</key>
-										<dict>
-											<key>Draws</key>
-											<string>NO</string>
-										</dict>
-										<key>shadow</key>
-										<dict>
-											<key>Draws</key>
-											<string>NO</string>
-										</dict>
-										<key>stroke</key>
-										<dict>
-											<key>Color</key>
-											<dict>
-												<key>b</key>
-												<real>0.56715000000000004</real>
-												<key>g</key>
-												<real>0.60053999999999996</real>
-												<key>r</key>
-												<real>0.0047153799999999999</real>
-												<key>space</key>
-												<string>srgb</string>
-											</dict>
-											<key>HeadArrow</key>
-											<string>FilledArrow</string>
-											<key>HeadScale</key>
-											<real>0.5</real>
-											<key>Legacy</key>
-											<false/>
-											<key>TailArrow</key>
-											<string>FilledBall</string>
-											<key>TailScale</key>
-											<real>0.5</real>
-										</dict>
-									</dict>
-								</dict>
-								<dict>
-									<key>Class</key>
-									<string>LineGraphic</string>
-									<key>FontInfo</key>
-									<dict>
-										<key>Color</key>
-										<dict>
-											<key>space</key>
-											<string>gg22</string>
-											<key>w</key>
-											<string>0</string>
-										</dict>
-										<key>Font</key>
-										<string>Helvetica</string>
-										<key>Size</key>
-										<real>12</real>
-									</dict>
-									<key>ID</key>
-									<integer>490</integer>
-									<key>LogicalPath</key>
-									<dict>
-										<key>elements</key>
-										<array>
-											<dict>
-												<key>element</key>
-												<string>MOVETO</string>
-												<key>point</key>
-												<string>{223.72881355932202, 915.42372881355936}</string>
-											</dict>
-											<dict>
-												<key>element</key>
-												<string>LINETO</string>
-												<key>point</key>
-												<string>{223.72881355932202, 994.42372881355936}</string>
-											</dict>
-										</array>
-									</dict>
-									<key>Name</key>
-									<string>SSO 1.7.2 to 1.9.0</string>
-									<key>Points</key>
-									<array>
-										<string>{223.72881355932202, 915.42372881355936}</string>
-										<string>{223.72881355932202, 994.42372881355936}</string>
-									</array>
-									<key>Style</key>
-									<dict>
-										<key>fill</key>
-										<dict>
-											<key>Draws</key>
-											<string>NO</string>
-										</dict>
-										<key>shadow</key>
-										<dict>
-											<key>Draws</key>
-											<string>NO</string>
-										</dict>
-										<key>stroke</key>
-										<dict>
-											<key>Color</key>
-											<dict>
-												<key>b</key>
-												<real>0.56715000000000004</real>
-												<key>g</key>
-												<real>0.60053999999999996</real>
-												<key>r</key>
-												<real>0.0047153799999999999</real>
-												<key>space</key>
-												<string>srgb</string>
-											</dict>
-											<key>HeadArrow</key>
-											<string>FilledArrow</string>
-											<key>HeadScale</key>
-											<real>0.5</real>
-											<key>Legacy</key>
-											<false/>
-											<key>TailArrow</key>
-											<string>FilledBall</string>
-											<key>TailScale</key>
-											<real>0.5</real>
-										</dict>
-									</dict>
-								</dict>
-								<dict>
-									<key>Class</key>
-									<string>LineGraphic</string>
-									<key>FontInfo</key>
-									<dict>
-										<key>Color</key>
-										<dict>
-											<key>space</key>
-											<string>gg22</string>
-											<key>w</key>
-											<string>0</string>
-										</dict>
-										<key>Font</key>
-										<string>Helvetica</string>
-										<key>Size</key>
-										<real>12</real>
-									</dict>
-									<key>ID</key>
 									<integer>491</integer>
 									<key>LogicalPath</key>
 									<dict>
@@ -39353,88 +39189,6 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 									<array>
 										<string>{223.72881355932199, 865.59322033898286}</string>
 										<string>{223.72881355932199, 887.59322033898286}</string>
-									</array>
-									<key>Style</key>
-									<dict>
-										<key>fill</key>
-										<dict>
-											<key>Draws</key>
-											<string>NO</string>
-										</dict>
-										<key>shadow</key>
-										<dict>
-											<key>Draws</key>
-											<string>NO</string>
-										</dict>
-										<key>stroke</key>
-										<dict>
-											<key>Color</key>
-											<dict>
-												<key>b</key>
-												<real>0.56715000000000004</real>
-												<key>g</key>
-												<real>0.60053999999999996</real>
-												<key>r</key>
-												<real>0.0047153799999999999</real>
-												<key>space</key>
-												<string>srgb</string>
-											</dict>
-											<key>HeadArrow</key>
-											<string>FilledArrow</string>
-											<key>HeadScale</key>
-											<real>0.5</real>
-											<key>Legacy</key>
-											<false/>
-											<key>TailArrow</key>
-											<string>FilledBall</string>
-											<key>TailScale</key>
-											<real>0.5</real>
-										</dict>
-									</dict>
-								</dict>
-								<dict>
-									<key>Class</key>
-									<string>LineGraphic</string>
-									<key>FontInfo</key>
-									<dict>
-										<key>Color</key>
-										<dict>
-											<key>space</key>
-											<string>gg22</string>
-											<key>w</key>
-											<string>0</string>
-										</dict>
-										<key>Font</key>
-										<string>Helvetica</string>
-										<key>Size</key>
-										<real>12</real>
-									</dict>
-									<key>ID</key>
-									<integer>492</integer>
-									<key>LogicalPath</key>
-									<dict>
-										<key>elements</key>
-										<array>
-											<dict>
-												<key>element</key>
-												<string>MOVETO</string>
-												<key>point</key>
-												<string>{183.72881355932199, 865.59322033898286}</string>
-											</dict>
-											<dict>
-												<key>element</key>
-												<string>LINETO</string>
-												<key>point</key>
-												<string>{183.72881355932199, 995.59322033898286}</string>
-											</dict>
-										</array>
-									</dict>
-									<key>Name</key>
-									<string>SSO 1.7.1 to 1.9.0</string>
-									<key>Points</key>
-									<array>
-										<string>{183.72881355932199, 865.59322033898286}</string>
-										<string>{183.72881355932199, 995.59322033898286}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -75230,9 +74984,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 		<key>CurrentSheet</key>
 		<integer>2</integer>
 		<key>Frame</key>
-		<string>{{63, 176}, {2138, 1226}}</string>
+		<string>{{1038, 78}, {1522, 1339}}</string>
 		<key>ShowInfo</key>
-		<true/>
+		<false/>
 		<key>Sidebar</key>
 		<true/>
 		<key>SidebarWidth</key>
@@ -75240,7 +74994,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 		<key>Sidebar_Tab</key>
 		<integer>0</integer>
 		<key>VisibleRegion</key>
-		<string>{{-106.33333333333333, 210.66666666666666}, {1036, 744}}</string>
+		<string>{{4, 302.66666666666669}, {826, 819.33333333333326}}</string>
 		<key>WindowInfo_InspectorTab</key>
 		<array>
 			<string>com.omnigroup.OmniGraffle.inspectorGroup.object</string>
