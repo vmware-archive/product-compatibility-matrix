@@ -78999,7 +78999,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 		<key>Sidebar_Tab</key>
 		<integer>0</integer>
 		<key>VisibleRegion</key>
-		<string>{{25.666666666666668, 371.33333333333331}, {625.33333333333337, 818}}</string>
+		<string>{{-4.333333333333333, 366.66666666666669}, {625.33333333333337, 818}}</string>
 		<key>WindowInfo_InspectorTab</key>
 		<array>
 			<string>com.omnigroup.OmniGraffle.inspectorGroup.object</string>
