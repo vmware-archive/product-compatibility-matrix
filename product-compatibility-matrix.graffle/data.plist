@@ -84,9 +84,9 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2019-08-20 11:32:10 +0000</string>
+	<string>2019-08-20 15:18:10 +0000</string>
 	<key>Modifier</key>
-	<string>Samia Nneji</string>
+	<string>Christopher Wong</string>
 	<key>MovementHandleVisible</key>
 	<string>NO</string>
 	<key>NotesVisible</key>
@@ -112,15 +112,10 @@
 			<string>float</string>
 			<string>18</string>
 		</array>
-		<key>NSPaperName</key>
-		<array>
-			<string>string</string>
-			<string>na-letter</string>
-		</array>
 		<key>NSPaperSize</key>
 		<array>
 			<string>size</string>
-			<string>{611.99999332427979, 792}</string>
+			<string>{612.00002479553223, 792}</string>
 		</array>
 		<key>NSPrintReverseOrientation</key>
 		<array>
@@ -78362,7 +78357,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								KxxQaXZvdGFs
 								IENsb3VkIENh
 								Y2hlIHYxLjgu
-								MCsghoQCaUkB
+								MSsghoQCaUkB
 								FJKEhIQMTlNE
 								aWN0aW9uYXJ5
 								AJSEAWkDkoSW
@@ -78412,7 +78407,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Pivotal Cloud Cache 
-\f1\b0 v1.8.0+ }</string>
+\f1\b0 v1.8.1+ }</string>
 										<key>TextAlongPathGlyphAnchor</key>
 										<string>center</string>
 										<key>VerticalPad</key>
@@ -80254,7 +80249,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 		<key>CurrentSheet</key>
 		<integer>6</integer>
 		<key>Frame</key>
-		<string>{{0, 0}, {1440, 877}}</string>
+		<string>{{63, 36}, {1818, 1141}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>Sidebar</key>
@@ -80264,7 +80259,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 		<key>Sidebar_Tab</key>
 		<integer>2</integer>
 		<key>VisibleRegion</key>
-		<string>{{35, 429.33333333333331}, {518.66666666666663, 501.33333333333331}}</string>
+		<string>{{-55.666666666666664, 208}, {780.66666666666663, 687.33333333333337}}</string>
 		<key>WindowInfo_InspectorTab</key>
 		<array>
 			<string>com.omnigroup.OmniGraffle.inspectorGroup.object</string>
