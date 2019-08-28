@@ -84,7 +84,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2019-08-28 09:56:59 +0000</string>
+	<string>2019-08-28 10:23:24 +0000</string>
 	<key>Modifier</key>
 	<string>Richard Johnson</string>
 	<key>MovementHandleVisible</key>
@@ -43316,6 +43316,12 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
+												<string>{369.95052083333331, 643.57552083333337}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
 												<string>{370, 652.5}</string>
 											</dict>
 										</array>
@@ -43325,6 +43331,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 									<key>Points</key>
 									<array>
 										<string>{370, 632.5}</string>
+										<string>{369.95052083333331, 643.57552083333337}</string>
 										<string>{370, 652.5}</string>
 									</array>
 									<key>Style</key>
@@ -43792,6 +43799,92 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							<string>Group</string>
 							<key>Graphics</key>
 							<array>
+								<dict>
+									<key>AllowConnections</key>
+									<string>NO</string>
+									<key>AllowToConnect</key>
+									<false/>
+									<key>Class</key>
+									<string>LineGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Color</key>
+										<dict>
+											<key>space</key>
+											<string>gg22</string>
+											<key>w</key>
+											<string>0</string>
+										</dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>12</real>
+									</dict>
+									<key>ID</key>
+									<integer>638</integer>
+									<key>LogicalPath</key>
+									<dict>
+										<key>elements</key>
+										<array>
+											<dict>
+												<key>element</key>
+												<string>MOVETO</string>
+												<key>point</key>
+												<string>{370, 680}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{370.04947916666669, 700}</string>
+											</dict>
+										</array>
+									</dict>
+									<key>Name</key>
+									<string>RabbitMQ 1.70.0 to 1.17.1+</string>
+									<key>Points</key>
+									<array>
+										<string>{370, 680}</string>
+										<string>{370.04947916666669, 700}</string>
+									</array>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Color</key>
+											<dict>
+												<key>b</key>
+												<real>0.56715000000000004</real>
+												<key>g</key>
+												<real>0.60053999999999996</real>
+												<key>r</key>
+												<real>0.0047153799999999999</real>
+												<key>space</key>
+												<string>srgb</string>
+											</dict>
+											<key>HeadArrow</key>
+											<string>FilledArrow</string>
+											<key>HeadScale</key>
+											<real>0.5</real>
+											<key>Legacy</key>
+											<false/>
+											<key>TailArrow</key>
+											<string>FilledBall</string>
+											<key>TailScale</key>
+											<real>0.5</real>
+										</dict>
+									</dict>
+								</dict>
 								<dict>
 									<key>Class</key>
 									<string>Group</string>
@@ -80227,7 +80320,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 		<key>CurrentSheet</key>
 		<integer>3</integer>
 		<key>Frame</key>
-		<string>{{1280, 80}, {1280, 1337}}</string>
+		<string>{{308, 80}, {1585, 1337}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>Sidebar</key>
@@ -80237,7 +80330,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 		<key>Sidebar_Tab</key>
 		<integer>0</integer>
 		<key>VisibleRegion</key>
-		<string>{{0, 186}, {422, 818}}</string>
+		<string>{{32, 148.66666666666666}, {625.33333333333337, 818}}</string>
 		<key>WindowInfo_InspectorTab</key>
 		<array>
 			<string>com.omnigroup.OmniGraffle.inspectorGroup.object</string>
