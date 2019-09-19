@@ -5,7 +5,7 @@
 	<key>ApplicationVersion</key>
 	<array>
 		<string>com.omnigroup.OmniGraffle7</string>
-		<string>196.12.0.337285</string>
+		<string>196.14.0.337361</string>
 	</array>
 	<key>Creator</key>
 	<string>Molly Crowther</string>
@@ -18,7 +18,7 @@
 	<key>GuidesVisible</key>
 	<string>YES</string>
 	<key>ImageCounter</key>
-	<integer>47</integer>
+	<integer>49</integer>
 	<key>ImageLinkBack</key>
 	<array>
 		<dict/>
@@ -50,6 +50,7 @@
 	</array>
 	<key>ImageList</key>
 	<array>
+		<string>image48.png</string>
 		<string>image46.png</string>
 		<string>image44.png</string>
 		<string>image42.png</string>
@@ -75,7 +76,6 @@
 		<string>image8.png</string>
 		<string>image7.jpg</string>
 		<string>image6.png</string>
-		<string>image4.png</string>
 	</array>
 	<key>LinksVisible</key>
 	<string>NO</string>
@@ -84,9 +84,9 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2019-09-05 18:03:12 +0000</string>
+	<string>2019-09-19 09:56:40 +0000</string>
 	<key>Modifier</key>
-	<string>Ramia Davis</string>
+	<string>Richard Johnson</string>
 	<key>MovementHandleVisible</key>
 	<string>NO</string>
 	<key>NotesVisible</key>
@@ -112,10 +112,15 @@
 			<string>float</string>
 			<string>18</string>
 		</array>
+		<key>NSPaperName</key>
+		<array>
+			<string>string</string>
+			<string>na-letter</string>
+		</array>
 		<key>NSPaperSize</key>
 		<array>
 			<string>size</string>
-			<string>{611.99998760223389, 792}</string>
+			<string>{612, 792}</string>
 		</array>
 		<key>NSPrintReverseOrientation</key>
 		<array>
@@ -210,7 +215,7 @@
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{514.99999999999955, 0}, {110, 45}}</string>
+							<string>{{492.02127659574523, 0}, {132.97872340425531, 45}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -228,15 +233,24 @@
 								<string>SourceSansPro-Light</string>
 							</dict>
 							<key>ID</key>
-							<integer>253</integer>
+							<integer>684</integer>
 							<key>Name</key>
 							<string>Page Number</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
 								<dict>
-									<key>Draws</key>
-									<string>NO</string>
+									<key>Color</key>
+									<dict>
+										<key>b</key>
+										<real>0.647868</real>
+										<key>g</key>
+										<real>0.72414299999999998</real>
+										<key>r</key>
+										<real>0.101855</real>
+										<key>space</key>
+										<string>srgb</string>
+									</dict>
 								</dict>
 								<key>shadow</key>
 								<dict>
@@ -256,7 +270,7 @@
 								<key>Pad</key>
 								<real>20</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
@@ -265,18 +279,22 @@
 
 \f0\fs32 \cf1 Page &lt;%CanvasNumber%&gt; of &lt;%TotalCanvases%&gt;}</string>
 								<key>TextAlongPathGlyphAnchor</key>
-								<string>left</string>
+								<string>center</string>
 							</dict>
 							<key>Wrap</key>
 							<string>NO</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{107.99999999999955, 0}, {517, 45}}</string>
+							<string>{{18.199999999999946, 6.6666666666662877}, {96.799999999999997, 30}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
-							<integer>271</integer>
+							<integer>685</integer>
+							<key>ImageID</key>
+							<integer>48</integer>
+							<key>Scaling</key>
+							<integer>1</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -284,11 +302,53 @@
 									<key>Color</key>
 									<dict>
 										<key>b</key>
-										<real>0.43238875269889832</real>
+										<real>0.647868</real>
 										<key>g</key>
-										<real>0.47383201122283936</real>
+										<real>0.72414299999999998</real>
 										<key>r</key>
-										<real>0.0</real>
+										<real>0.101855</real>
+										<key>space</key>
+										<string>srgb</string>
+									</dict>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+							<key>Text</key>
+							<dict>
+								<key>TextAlongPathGlyphAnchor</key>
+								<string>center</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>Bounds</key>
+							<string>{{0, 0}, {624.99999999999989, 45}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>ID</key>
+							<integer>686</integer>
+							<key>Name</key>
+							<string>Rectangle</string>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Color</key>
+									<dict>
+										<key>b</key>
+										<real>0.647868</real>
+										<key>g</key>
+										<real>0.72414299999999998</real>
+										<key>r</key>
+										<real>0.101855</real>
 										<key>space</key>
 										<string>srgb</string>
 									</dict>
@@ -312,46 +372,15 @@
 							<key>VFlip</key>
 							<string>YES</string>
 						</dict>
-						<dict>
-							<key>Bounds</key>
-							<string>{{0, 0}, {109.83870967741936, 45}}</string>
-							<key>Class</key>
-							<string>ShapedGraphic</string>
-							<key>ID</key>
-							<integer>272</integer>
-							<key>ImageID</key>
-							<integer>4</integer>
-							<key>Style</key>
-							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>shadow</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>stroke</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-							</dict>
-							<key>Text</key>
-							<dict>
-								<key>TextAlongPathGlyphAnchor</key>
-								<string>center</string>
-							</dict>
-						</dict>
 					</array>
 					<key>ID</key>
-					<integer>320</integer>
+					<integer>683</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Name</key>
 					<string>Header</string>
+					<key>Scaling</key>
+					<integer>-1</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -543,7 +572,7 @@
 												</dict>
 												<dict>
 													<key>Bounds</key>
-													<string>{{71.826923076923322, 282.11538461538458}, {57.115384615384613, 25.384615384615383}}</string>
+													<string>{{71.826923076923336, 282.11538461538458}, {57.115384615384613, 25.384615384615383}}</string>
 													<key>Class</key>
 													<string>ShapedGraphic</string>
 													<key>ID</key>
@@ -774,7 +803,7 @@
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -822,7 +851,7 @@
 														<key>element</key>
 														<string>MOVETO</string>
 														<key>point</key>
-														<string>{15.000000000000426, 276.99999999999989}</string>
+														<string>{15.000000000000441, 276.99999999999989}</string>
 													</dict>
 													<dict>
 														<key>element</key>
@@ -834,7 +863,7 @@
 											</dict>
 											<key>Points</key>
 											<array>
-												<string>{15.000000000000426, 276.99999999999989}</string>
+												<string>{15.000000000000441, 276.99999999999989}</string>
 												<string>{154.99999999999986, 276.99999999999989}</string>
 											</array>
 											<key>Style</key>
@@ -876,7 +905,7 @@
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{15, 257.99999999999989}, {140.00000000000003, 95}}</string>
+											<string>{{14.999999999999986, 257.99999999999989}, {140.00000000000003, 95}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>FontInfo</key>
@@ -1406,7 +1435,7 @@
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -2038,7 +2067,7 @@
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -2590,7 +2619,7 @@
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -3031,7 +3060,7 @@
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -3167,7 +3196,7 @@
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -3271,7 +3300,7 @@
 								hoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -3411,7 +3440,7 @@
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -3559,7 +3588,7 @@
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -3697,7 +3726,7 @@
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -3833,7 +3862,7 @@
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -4130,7 +4159,7 @@
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -4279,7 +4308,7 @@
 								mwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -4418,7 +4447,7 @@ Last updated on: &lt;%ModificationDate%&gt;}</string>
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -4523,7 +4552,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -4700,7 +4729,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCbAIaGhg==
 								</data>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -4805,7 +4834,7 @@ and Ops Manager simultaneously.)}</string>
 								hoaG
 								</data>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -5185,7 +5214,7 @@ and Ops Manager simultaneously.)}</string>
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -5724,7 +5753,7 @@ and Ops Manager simultaneously.)}</string>
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -6263,7 +6292,7 @@ and Ops Manager simultaneously.)}</string>
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -6803,7 +6832,7 @@ and Ops Manager simultaneously.)}</string>
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -7270,7 +7299,7 @@ and Ops Manager simultaneously.)}</string>
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -8028,7 +8057,7 @@ Segment
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -8599,7 +8628,7 @@ Segment
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -9135,7 +9164,7 @@ Segment
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -9740,7 +9769,7 @@ Segment
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -10234,7 +10263,7 @@ Segment
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -10727,7 +10756,7 @@ Segment
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -11137,7 +11166,7 @@ Segment
 								mwCbAIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -11628,7 +11657,7 @@ Segment
 								mwCbAIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -12024,7 +12053,7 @@ Segment
 									<key>Text</key>
 									<dict>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;\f1\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
@@ -12390,7 +12419,7 @@ Windows 2012R2\
 		</dict>
 		<dict>
 			<key>ActiveLayerIndex</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>AutoAdjust</key>
 			<integer>0</integer>
 			<key>AutosizingMargin</key>
@@ -12461,7 +12490,7 @@ Windows 2012R2\
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{514.99999999999955, 0}, {110, 45}}</string>
+							<string>{{492.02127659574523, 0}, {132.97872340425531, 45}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -12479,15 +12508,24 @@ Windows 2012R2\
 								<string>SourceSansPro-Light</string>
 							</dict>
 							<key>ID</key>
-							<integer>253</integer>
+							<integer>657</integer>
 							<key>Name</key>
 							<string>Page Number</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
 								<dict>
-									<key>Draws</key>
-									<string>NO</string>
+									<key>Color</key>
+									<dict>
+										<key>b</key>
+										<real>0.647868</real>
+										<key>g</key>
+										<real>0.72414299999999998</real>
+										<key>r</key>
+										<real>0.101855</real>
+										<key>space</key>
+										<string>srgb</string>
+									</dict>
 								</dict>
 								<key>shadow</key>
 								<dict>
@@ -12507,7 +12545,7 @@ Windows 2012R2\
 								<key>Pad</key>
 								<real>20</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
@@ -12516,18 +12554,22 @@ Windows 2012R2\
 
 \f0\fs32 \cf1 Page &lt;%CanvasNumber%&gt; of &lt;%TotalCanvases%&gt;}</string>
 								<key>TextAlongPathGlyphAnchor</key>
-								<string>left</string>
+								<string>center</string>
 							</dict>
 							<key>Wrap</key>
 							<string>NO</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{107.99999999999955, 0}, {517, 45}}</string>
+							<string>{{18.199999999999939, 6.6666666666662877}, {96.799999999999997, 30}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
-							<integer>271</integer>
+							<integer>658</integer>
+							<key>ImageID</key>
+							<integer>48</integer>
+							<key>Scaling</key>
+							<integer>1</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -12535,11 +12577,53 @@ Windows 2012R2\
 									<key>Color</key>
 									<dict>
 										<key>b</key>
-										<real>0.43238900000000002</real>
+										<real>0.647868</real>
 										<key>g</key>
-										<real>0.47383199999999998</real>
+										<real>0.72414299999999998</real>
 										<key>r</key>
-										<real>0.0</real>
+										<real>0.101855</real>
+										<key>space</key>
+										<string>srgb</string>
+									</dict>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+							<key>Text</key>
+							<dict>
+								<key>TextAlongPathGlyphAnchor</key>
+								<string>center</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>Bounds</key>
+							<string>{{0, 0}, {624.99999999999989, 45}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>ID</key>
+							<integer>659</integer>
+							<key>Name</key>
+							<string>Rectangle</string>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Color</key>
+									<dict>
+										<key>b</key>
+										<real>0.647868</real>
+										<key>g</key>
+										<real>0.72414299999999998</real>
+										<key>r</key>
+										<real>0.101855</real>
 										<key>space</key>
 										<string>srgb</string>
 									</dict>
@@ -12563,46 +12647,15 @@ Windows 2012R2\
 							<key>VFlip</key>
 							<string>YES</string>
 						</dict>
-						<dict>
-							<key>Bounds</key>
-							<string>{{0, 0}, {109.83870967741936, 45}}</string>
-							<key>Class</key>
-							<string>ShapedGraphic</string>
-							<key>ID</key>
-							<integer>272</integer>
-							<key>ImageID</key>
-							<integer>4</integer>
-							<key>Style</key>
-							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>shadow</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>stroke</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-							</dict>
-							<key>Text</key>
-							<dict>
-								<key>TextAlongPathGlyphAnchor</key>
-								<string>center</string>
-							</dict>
-						</dict>
 					</array>
 					<key>ID</key>
-					<integer>320</integer>
+					<integer>656</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Name</key>
 					<string>Header</string>
+					<key>Scaling</key>
+					<integer>-1</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -13025,7 +13078,7 @@ Windows 2012R2\
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -13657,7 +13710,7 @@ Windows 2012R2\
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -14289,7 +14342,7 @@ Windows 2012R2\
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -14841,7 +14894,7 @@ Windows 2012R2\
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -15282,7 +15335,7 @@ Windows 2012R2\
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -15418,7 +15471,7 @@ Windows 2012R2\
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -15522,7 +15575,7 @@ Windows 2012R2\
 								hoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -15662,7 +15715,7 @@ Windows 2012R2\
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -15810,7 +15863,7 @@ Windows 2012R2\
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -15948,7 +16001,7 @@ Windows 2012R2\
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -16084,7 +16137,7 @@ Windows 2012R2\
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -16381,7 +16434,7 @@ Windows 2012R2\
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -16530,7 +16583,7 @@ Windows 2012R2\
 								mwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -16669,7 +16722,7 @@ Last updated on: &lt;%ModificationDate%&gt;}</string>
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -16774,7 +16827,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -16996,7 +17049,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoaG
 								</data>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -17156,7 +17209,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCbAIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -17315,7 +17368,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AJsAhoaG
 														</data>
 														<key>Text</key>
-														<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+														<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -17876,7 +17929,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -18035,7 +18088,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AJsAhoaG
 														</data>
 														<key>Text</key>
-														<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+														<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -18596,7 +18649,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -18755,7 +18808,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCGhoY=
 														</data>
 														<key>Text</key>
-														<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+														<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -19316,7 +19369,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -19475,7 +19528,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCGhoY=
 														</data>
 														<key>Text</key>
-														<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+														<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -20028,7 +20081,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -20150,7 +20203,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -20309,7 +20362,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCGhoY=
 														</data>
 														<key>Text</key>
-														<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+														<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -20897,7 +20950,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -21056,7 +21109,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCGhoY=
 														</data>
 														<key>Text</key>
-														<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+														<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -21617,7 +21670,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -21774,7 +21827,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCGhoY=
 														</data>
 														<key>Text</key>
-														<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+														<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -22335,7 +22388,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -22952,7 +23005,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -23569,7 +23622,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -24102,7 +24155,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -24752,7 +24805,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -25423,7 +25476,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -25815,7 +25868,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCbAIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -25938,7 +25991,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -26059,7 +26112,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -26187,7 +26240,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 		</dict>
 		<dict>
 			<key>ActiveLayerIndex</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>AutoAdjust</key>
 			<integer>0</integer>
 			<key>AutosizingMargin</key>
@@ -26258,7 +26311,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{515, 0}, {110, 45}}</string>
+							<string>{{492.02127659574523, 0}, {132.97872340425531, 45}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -26276,15 +26329,24 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<string>SourceSansPro-Light</string>
 							</dict>
 							<key>ID</key>
-							<integer>367</integer>
+							<integer>559</integer>
 							<key>Name</key>
 							<string>Page Number</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
 								<dict>
-									<key>Draws</key>
-									<string>NO</string>
+									<key>Color</key>
+									<dict>
+										<key>b</key>
+										<real>0.647868</real>
+										<key>g</key>
+										<real>0.72414299999999998</real>
+										<key>r</key>
+										<real>0.101855</real>
+										<key>space</key>
+										<string>srgb</string>
+									</dict>
 								</dict>
 								<key>shadow</key>
 								<dict>
@@ -26304,7 +26366,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>20</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
@@ -26313,18 +26375,22 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 
 \f0\fs32 \cf1 Page &lt;%CanvasNumber%&gt; of &lt;%TotalCanvases%&gt;}</string>
 								<key>TextAlongPathGlyphAnchor</key>
-								<string>left</string>
+								<string>center</string>
 							</dict>
 							<key>Wrap</key>
 							<string>NO</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{108, 0}, {517, 45}}</string>
+							<string>{{18.199999999999946, 6.6666666666662877}, {96.799999999999997, 30}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
-							<integer>368</integer>
+							<integer>560</integer>
+							<key>ImageID</key>
+							<integer>48</integer>
+							<key>Scaling</key>
+							<integer>1</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -26332,11 +26398,53 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 									<key>Color</key>
 									<dict>
 										<key>b</key>
-										<real>0.43238900000000002</real>
+										<real>0.647868</real>
 										<key>g</key>
-										<real>0.47383199999999998</real>
+										<real>0.72414299999999998</real>
 										<key>r</key>
-										<real>0.0</real>
+										<real>0.101855</real>
+										<key>space</key>
+										<string>srgb</string>
+									</dict>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+							<key>Text</key>
+							<dict>
+								<key>TextAlongPathGlyphAnchor</key>
+								<string>center</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>Bounds</key>
+							<string>{{0, 0}, {624.99999999999989, 45}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>ID</key>
+							<integer>561</integer>
+							<key>Name</key>
+							<string>Rectangle</string>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Color</key>
+									<dict>
+										<key>b</key>
+										<real>0.647868</real>
+										<key>g</key>
+										<real>0.72414299999999998</real>
+										<key>r</key>
+										<real>0.101855</real>
 										<key>space</key>
 										<string>srgb</string>
 									</dict>
@@ -26360,46 +26468,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							<key>VFlip</key>
 							<string>YES</string>
 						</dict>
-						<dict>
-							<key>Bounds</key>
-							<string>{{0, 0}, {109.83870967741936, 45}}</string>
-							<key>Class</key>
-							<string>ShapedGraphic</string>
-							<key>ID</key>
-							<integer>369</integer>
-							<key>ImageID</key>
-							<integer>4</integer>
-							<key>Style</key>
-							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>shadow</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>stroke</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-							</dict>
-							<key>Text</key>
-							<dict>
-								<key>TextAlongPathGlyphAnchor</key>
-								<string>center</string>
-							</dict>
-						</dict>
 					</array>
 					<key>ID</key>
-					<integer>366</integer>
+					<integer>558</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Name</key>
 					<string>Header</string>
+					<key>Scaling</key>
+					<integer>-1</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -26822,7 +26899,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -27454,7 +27531,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -28086,7 +28163,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -28638,7 +28715,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -29079,7 +29156,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -29215,7 +29292,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -29319,7 +29396,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -29459,7 +29536,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -29607,7 +29684,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -29745,7 +29822,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -29881,7 +29958,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -30178,7 +30255,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -30328,7 +30405,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -30467,7 +30544,7 @@ Last updated on: &lt;%ModificationDate%&gt;}</string>
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -30572,7 +30649,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -30711,7 +30788,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						AIQBZgybAJsBmwCbAIaGhg==
 						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -30829,7 +30906,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 									<key>Text</key>
 									<dict>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;\f1\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
@@ -31359,7 +31436,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AJsAhoaXAQGG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -31724,7 +31801,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -32460,7 +32537,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -33161,7 +33238,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -33616,7 +33693,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -34863,7 +34940,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AJsAhoaXAQGG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -34990,6 +35067,12 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
+												<string>{390.40625, 941.70052083333337}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
 												<string>{390.49999999999989, 952.33333333333371}</string>
 											</dict>
 										</array>
@@ -34999,6 +35082,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 									<key>Points</key>
 									<array>
 										<string>{390.49999999999989, 929.3333333333336}</string>
+										<string>{390.40625, 941.70052083333337}</string>
 										<string>{390.49999999999989, 952.33333333333371}</string>
 									</array>
 									<key>Style</key>
@@ -35520,7 +35604,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AJsAhoaXAQGG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -35616,12 +35700,176 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							<array>
 								<dict>
 									<key>Class</key>
+									<string>LineGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Color</key>
+										<dict>
+											<key>space</key>
+											<string>gg22</string>
+											<key>w</key>
+											<string>0</string>
+										</dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>12</real>
+									</dict>
+									<key>ID</key>
+									<integer>553</integer>
+									<key>LogicalPath</key>
+									<dict>
+										<key>elements</key>
+										<array>
+											<dict>
+												<key>element</key>
+												<string>MOVETO</string>
+												<key>point</key>
+												<string>{391.20000582933426, 984.60001467168331}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{391.20000582933426, 1007.6000146716834}</string>
+											</dict>
+										</array>
+									</dict>
+									<key>Name</key>
+									<string>HW 1.5.x to 1.6.x</string>
+									<key>Points</key>
+									<array>
+										<string>{391.20000582933426, 984.60001467168331}</string>
+										<string>{391.20000582933426, 1007.6000146716834}</string>
+									</array>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Color</key>
+											<dict>
+												<key>b</key>
+												<real>0.56715000000000004</real>
+												<key>g</key>
+												<real>0.60053999999999996</real>
+												<key>r</key>
+												<real>0.0047153799999999999</real>
+												<key>space</key>
+												<string>srgb</string>
+											</dict>
+											<key>HeadArrow</key>
+											<string>FilledArrow</string>
+											<key>HeadScale</key>
+											<real>0.5</real>
+											<key>Legacy</key>
+											<false/>
+											<key>TailArrow</key>
+											<string>FilledBall</string>
+											<key>TailScale</key>
+											<real>0.5</real>
+										</dict>
+									</dict>
+								</dict>
+								<dict>
+									<key>Class</key>
+									<string>LineGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Color</key>
+										<dict>
+											<key>space</key>
+											<string>gg22</string>
+											<key>w</key>
+											<string>0</string>
+										</dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>12</real>
+									</dict>
+									<key>ID</key>
+									<integer>550</integer>
+									<key>LogicalPath</key>
+									<dict>
+										<key>elements</key>
+										<array>
+											<dict>
+												<key>element</key>
+												<string>MOVETO</string>
+												<key>point</key>
+												<string>{537.5, 984.60001467168331}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{537.5, 1007.6000146716834}</string>
+											</dict>
+										</array>
+									</dict>
+									<key>Name</key>
+									<string>HW 1.5.x to 1.6.x</string>
+									<key>Points</key>
+									<array>
+										<string>{537.5, 984.60001467168331}</string>
+										<string>{537.5, 1007.6000146716834}</string>
+									</array>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Color</key>
+											<dict>
+												<key>b</key>
+												<real>0.56715000000000004</real>
+												<key>g</key>
+												<real>0.60053999999999996</real>
+												<key>r</key>
+												<real>0.0047153799999999999</real>
+												<key>space</key>
+												<string>srgb</string>
+											</dict>
+											<key>HeadArrow</key>
+											<string>FilledArrow</string>
+											<key>HeadScale</key>
+											<real>0.5</real>
+											<key>Legacy</key>
+											<false/>
+											<key>TailArrow</key>
+											<string>FilledBall</string>
+											<key>TailScale</key>
+											<real>0.5</real>
+										</dict>
+									</dict>
+								</dict>
+								<dict>
+									<key>Class</key>
 									<string>Group</string>
 									<key>Graphics</key>
 									<array>
 										<dict>
 											<key>Bounds</key>
-											<string>{{86.333333333333002, 968.33333333333326}, {13.615384615384608, 9.9999999999999929}}</string>
+											<string>{{86.333333333333002, 968.33334708710572}, {13.615384615384608, 9.9999999999999929}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -35662,7 +35910,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{69.333333333333144, 968.33333333333326}, {13.541666128569197, 10}}</string>
+											<string>{{69.333333333333144, 968.33334708710572}, {13.541666128569197, 10}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -35697,7 +35945,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{54.33333333333303, 968.33333333333326}, {9.9999999999999929, 10}}</string>
+											<string>{{54.33333333333303, 968.33334708710572}, {9.9999999999999929, 10}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -35732,7 +35980,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{104.33333333333303, 968.33333333333326}, {10, 10.000000000000007}}</string>
+											<string>{{104.33333333333303, 968.33334708710572}, {10, 10.000000000000007}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -35791,7 +36039,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{50, 966.00000000000023}, {95, 4.9999999999999751}}</string>
+									<string>{{50, 966.00001375377269}, {95, 4.9999999999999751}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -35896,7 +36144,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AJsAhoaXAQGG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -35915,7 +36163,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{25, 958.50000000000023}, {20, 20}}</string>
+									<string>{{25, 958.50001375377269}, {20, 20}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -35950,7 +36198,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{20, 951.50000000000023}, {585, 35}}</string>
+									<string>{{20, 951.50001375377269}, {585, 35}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -36026,8 +36274,419 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							<key>Graphics</key>
 							<array>
 								<dict>
+									<key>Class</key>
+									<string>Group</string>
+									<key>Graphics</key>
+									<array>
+										<dict>
+											<key>Bounds</key>
+											<string>{{390.33333333333269, 1024.5333483417837}, {13.615384615384617, 9.9999999999999858}}</string>
+											<key>Class</key>
+											<string>ShapedGraphic</string>
+											<key>ID</key>
+											<integer>543</integer>
+											<key>ImageID</key>
+											<integer>31</integer>
+											<key>ManualSizeImage</key>
+											<string>YES</string>
+											<key>Scale</key>
+											<real>0.076923073002925335</real>
+											<key>ScaleY</key>
+											<real>0.076923079788684845</real>
+											<key>StretchImage</key>
+											<false/>
+											<key>Style</key>
+											<dict>
+												<key>fill</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>shadow</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>stroke</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+											</dict>
+											<key>Text</key>
+											<dict>
+												<key>TextAlongPathGlyphAnchor</key>
+												<string>center</string>
+											</dict>
+										</dict>
+										<dict>
+											<key>Bounds</key>
+											<string>{{373.3333333333328, 1024.5333483417837}, {13.541666128569231, 10.000000000000004}}</string>
+											<key>Class</key>
+											<string>ShapedGraphic</string>
+											<key>ID</key>
+											<integer>544</integer>
+											<key>ImageID</key>
+											<integer>7</integer>
+											<key>Scaling</key>
+											<integer>1</integer>
+											<key>Style</key>
+											<dict>
+												<key>fill</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>shadow</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>stroke</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+											</dict>
+											<key>Text</key>
+											<dict>
+												<key>TextAlongPathGlyphAnchor</key>
+												<string>center</string>
+											</dict>
+										</dict>
+										<dict>
+											<key>Bounds</key>
+											<string>{{358.33333333333292, 1024.5333483417837}, {10.000000000000009, 10.000000000000004}}</string>
+											<key>Class</key>
+											<string>ShapedGraphic</string>
+											<key>ID</key>
+											<integer>545</integer>
+											<key>ImageID</key>
+											<integer>6</integer>
+											<key>Scaling</key>
+											<integer>1</integer>
+											<key>Style</key>
+											<dict>
+												<key>fill</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>shadow</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>stroke</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+											</dict>
+											<key>Text</key>
+											<dict>
+												<key>TextAlongPathGlyphAnchor</key>
+												<string>center</string>
+											</dict>
+										</dict>
+										<dict>
+											<key>Bounds</key>
+											<string>{{408.33333333333195, 1024.5333483417839}, {10.000000000000012, 10.000000000000014}}</string>
+											<key>Class</key>
+											<string>ShapedGraphic</string>
+											<key>ID</key>
+											<integer>546</integer>
+											<key>ImageID</key>
+											<integer>28</integer>
+											<key>Style</key>
+											<dict>
+												<key>fill</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>shadow</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>stroke</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+											</dict>
+											<key>Text</key>
+											<dict>
+												<key>TextAlongPathGlyphAnchor</key>
+												<string>center</string>
+											</dict>
+										</dict>
+									</array>
+									<key>ID</key>
+									<integer>542</integer>
+									<key>Name</key>
+									<string>IaaS</string>
+									<key>Scaling</key>
+									<integer>-1</integer>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+									</dict>
+								</dict>
+								<dict>
 									<key>Bounds</key>
-									<string>{{165, 829}, {140, 165}}</string>
+									<string>{{353.99999999999898, 1022.2000150084496}, {94.999999999999972, 4.9999999999999751}}</string>
+									<key>Class</key>
+									<string>ShapedGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Color</key>
+										<dict>
+											<key>space</key>
+											<string>gg22</string>
+											<key>w</key>
+											<string>0</string>
+										</dict>
+										<key>Font</key>
+										<string>SourceSansPro-Regular</string>
+										<key>Size</key>
+										<real>8</real>
+									</dict>
+									<key>ID</key>
+									<integer>547</integer>
+									<key>Magnets</key>
+									<array>
+										<string>{1, 0}</string>
+										<string>{-1, 0}</string>
+										<string>{0, 0.5}</string>
+									</array>
+									<key>Name</key>
+									<string>Healthwatch</string>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+									</dict>
+									<key>Text</key>
+									<dict>
+										<key>Align</key>
+										<integer>0</integer>
+										<key>Pad</key>
+										<real>0.0</real>
+										<key>RTFD</key>
+										<data>
+								BAtzdHJlYW10
+								eXBlZIHoA4QB
+								QISEhBJOU0F0
+								dHJpYnV0ZWRT
+								dHJpbmcAhIQI
+								TlNPYmplY3QA
+								hZKEhIQITlNT
+								dHJpbmcBlIQB
+								KxdQQ0YgSGVh
+								bHRod2F0Y2gg
+								djEuNi54CoaE
+								AmlJARCShISE
+								DE5TRGljdGlv
+								bmFyeQCUhAFp
+								A5KElpYHTlND
+								b2xvcoaShISE
+								B05TQ29sb3IA
+								lIQBYwGEBGZm
+								ZmaDfPLwPYN8
+								8vA9g3zy8D0B
+								hpKElpYQTlNQ
+								YXJhZ3JhcGhT
+								dHlsZYaShISE
+								F05TTXV0YWJs
+								ZVBhcmFncmFw
+								aFN0eWxlAISE
+								EE5TUGFyYWdy
+								YXBoU3R5bGUA
+								lIQEQ0NAUwAA
+								hISEB05TQXJy
+								YXkAlJkAhoEA
+								AoQEWzFmXSSG
+								koSWlgZOU0Zv
+								bnSGkoSEhAZO
+								U0ZvbnQelJko
+								hAVbNDBjXQYA
+								AAAeAAAA//5I
+								AGUAbAB2AGUA
+								dABpAGMAYQAt
+								AEIAbwBsAGQA
+								AACEAWYImwCb
+								AZsAmwCGhpcC
+								BpKEmJkDkpmS
+								mpKckp2SopKE
+								pJkchAVbMjhj
+								XQYAAAAUAAAA
+								//5IAGUAbAB2
+								AGUAdABpAGMA
+								YQCkCJsAmwGb
+								AJsAhoaXAQGG
+										</data>
+										<key>Text</key>
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
+{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\b\fs16 \cf2 PCF Healthwatch 
+\f1\b0 v1.6.x
+\f0\b \
+}</string>
+										<key>TextAlongPathGlyphAnchor</key>
+										<string>center</string>
+										<key>VerticalPad</key>
+										<real>0.0</real>
+									</dict>
+								</dict>
+								<dict>
+									<key>Bounds</key>
+									<string>{{328.99999999999977, 1014.7000150084496}, {20.000000000000028, 20.000000000000007}}</string>
+									<key>Class</key>
+									<string>ShapedGraphic</string>
+									<key>ID</key>
+									<integer>548</integer>
+									<key>ImageID</key>
+									<integer>33</integer>
+									<key>Name</key>
+									<string>Healthwatch logo</string>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+									</dict>
+									<key>Text</key>
+									<dict>
+										<key>TextAlongPathGlyphAnchor</key>
+										<string>center</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>Bounds</key>
+									<string>{{322.99999999999977, 1007.2000150084496}, {282.00000000000023, 34.999999999999993}}</string>
+									<key>Class</key>
+									<string>ShapedGraphic</string>
+									<key>ID</key>
+									<integer>549</integer>
+									<key>Magnets</key>
+									<array>
+										<string>{0, 1}</string>
+										<string>{0, -1}</string>
+										<string>{1, 0}</string>
+										<string>{-1, 0}</string>
+									</array>
+									<key>Name</key>
+									<string>Healthwatch</string>
+									<key>Style</key>
+									<dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Color</key>
+											<dict>
+												<key>b</key>
+												<real>0.78109200000000001</real>
+												<key>g</key>
+												<real>0.77117999999999998</real>
+												<key>r</key>
+												<real>0.76405999999999996</real>
+												<key>space</key>
+												<string>srgb</string>
+											</dict>
+											<key>CornerRadius</key>
+											<real>3</real>
+										</dict>
+									</dict>
+									<key>Text</key>
+									<dict>
+										<key>TextAlongPathGlyphAnchor</key>
+										<string>center</string>
+									</dict>
+								</dict>
+							</array>
+							<key>ID</key>
+							<integer>541</integer>
+							<key>Name</key>
+							<string>Healthwatch 1.6.x</string>
+							<key>Scaling</key>
+							<integer>-1</integer>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+						</dict>
+						<dict>
+							<key>Class</key>
+							<string>Group</string>
+							<key>Graphics</key>
+							<array>
+								<dict>
+									<key>Bounds</key>
+									<string>{{165, 829}, {140, 281}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -36069,7 +36728,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{320, 829}, {140, 165}}</string>
+									<string>{{320, 829}, {140, 281}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -36111,7 +36770,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{470, 829}, {140, 165}}</string>
+									<string>{{470, 829}, {140, 281}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -36153,7 +36812,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{15, 829}, {140, 165}}</string>
+									<string>{{15, 829}, {140, 281}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -36305,7 +36964,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 		</dict>
 		<dict>
 			<key>ActiveLayerIndex</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>AutoAdjust</key>
 			<integer>0</integer>
 			<key>AutosizingMargin</key>
@@ -36376,7 +37035,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{515, 0}, {110, 45}}</string>
+							<string>{{492.02127659574523, 0}, {132.97872340425531, 45}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -36394,15 +37053,24 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<string>SourceSansPro-Light</string>
 							</dict>
 							<key>ID</key>
-							<integer>382</integer>
+							<integer>656</integer>
 							<key>Name</key>
 							<string>Page Number</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
 								<dict>
-									<key>Draws</key>
-									<string>NO</string>
+									<key>Color</key>
+									<dict>
+										<key>b</key>
+										<real>0.647868</real>
+										<key>g</key>
+										<real>0.72414299999999998</real>
+										<key>r</key>
+										<real>0.101855</real>
+										<key>space</key>
+										<string>srgb</string>
+									</dict>
 								</dict>
 								<key>shadow</key>
 								<dict>
@@ -36422,7 +37090,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>20</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
@@ -36431,18 +37099,22 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 
 \f0\fs32 \cf1 Page &lt;%CanvasNumber%&gt; of &lt;%TotalCanvases%&gt;}</string>
 								<key>TextAlongPathGlyphAnchor</key>
-								<string>left</string>
+								<string>center</string>
 							</dict>
 							<key>Wrap</key>
 							<string>NO</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{108, 0}, {517, 45}}</string>
+							<string>{{18.199999999999946, 6.6666666666662877}, {96.799999999999997, 30}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
-							<integer>383</integer>
+							<integer>657</integer>
+							<key>ImageID</key>
+							<integer>48</integer>
+							<key>Scaling</key>
+							<integer>1</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -36450,11 +37122,53 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 									<key>Color</key>
 									<dict>
 										<key>b</key>
-										<real>0.43238900000000002</real>
+										<real>0.647868</real>
 										<key>g</key>
-										<real>0.47383199999999998</real>
+										<real>0.72414299999999998</real>
 										<key>r</key>
-										<real>0.0</real>
+										<real>0.101855</real>
+										<key>space</key>
+										<string>srgb</string>
+									</dict>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+							<key>Text</key>
+							<dict>
+								<key>TextAlongPathGlyphAnchor</key>
+								<string>center</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>Bounds</key>
+							<string>{{0, 0}, {624.99999999999989, 45}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>ID</key>
+							<integer>658</integer>
+							<key>Name</key>
+							<string>Rectangle</string>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Color</key>
+									<dict>
+										<key>b</key>
+										<real>0.647868</real>
+										<key>g</key>
+										<real>0.72414299999999998</real>
+										<key>r</key>
+										<real>0.101855</real>
 										<key>space</key>
 										<string>srgb</string>
 									</dict>
@@ -36478,46 +37192,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							<key>VFlip</key>
 							<string>YES</string>
 						</dict>
-						<dict>
-							<key>Bounds</key>
-							<string>{{0, 0}, {109.83870967741936, 45}}</string>
-							<key>Class</key>
-							<string>ShapedGraphic</string>
-							<key>ID</key>
-							<integer>384</integer>
-							<key>ImageID</key>
-							<integer>4</integer>
-							<key>Style</key>
-							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>shadow</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>stroke</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-							</dict>
-							<key>Text</key>
-							<dict>
-								<key>TextAlongPathGlyphAnchor</key>
-								<string>center</string>
-							</dict>
-						</dict>
 					</array>
 					<key>ID</key>
-					<integer>381</integer>
+					<integer>655</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Name</key>
 					<string>Header</string>
+					<key>Scaling</key>
+					<integer>-1</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -36940,7 +37623,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -37572,7 +38255,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -38204,7 +38887,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -38758,7 +39441,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -39199,7 +39882,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -39335,7 +40018,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -39439,7 +40122,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -39579,7 +40262,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -39727,7 +40410,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -39865,7 +40548,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -40001,7 +40684,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -40298,7 +40981,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -40449,7 +41132,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -40588,7 +41271,7 @@ Last updated on: &lt;%ModificationDate%&gt;}</string>
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -40693,7 +41376,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -40833,7 +41516,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						AJsAhoaG
 						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -41305,7 +41988,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -41930,7 +42613,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -42556,7 +43239,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -43181,7 +43864,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -43669,7 +44352,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -44182,7 +44865,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -44609,7 +45292,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -45410,7 +46093,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -46114,7 +46797,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -46819,7 +47502,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -47441,7 +48124,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -47895,7 +48578,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -48348,7 +49031,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{515, 0}, {110, 45}}</string>
+							<string>{{492.02127659574478, 0}, {132.97872340425531, 45}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -48366,15 +49049,24 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<string>SourceSansPro-Light</string>
 							</dict>
 							<key>ID</key>
-							<integer>423</integer>
+							<integer>656</integer>
 							<key>Name</key>
 							<string>Page Number</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
 								<dict>
-									<key>Draws</key>
-									<string>NO</string>
+									<key>Color</key>
+									<dict>
+										<key>b</key>
+										<real>0.647868</real>
+										<key>g</key>
+										<real>0.72414299999999998</real>
+										<key>r</key>
+										<real>0.101855</real>
+										<key>space</key>
+										<string>srgb</string>
+									</dict>
 								</dict>
 								<key>shadow</key>
 								<dict>
@@ -48394,7 +49086,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>20</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
@@ -48403,18 +49095,22 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 
 \f0\fs32 \cf1 Page &lt;%CanvasNumber%&gt; of &lt;%TotalCanvases%&gt;}</string>
 								<key>TextAlongPathGlyphAnchor</key>
-								<string>left</string>
+								<string>center</string>
 							</dict>
 							<key>Wrap</key>
 							<string>NO</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{108, 0}, {517, 45}}</string>
+							<string>{{18.199999999999491, 6.6666666666662877}, {96.799999999999997, 30}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
-							<integer>424</integer>
+							<integer>657</integer>
+							<key>ImageID</key>
+							<integer>48</integer>
+							<key>Scaling</key>
+							<integer>1</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -48422,11 +49118,53 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 									<key>Color</key>
 									<dict>
 										<key>b</key>
-										<real>0.43238900000000002</real>
+										<real>0.647868</real>
 										<key>g</key>
-										<real>0.47383199999999998</real>
+										<real>0.72414299999999998</real>
 										<key>r</key>
-										<real>0.0</real>
+										<real>0.101855</real>
+										<key>space</key>
+										<string>srgb</string>
+									</dict>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+							<key>Text</key>
+							<dict>
+								<key>TextAlongPathGlyphAnchor</key>
+								<string>center</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>Bounds</key>
+							<string>{{-4.5474735088646412e-13, 0}, {624.99999999999989, 45}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>ID</key>
+							<integer>658</integer>
+							<key>Name</key>
+							<string>Rectangle</string>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Color</key>
+									<dict>
+										<key>b</key>
+										<real>0.647868</real>
+										<key>g</key>
+										<real>0.72414299999999998</real>
+										<key>r</key>
+										<real>0.101855</real>
 										<key>space</key>
 										<string>srgb</string>
 									</dict>
@@ -48450,46 +49188,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							<key>VFlip</key>
 							<string>YES</string>
 						</dict>
-						<dict>
-							<key>Bounds</key>
-							<string>{{0, 0}, {109.83870967741936, 45}}</string>
-							<key>Class</key>
-							<string>ShapedGraphic</string>
-							<key>ID</key>
-							<integer>425</integer>
-							<key>ImageID</key>
-							<integer>4</integer>
-							<key>Style</key>
-							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>shadow</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>stroke</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-							</dict>
-							<key>Text</key>
-							<dict>
-								<key>TextAlongPathGlyphAnchor</key>
-								<string>center</string>
-							</dict>
-						</dict>
 					</array>
 					<key>ID</key>
-					<integer>422</integer>
+					<integer>655</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Name</key>
 					<string>Header</string>
+					<key>Scaling</key>
+					<integer>-1</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -48912,7 +49619,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -49544,7 +50251,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -50176,7 +50883,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -50730,7 +51437,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -51171,7 +51878,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -51307,7 +52014,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -51411,7 +52118,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -51551,7 +52258,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -51699,7 +52406,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -51837,7 +52544,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -51973,7 +52680,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -52270,7 +52977,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -52421,7 +53128,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -52560,7 +53267,7 @@ Last updated on: &lt;%ModificationDate%&gt;}</string>
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -52665,7 +53372,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -52805,7 +53512,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						AJsAhoaG
 						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -53247,7 +53954,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AIaGlwEBhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -53741,7 +54448,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hpcBAYY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -54415,7 +55122,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -54585,7 +55292,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Align</key>
 								<integer>0</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
@@ -54984,7 +55691,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 									<key>Text</key>
 									<dict>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;\f1\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
@@ -55327,7 +56034,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCbAIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -56084,7 +56791,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -56738,7 +57445,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -57442,7 +58149,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -58070,7 +58777,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AJsAhoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -58718,7 +59425,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCGhoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -59202,7 +59909,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCGhoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -59603,7 +60310,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 		</dict>
 		<dict>
 			<key>ActiveLayerIndex</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>AutoAdjust</key>
 			<integer>0</integer>
 			<key>AutosizingMargin</key>
@@ -59674,7 +60381,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{515, 0}, {110, 45}}</string>
+							<string>{{492.02127659574523, 0}, {132.97872340425531, 45}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -59692,15 +60399,24 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<string>SourceSansPro-Light</string>
 							</dict>
 							<key>ID</key>
-							<integer>299</integer>
+							<integer>412</integer>
 							<key>Name</key>
 							<string>Page Number</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
 								<dict>
-									<key>Draws</key>
-									<string>NO</string>
+									<key>Color</key>
+									<dict>
+										<key>b</key>
+										<real>0.647868</real>
+										<key>g</key>
+										<real>0.72414299999999998</real>
+										<key>r</key>
+										<real>0.101855</real>
+										<key>space</key>
+										<string>srgb</string>
+									</dict>
 								</dict>
 								<key>shadow</key>
 								<dict>
@@ -59720,7 +60436,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>20</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
@@ -59729,18 +60445,22 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 
 \f0\fs32 \cf1 Page &lt;%CanvasNumber%&gt; of &lt;%TotalCanvases%&gt;}</string>
 								<key>TextAlongPathGlyphAnchor</key>
-								<string>left</string>
+								<string>center</string>
 							</dict>
 							<key>Wrap</key>
 							<string>NO</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{108, 0}, {517, 45}}</string>
+							<string>{{18.199999999999946, 6.6666666666662877}, {96.799999999999997, 30}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
-							<integer>300</integer>
+							<integer>413</integer>
+							<key>ImageID</key>
+							<integer>48</integer>
+							<key>Scaling</key>
+							<integer>1</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -59748,11 +60468,53 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 									<key>Color</key>
 									<dict>
 										<key>b</key>
-										<real>0.43238900000000002</real>
+										<real>0.647868</real>
 										<key>g</key>
-										<real>0.47383199999999998</real>
+										<real>0.72414299999999998</real>
 										<key>r</key>
-										<real>0.0</real>
+										<real>0.101855</real>
+										<key>space</key>
+										<string>srgb</string>
+									</dict>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+							<key>Text</key>
+							<dict>
+								<key>TextAlongPathGlyphAnchor</key>
+								<string>center</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>Bounds</key>
+							<string>{{0, 0}, {624.99999999999989, 45}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>ID</key>
+							<integer>414</integer>
+							<key>Name</key>
+							<string>Rectangle</string>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Color</key>
+									<dict>
+										<key>b</key>
+										<real>0.647868</real>
+										<key>g</key>
+										<real>0.72414299999999998</real>
+										<key>r</key>
+										<real>0.101855</real>
 										<key>space</key>
 										<string>srgb</string>
 									</dict>
@@ -59776,46 +60538,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							<key>VFlip</key>
 							<string>YES</string>
 						</dict>
-						<dict>
-							<key>Bounds</key>
-							<string>{{0, 0}, {109.83870967741936, 45}}</string>
-							<key>Class</key>
-							<string>ShapedGraphic</string>
-							<key>ID</key>
-							<integer>301</integer>
-							<key>ImageID</key>
-							<integer>4</integer>
-							<key>Style</key>
-							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>shadow</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>stroke</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-							</dict>
-							<key>Text</key>
-							<dict>
-								<key>TextAlongPathGlyphAnchor</key>
-								<string>center</string>
-							</dict>
-						</dict>
 					</array>
 					<key>ID</key>
-					<integer>298</integer>
+					<integer>411</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Name</key>
 					<string>Header</string>
+					<key>Scaling</key>
+					<integer>-1</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -60240,7 +60971,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -60872,7 +61603,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -61504,7 +62235,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -62056,7 +62787,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -62497,7 +63228,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -62633,7 +63364,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -62737,7 +63468,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -62877,7 +63608,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -63025,7 +63756,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -63163,7 +63894,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -63299,7 +64030,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -63596,7 +64327,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -63747,7 +64478,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -63886,7 +64617,7 @@ Last updated on: &lt;%ModificationDate%&gt;}</string>
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -63991,7 +64722,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -64259,7 +64990,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -65051,7 +65782,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -65588,7 +66319,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -66216,7 +66947,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -66935,7 +67666,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -67388,7 +68119,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -67923,7 +68654,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AZsAmwCGhoY=
 								</data>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red61\green61\blue61;}
 {\*\expandedcolortbl;;\csgenericrgb\c23733\c23737\c23732;}
@@ -68386,7 +69117,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -69091,7 +69822,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -69546,7 +70277,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -70006,7 +70737,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCGhoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -70416,7 +71147,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						AJsAhoaG
 						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -70565,7 +71296,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{515, 0}, {110, 45}}</string>
+							<string>{{492.02127659574523, 0}, {132.97872340425531, 45}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -70583,15 +71314,24 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<string>SourceSansPro-Light</string>
 							</dict>
 							<key>ID</key>
-							<integer>299</integer>
+							<integer>533</integer>
 							<key>Name</key>
 							<string>Page Number</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
 								<dict>
-									<key>Draws</key>
-									<string>NO</string>
+									<key>Color</key>
+									<dict>
+										<key>b</key>
+										<real>0.647868</real>
+										<key>g</key>
+										<real>0.72414299999999998</real>
+										<key>r</key>
+										<real>0.101855</real>
+										<key>space</key>
+										<string>srgb</string>
+									</dict>
 								</dict>
 								<key>shadow</key>
 								<dict>
@@ -70611,7 +71351,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								<key>Pad</key>
 								<real>20</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
@@ -70620,18 +71360,22 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 
 \f0\fs32 \cf1 Page &lt;%CanvasNumber%&gt; of &lt;%TotalCanvases%&gt;}</string>
 								<key>TextAlongPathGlyphAnchor</key>
-								<string>left</string>
+								<string>center</string>
 							</dict>
 							<key>Wrap</key>
 							<string>NO</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{108, 0}, {517, 45}}</string>
+							<string>{{18.200000000000003, 6.6666666666662877}, {96.799999999999997, 30}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
-							<integer>300</integer>
+							<integer>534</integer>
+							<key>ImageID</key>
+							<integer>48</integer>
+							<key>Scaling</key>
+							<integer>1</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -70639,11 +71383,53 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 									<key>Color</key>
 									<dict>
 										<key>b</key>
-										<real>0.43238900000000002</real>
+										<real>0.647868</real>
 										<key>g</key>
-										<real>0.47383199999999998</real>
+										<real>0.72414299999999998</real>
 										<key>r</key>
-										<real>0.0</real>
+										<real>0.101855</real>
+										<key>space</key>
+										<string>srgb</string>
+									</dict>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+							<key>Text</key>
+							<dict>
+								<key>TextAlongPathGlyphAnchor</key>
+								<string>center</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>Bounds</key>
+							<string>{{5.6843418860808015e-14, 0}, {624.99999999999989, 45}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>ID</key>
+							<integer>535</integer>
+							<key>Name</key>
+							<string>Rectangle</string>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Color</key>
+									<dict>
+										<key>b</key>
+										<real>0.647868</real>
+										<key>g</key>
+										<real>0.72414299999999998</real>
+										<key>r</key>
+										<real>0.101855</real>
 										<key>space</key>
 										<string>srgb</string>
 									</dict>
@@ -70667,46 +71453,15 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 							<key>VFlip</key>
 							<string>YES</string>
 						</dict>
-						<dict>
-							<key>Bounds</key>
-							<string>{{0, 0}, {109.83870967741936, 45}}</string>
-							<key>Class</key>
-							<string>ShapedGraphic</string>
-							<key>ID</key>
-							<integer>301</integer>
-							<key>ImageID</key>
-							<integer>4</integer>
-							<key>Style</key>
-							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>shadow</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>stroke</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-							</dict>
-							<key>Text</key>
-							<dict>
-								<key>TextAlongPathGlyphAnchor</key>
-								<string>center</string>
-							</dict>
-						</dict>
 					</array>
 					<key>ID</key>
-					<integer>298</integer>
+					<integer>532</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Name</key>
 					<string>Header</string>
+					<key>Scaling</key>
+					<integer>-1</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -71129,7 +71884,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -71761,7 +72516,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -72393,7 +73148,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -72945,7 +73700,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -73386,7 +74141,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -73522,7 +74277,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -73626,7 +74381,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -73766,7 +74521,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -73914,7 +74669,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -74052,7 +74807,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -74188,7 +74943,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -74485,7 +75240,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -74635,7 +75390,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -74774,7 +75529,7 @@ Last updated on: &lt;%ModificationDate%&gt;}</string>
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -74879,7 +75634,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -75491,7 +76246,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hg==
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -76019,7 +76774,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -76593,7 +77348,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -77300,7 +78055,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -78007,7 +78762,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -78630,7 +79385,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -79085,7 +79840,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -79501,7 +80256,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 									<key>Text</key>
 									<dict>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;\f1\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
@@ -80035,7 +80790,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -80271,7 +81026,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
@@ -80851,7 +81606,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 						AJsAhoaG
 						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
@@ -80937,9 +81692,9 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>3</integer>
+		<integer>0</integer>
 		<key>Frame</key>
-		<string>{{308, 84}, {1884, 1333}}</string>
+		<string>{{604, 81}, {1884, 1333}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>Sidebar</key>
@@ -80949,7 +81704,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 		<key>Sidebar_Tab</key>
 		<integer>0</integer>
 		<key>VisibleRegion</key>
-		<string>{{-96.333333333333329, 366.66666666666669}, {814.66666666666674, 805.33333333333326}}</string>
+		<string>{{-306, -240}, {1237, 1223}}</string>
 		<key>WindowInfo_InspectorTab</key>
 		<array>
 			<string>com.omnigroup.OmniGraffle.inspectorGroup.object</string>
@@ -80958,7 +81713,7 @@ Once every product is upgraded, the operator can then safely upgrade PCF Operati
 		<array>
 			<array>
 				<string>PAS, PCF Isolation, PAS for Windows</string>
-				<real>1.5</real>
+				<real>1</real>
 				<real>3</real>
 			</array>
 			<array>
