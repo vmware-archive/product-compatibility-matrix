@@ -80,7 +80,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2019-09-26 18:20:23 +0000</string>
+	<string>2019-10-07 12:02:31 +0000</string>
 	<key>Modifier</key>
 	<string>Samia Nneji</string>
 	<key>MovementHandleVisible</key>
@@ -40110,48 +40110,47 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								TlNPYmplY3QA
 								hZKEhIQITlNT
 								dHJpbmcBlIQB
-								KxNSYWJiaXRN
+								KxFSYWJiaXRN
 								USB2MS4xNS4y
-								KyAKhoQCaUkB
-								CZKEhIQMTlNE
-								aWN0aW9uYXJ5
-								AJSEAWkDkoSW
-								lgdOU0NvbG9y
-								hpKEhIQHTlND
-								b2xvcgCUhAFj
-								AYQEZmZmZoN8
-								8vA9g3zy8D2D
-								fPLwPQGGkoSW
-								lhBOU1BhcmFn
+								CoaEAmlJAQmS
+								hISEDE5TRGlj
+								dGlvbmFyeQCU
+								hAFpA5KElpYH
+								TlNDb2xvcoaS
+								hISEB05TQ29s
+								b3IAlIQBYwGE
+								BGZmZmaDfPLw
+								PYN88vA9g3zy
+								8D0BhpKElpYQ
+								TlNQYXJhZ3Jh
+								cGhTdHlsZYaS
+								hISEF05TTXV0
+								YWJsZVBhcmFn
 								cmFwaFN0eWxl
-								hpKEhIQXTlNN
-								dXRhYmxlUGFy
+								AISEEE5TUGFy
 								YWdyYXBoU3R5
-								bGUAhIQQTlNQ
-								YXJhZ3JhcGhT
-								dHlsZQCUhARD
-								Q0BTAACEhIQH
-								TlNBcnJheQCU
-								mQCGgQAChARb
-								MWZdJIaShJaW
-								Bk5TRm9udIaS
-								hISEBk5TRm9u
-								dB6UmSiEBVs0
-								MGNdBgAAAB4A
-								AAD//kgAZQBs
-								AHYAZQB0AGkA
-								YwBhAC0AQgBv
-								AGwAZAAAAIQB
-								ZgibAJsBmwCb
-								AIaGlwIKkoSY
-								mQOSmZKakpyS
-								nZKikoSkmRyE
-								BVsyOGNdBgAA
-								ABQAAAD//kgA
-								ZQBsAHYAZQB0
-								AGkAYwBhAKQI
+								bGUAlIQEQ0NA
+								UwAAhISEB05T
+								QXJyYXkAlJkA
+								hoEAAoQEWzFm
+								XSSGkoSWlgZO
+								U0ZvbnSGkoSE
+								hAZOU0ZvbnQe
+								lJkohAVbNDBj
+								XQYAAAAeAAAA
+								//5IAGUAbAB2
+								AGUAdABpAGMA
+								YQAtAEIAbwBs
+								AGQAAACEAWYI
 								mwCbAZsAmwCG
-								hoY=
+								hpcCCJKEmJkD
+								kpmSmpKckp2S
+								opKEpJkchAVb
+								MjhjXQYAAAAU
+								AAAA//5IAGUA
+								bAB2AGUAdABp
+								AGMAYQCkCJsA
+								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
 										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
@@ -40162,10 +40161,10 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 RabbitMQ 
-\f1\b0 v1.15.2+ \
+\f1\b0 v1.15.2\
 }</string>
 										<key>TextAlongPathGlyphAnchor</key>
-										<string>left</string>
+										<string>center</string>
 										<key>VerticalPad</key>
 										<real>0.0</real>
 									</dict>
@@ -40269,6 +40268,92 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										<real>12</real>
 									</dict>
 									<key>ID</key>
+									<integer>663</integer>
+									<key>LogicalPath</key>
+									<dict>
+										<key>elements</key>
+										<array>
+											<dict>
+												<key>element</key>
+												<string>MOVETO</string>
+												<key>point</key>
+												<string>{210, 555}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{210, 695}</string>
+											</dict>
+										</array>
+									</dict>
+									<key>Name</key>
+									<string>RabbitMQ 1.15.3 to 1.17.1+</string>
+									<key>Points</key>
+									<array>
+										<string>{210, 555}</string>
+										<string>{210, 695}</string>
+									</array>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Color</key>
+											<dict>
+												<key>b</key>
+												<real>0.56715000000000004</real>
+												<key>g</key>
+												<real>0.60053999999999996</real>
+												<key>r</key>
+												<real>0.0047153799999999999</real>
+												<key>space</key>
+												<string>srgb</string>
+											</dict>
+											<key>HeadArrow</key>
+											<string>FilledArrow</string>
+											<key>HeadScale</key>
+											<real>0.5</real>
+											<key>Legacy</key>
+											<false/>
+											<key>TailArrow</key>
+											<string>FilledBall</string>
+											<key>TailScale</key>
+											<real>0.5</real>
+										</dict>
+									</dict>
+								</dict>
+								<dict>
+									<key>AllowConnections</key>
+									<string>NO</string>
+									<key>AllowToConnect</key>
+									<false/>
+									<key>Class</key>
+									<string>LineGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Color</key>
+										<dict>
+											<key>space</key>
+											<string>gg22</string>
+											<key>w</key>
+											<string>0</string>
+										</dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>12</real>
+									</dict>
+									<key>ID</key>
 									<integer>612</integer>
 									<key>LogicalPath</key>
 									<dict>
@@ -40278,19 +40363,19 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>MOVETO</string>
 												<key>point</key>
-												<string>{240, 555}</string>
+												<string>{280, 555}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{240.171875, 568.07291666666663}</string>
+												<string>{280.171875, 568.07291666666663}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{240, 585}</string>
+												<string>{280, 585}</string>
 											</dict>
 										</array>
 									</dict>
@@ -40298,9 +40383,9 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<string>RabbitMQ 1.15.3 to 1.16.3</string>
 									<key>Points</key>
 									<array>
-										<string>{240, 555}</string>
-										<string>{240.171875, 568.07291666666663}</string>
-										<string>{240, 585}</string>
+										<string>{280, 555}</string>
+										<string>{280.171875, 568.07291666666663}</string>
+										<string>{280, 585}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -40824,13 +40909,25 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>MOVETO</string>
 												<key>point</key>
-												<string>{240, 615}</string>
+												<string>{280, 615}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{240, 640}</string>
+												<string>{280.11458333333337, 626.21875}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{280, 640}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{280, 640}</string>
 											</dict>
 										</array>
 									</dict>
@@ -40838,8 +40935,12 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<string>RabbitMQ 1.16.3 to 1.17.0</string>
 									<key>Points</key>
 									<array>
-										<string>{240, 615}</string>
-										<string>{240, 640}</string>
+										<string>{280, 615}</string>
+										<string>{280, 615}</string>
+										<string>{280.11458333333337, 626.21875}</string>
+										<string>{280, 640}</string>
+										<string>{279.09895833333331, 635.26302083333337}</string>
+										<string>{280, 640}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -40910,13 +41011,13 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>MOVETO</string>
 												<key>point</key>
-												<string>{370, 615}</string>
+												<string>{415, 615}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{370, 640}</string>
+												<string>{415, 640}</string>
 											</dict>
 										</array>
 									</dict>
@@ -40924,8 +41025,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<string>RabbitMQ 1.16.3 to 1.17.0</string>
 									<key>Points</key>
 									<array>
-										<string>{370, 615}</string>
-										<string>{370, 640}</string>
+										<string>{415, 615}</string>
+										<string>{415, 640}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -41423,13 +41524,13 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>MOVETO</string>
 												<key>point</key>
-												<string>{240.04947916666669, 670}</string>
+												<string>{280.04947916666669, 670}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{240.04947916666669, 695}</string>
+												<string>{280.04947916666669, 695}</string>
 											</dict>
 										</array>
 									</dict>
@@ -41437,8 +41538,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<string>RabbitMQ 1.70.0 to 1.17.1+</string>
 									<key>Points</key>
 									<array>
-										<string>{240.04947916666669, 670}</string>
-										<string>{240.04947916666669, 695}</string>
+										<string>{280.04947916666669, 670}</string>
+										<string>{280.04947916666669, 695}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -41509,13 +41610,13 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>MOVETO</string>
 												<key>point</key>
-												<string>{370.04947916666669, 670}</string>
+												<string>{415.04947916666669, 670}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{370.04947916666669, 695}</string>
+												<string>{415.04947916666669, 695}</string>
 											</dict>
 										</array>
 									</dict>
@@ -41523,8 +41624,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<string>RabbitMQ 1.70.0 to 1.17.1+</string>
 									<key>Points</key>
 									<array>
-										<string>{370.04947916666669, 670}</string>
-										<string>{370.04947916666669, 695}</string>
+										<string>{415.04947916666669, 670}</string>
+										<string>{415.04947916666669, 695}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -73677,19 +73778,21 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 		<key>CurrentSheet</key>
 		<integer>3</integer>
 		<key>Frame</key>
-		<string>{{108, -63}, {1736, 877}}</string>
+		<string>{{39, 0}, {1440, 877}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>Sidebar</key>
 		<true/>
 		<key>SidebarWidth</key>
-		<integer>244</integer>
+		<integer>329</integer>
 		<key>Sidebar_Tab</key>
 		<integer>0</integer>
 		<key>VisibleRegion</key>
-		<string>{{-50.166666666666664, 704.33333333333337}, {783.33333333333326, 501.33333333333337}}</string>
+		<string>{{-4.166666666666667, 380}, {529.33333333333326, 501.33333333333337}}</string>
 		<key>WindowInfo_InspectorTab</key>
-		<array/>
+		<array>
+			<string>com.omnigroup.OmniGraffle.inspectorGroup.object</string>
+		</array>
 		<key>ZoomValues</key>
 		<array>
 			<array>
