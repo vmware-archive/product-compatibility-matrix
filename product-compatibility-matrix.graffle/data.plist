@@ -5,7 +5,7 @@
 	<key>ApplicationVersion</key>
 	<array>
 		<string>com.omnigroup.OmniGraffle7</string>
-		<string>196.14.0.337361</string>
+		<string>195.13.0.328142</string>
 	</array>
 	<key>Creator</key>
 	<string>Molly Crowther</string>
@@ -80,9 +80,9 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2019-10-08 16:41:58 +0000</string>
+	<string>2019-10-08 20:54:04 +0000</string>
 	<key>Modifier</key>
-	<string>Samia Nneji</string>
+	<string>Ramia Davis</string>
 	<key>MovementHandleVisible</key>
 	<string>NO</string>
 	<key>NotesVisible</key>
@@ -107,11 +107,6 @@
 		<array>
 			<string>float</string>
 			<string>18</string>
-		</array>
-		<key>NSPaperName</key>
-		<array>
-			<string>string</string>
-			<string>na-letter</string>
 		</array>
 		<key>NSPaperSize</key>
 		<array>
@@ -12213,6 +12208,17 @@ Segment
 					<true/>
 				</dict>
 			</array>
+			<key>LayoutInfo</key>
+			<dict>
+				<key>Animate</key>
+				<string>NO</string>
+				<key>circoMinDist</key>
+				<real>18</real>
+				<key>layoutEngine</key>
+				<string>dot</string>
+				<key>neatoLineLength</key>
+				<real>0.20000000298023224</real>
+			</dict>
 			<key>Orientation</key>
 			<integer>2</integer>
 			<key>PrintOnePage</key>
@@ -25237,6 +25243,17 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 					<true/>
 				</dict>
 			</array>
+			<key>LayoutInfo</key>
+			<dict>
+				<key>Animate</key>
+				<string>NO</string>
+				<key>circoMinDist</key>
+				<real>18</real>
+				<key>layoutEngine</key>
+				<string>dot</string>
+				<key>neatoLineLength</key>
+				<real>0.20000000298023224</real>
+			</dict>
 			<key>Orientation</key>
 			<integer>2</integer>
 			<key>PrintOnePage</key>
@@ -34590,6 +34607,17 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 					<true/>
 				</dict>
 			</array>
+			<key>LayoutInfo</key>
+			<dict>
+				<key>Animate</key>
+				<string>NO</string>
+				<key>circoMinDist</key>
+				<real>18</real>
+				<key>layoutEngine</key>
+				<string>dot</string>
+				<key>neatoLineLength</key>
+				<real>0.20000000298023224</real>
+			</dict>
 			<key>Orientation</key>
 			<integer>2</integer>
 			<key>PrintOnePage</key>
@@ -41615,7 +41643,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<array>
 										<dict>
 											<key>Bounds</key>
-											<string>{{261.12499999999989, 603.66666666666697}, {14.344780219780196, 9.9999999999999964}}</string>
+											<string>{{99.452380952380565, 603.16666666666652}, {14.344780219780196, 9.9999999999999964}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -41656,7 +41684,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{248.48214285714309, 603.66666666666697}, {10.535714285714267, 10.000000000000004}}</string>
+											<string>{{86.809523809523768, 603.16666666666652}, {10.535714285714267, 10.000000000000004}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -41701,7 +41729,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{232.67857142857179, 603.66666666666697}, {14.267112528313966, 10.000000000000004}}</string>
+											<string>{{71.005952380952465, 603.16666666666652}, {14.267112528313966, 10.000000000000004}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -41736,7 +41764,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{216.87500000000023, 603.66666666666697}, {10.535714285714267, 10.000000000000004}}</string>
+											<string>{{55.202380952380906, 603.16666666666652}, {10.535714285714267, 10.000000000000004}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -41771,7 +41799,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{274.82142857142895, 603.66666666666697}, {10.535714285714274, 10.000000000000012}}</string>
+											<string>{{113.14880952380963, 603.16666666666652}, {10.535714285714274, 10.000000000000012}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -41830,7 +41858,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{211.60714285714289, 585.50000000000045}, {131.69642857142853, 20.000000000000007}}</string>
+									<string>{{49.934523809523569, 585}, {131.69642857142853, 20.000000000000007}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -41920,12 +41948,12 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 \f0\b\fs16 \cf2 RabbitMQ 
 \f1\b0 v1.16.3+}</string>
 										<key>TextAlongPathGlyphAnchor</key>
-										<string>left</string>
+										<string>center</string>
 									</dict>
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{186.67261904761932, 589.5}, {21.071428571428555, 20.000000000000007}}</string>
+									<string>{{25, 588.99999999999955}, {21.071428571428555, 20.000000000000007}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -45279,6 +45307,17 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 					<true/>
 				</dict>
 			</array>
+			<key>LayoutInfo</key>
+			<dict>
+				<key>Animate</key>
+				<string>NO</string>
+				<key>circoMinDist</key>
+				<real>18</real>
+				<key>layoutEngine</key>
+				<string>dot</string>
+				<key>neatoLineLength</key>
+				<real>0.20000000298023224</real>
+			</dict>
 			<key>Orientation</key>
 			<integer>2</integer>
 			<key>PrintOnePage</key>
@@ -55146,6 +55185,17 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 					<true/>
 				</dict>
 			</array>
+			<key>LayoutInfo</key>
+			<dict>
+				<key>Animate</key>
+				<string>NO</string>
+				<key>circoMinDist</key>
+				<real>18</real>
+				<key>layoutEngine</key>
+				<string>dot</string>
+				<key>neatoLineLength</key>
+				<real>0.20000000298023224</real>
+			</dict>
 			<key>Orientation</key>
 			<integer>2</integer>
 			<key>PrintOnePage</key>
@@ -65160,6 +65210,17 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 					<true/>
 				</dict>
 			</array>
+			<key>LayoutInfo</key>
+			<dict>
+				<key>Animate</key>
+				<string>NO</string>
+				<key>circoMinDist</key>
+				<real>18</real>
+				<key>layoutEngine</key>
+				<string>dot</string>
+				<key>neatoLineLength</key>
+				<real>0.20000000298023224</real>
+			</dict>
 			<key>Orientation</key>
 			<integer>2</integer>
 			<key>PrintOnePage</key>
@@ -74454,6 +74515,17 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 					<true/>
 				</dict>
 			</array>
+			<key>LayoutInfo</key>
+			<dict>
+				<key>Animate</key>
+				<string>NO</string>
+				<key>circoMinDist</key>
+				<real>18</real>
+				<key>layoutEngine</key>
+				<string>dot</string>
+				<key>neatoLineLength</key>
+				<real>0.20000000298023224</real>
+			</dict>
 			<key>Orientation</key>
 			<integer>2</integer>
 			<key>PrintOnePage</key>
@@ -74483,17 +74555,17 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 		<key>CurrentSheet</key>
 		<integer>3</integer>
 		<key>Frame</key>
-		<string>{{2, 205}, {1440, 877}}</string>
+		<string>{{102, 74}, {1278, 983}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>Sidebar</key>
 		<true/>
 		<key>SidebarWidth</key>
-		<integer>329</integer>
+		<integer>315</integer>
 		<key>Sidebar_Tab</key>
 		<integer>0</integer>
 		<key>VisibleRegion</key>
-		<string>{{-27, 295.33333333333331}, {529.33333333333326, 501.33333333333331}}</string>
+		<string>{{-27, 153.33333333333334}, {430.66666666666669, 572}}</string>
 		<key>WindowInfo_InspectorTab</key>
 		<array>
 			<string>com.omnigroup.OmniGraffle.inspectorGroup.object</string>
