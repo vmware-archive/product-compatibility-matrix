@@ -5,7 +5,7 @@
 	<key>ApplicationVersion</key>
 	<array>
 		<string>com.omnigroup.OmniGraffle7</string>
-		<string>196.14.0.337361</string>
+		<string>196.16.0.337432</string>
 	</array>
 	<key>Creator</key>
 	<string>Molly Crowther</string>
@@ -80,7 +80,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2019-10-22 16:30:38 +0000</string>
+	<string>2019-12-10 16:31:51 +0000</string>
 	<key>Modifier</key>
 	<string>Samia Nneji</string>
 	<key>MovementHandleVisible</key>
@@ -12213,6 +12213,17 @@ Segment
 					<true/>
 				</dict>
 			</array>
+			<key>LayoutInfo</key>
+			<dict>
+				<key>Animate</key>
+				<string>NO</string>
+				<key>circoMinDist</key>
+				<real>18</real>
+				<key>layoutEngine</key>
+				<string>dot</string>
+				<key>neatoLineLength</key>
+				<real>0.20000000298023224</real>
+			</dict>
 			<key>Orientation</key>
 			<integer>2</integer>
 			<key>PrintOnePage</key>
@@ -25237,6 +25248,17 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 					<true/>
 				</dict>
 			</array>
+			<key>LayoutInfo</key>
+			<dict>
+				<key>Animate</key>
+				<string>NO</string>
+				<key>circoMinDist</key>
+				<real>18</real>
+				<key>layoutEngine</key>
+				<string>dot</string>
+				<key>neatoLineLength</key>
+				<real>0.20000000298023224</real>
+			</dict>
 			<key>Orientation</key>
 			<integer>2</integer>
 			<key>PrintOnePage</key>
@@ -34590,6 +34612,17 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 					<true/>
 				</dict>
 			</array>
+			<key>LayoutInfo</key>
+			<dict>
+				<key>Animate</key>
+				<string>NO</string>
+				<key>circoMinDist</key>
+				<real>18</real>
+				<key>layoutEngine</key>
+				<string>dot</string>
+				<key>neatoLineLength</key>
+				<real>0.20000000298023224</real>
+			</dict>
 			<key>Orientation</key>
 			<integer>2</integer>
 			<key>PrintOnePage</key>
@@ -45711,6 +45744,17 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 					<true/>
 				</dict>
 			</array>
+			<key>LayoutInfo</key>
+			<dict>
+				<key>Animate</key>
+				<string>NO</string>
+				<key>circoMinDist</key>
+				<real>18</real>
+				<key>layoutEngine</key>
+				<string>dot</string>
+				<key>neatoLineLength</key>
+				<real>0.20000000298023224</real>
+			</dict>
 			<key>Orientation</key>
 			<integer>2</integer>
 			<key>PrintOnePage</key>
@@ -52316,13 +52360,13 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>MOVETO</string>
 												<key>point</key>
-												<string>{50.000000000000028, 639.9999999999992}</string>
+												<string>{50.000000000000021, 639.9999999999992}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{50.000000000000028, 724.99999999999943}</string>
+												<string>{50.000000000000021, 724.99999999999943}</string>
 											</dict>
 										</array>
 									</dict>
@@ -52330,8 +52374,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<string>Redis 1.14.4 to 2.0.1+</string>
 									<key>Points</key>
 									<array>
-										<string>{50.000000000000028, 639.9999999999992}</string>
-										<string>{50.000000000000028, 724.99999999999943}</string>
+										<string>{50.000000000000021, 639.9999999999992}</string>
+										<string>{50.000000000000021, 724.99999999999943}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -52400,13 +52444,13 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>MOVETO</string>
 												<key>point</key>
-												<string>{115.00000000000003, 639.9999999999992}</string>
+												<string>{115.00000000000001, 639.9999999999992}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{115.00000000000003, 669.99999999999943}</string>
+												<string>{115.00000000000001, 669.99999999999943}</string>
 											</dict>
 										</array>
 									</dict>
@@ -52414,8 +52458,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<string>Redis 1.14.4 to 2.0.0</string>
 									<key>Points</key>
 									<array>
-										<string>{115.00000000000003, 639.9999999999992}</string>
-										<string>{115.00000000000003, 669.99999999999943}</string>
+										<string>{115.00000000000001, 639.9999999999992}</string>
+										<string>{115.00000000000001, 669.99999999999943}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -52771,47 +52815,47 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								TlNPYmplY3QA
 								hZKEhIQITlNT
 								dHJpbmcBlIQB
-								KxFSZWRpcyB2
-								MS4xNC40KyAq
-								CoaEAmlJAQaS
-								hISEDE5TRGlj
-								dGlvbmFyeQCU
-								hAFpA5KElpYH
-								TlNDb2xvcoaS
-								hISEB05TQ29s
-								b3IAlIQBYwGE
-								BGZmZmaDfPLw
-								PYN88vA9g3zy
-								8D0BhpKElpYQ
-								TlNQYXJhZ3Jh
-								cGhTdHlsZYaS
-								hISEF05TTXV0
-								YWJsZVBhcmFn
-								cmFwaFN0eWxl
-								AISEEE5TUGFy
-								YWdyYXBoU3R5
-								bGUAlIQEQ0NA
-								UwAAhISEB05T
-								QXJyYXkAlJkA
-								hoEAAoQEWzFm
-								XSSGkoSWlgZO
-								U0ZvbnSGkoSE
-								hAZOU0ZvbnQe
-								lJkohAVbNDBj
-								XQYAAAAeAAAA
-								//5IAGUAbAB2
-								AGUAdABpAGMA
-								YQAtAEIAbwBs
-								AGQAAACEAWYI
-								mwCbAZsAmwCG
-								hpcCC5KEmJkD
-								kpmSmpKckp2S
-								opKEpJkchAVb
-								MjhjXQYAAAAU
-								AAAA//5IAGUA
-								bAB2AGUAdABp
-								AGMAYQCkCJsA
-								mwGbAJsAhoaG
+								KxBSZWRpcyB2
+								MS4xNC40KyAK
+								hoQCaUkBBpKE
+								hIQMTlNEaWN0
+								aW9uYXJ5AJSE
+								AWkDkoSWlgdO
+								U0NvbG9yhpKE
+								hIQHTlNDb2xv
+								cgCUhAFjAYQE
+								ZmZmZoN88vA9
+								g3zy8D2DfPLw
+								PQGGkoSWlhBO
+								U1BhcmFncmFw
+								aFN0eWxlhpKE
+								hIQXTlNNdXRh
+								YmxlUGFyYWdy
+								YXBoU3R5bGUA
+								hIQQTlNQYXJh
+								Z3JhcGhTdHls
+								ZQCUhARDQ0BT
+								AACEhIQHTlNB
+								cnJheQCUmQCG
+								gQAChARbMWZd
+								JIaShJaWBk5T
+								Rm9udIaShISE
+								Bk5TRm9udB6U
+								mSiEBVs0MGNd
+								BgAAAB4AAAD/
+								/kgAZQBsAHYA
+								ZQB0AGkAYwBh
+								AC0AQgBvAGwA
+								ZAAAAIQBZgib
+								AJsBmwCbAIaG
+								lwIKkoSYmQOS
+								mZKakpySnZKi
+								koSkmRyEBVsy
+								OGNdBgAAABQA
+								AAD//kgAZQBs
+								AHYAZQB0AGkA
+								YwBhAKQImwCb
+								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
 										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
@@ -52822,10 +52866,10 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Redis 
-\f1\b0 v1.14.4+ *\
+\f1\b0 v1.14.4+ \
 }</string>
 										<key>TextAlongPathGlyphAnchor</key>
-										<string>left</string>
+										<string>center</string>
 										<key>VerticalPad</key>
 										<real>0.0</real>
 									</dict>
@@ -52936,13 +52980,13 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>MOVETO</string>
 												<key>point</key>
-												<string>{140.00000000000003, 696.00000000000068}</string>
+												<string>{140.00000000000003, 696.00000000000114}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{140.00000000000003, 721.0000000000008}</string>
+												<string>{140.00000000000003, 721.00000000000136}</string>
 											</dict>
 										</array>
 									</dict>
@@ -52950,8 +52994,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<string>Redis 2.0.0 to 2.0.1</string>
 									<key>Points</key>
 									<array>
-										<string>{140.00000000000003, 696.00000000000068}</string>
-										<string>{140.00000000000003, 721.0000000000008}</string>
+										<string>{140.00000000000003, 696.00000000000114}</string>
+										<string>{140.00000000000003, 721.00000000000136}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -53020,13 +53064,13 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>MOVETO</string>
 												<key>point</key>
-												<string>{115.00000000000003, 696.00000000000068}</string>
+												<string>{115.00000000000001, 696.00000000000068}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{115.00000000000003, 776.0000000000008}</string>
+												<string>{115.00000000000001, 776.00000000000091}</string>
 											</dict>
 										</array>
 									</dict>
@@ -53034,8 +53078,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<string>Redis 2.0.0 to 2.1.2+</string>
 									<key>Points</key>
 									<array>
-										<string>{115.00000000000003, 696.00000000000068}</string>
-										<string>{115.00000000000003, 776.0000000000008}</string>
+										<string>{115.00000000000001, 696.00000000000068}</string>
+										<string>{115.00000000000001, 776.00000000000091}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -53561,13 +53605,13 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 														<key>element</key>
 														<string>MOVETO</string>
 														<key>point</key>
-														<string>{140.00000000000003, 751.00000000000068}</string>
+														<string>{140.00000000000006, 751.00000000000057}</string>
 													</dict>
 													<dict>
 														<key>element</key>
 														<string>LINETO</string>
 														<key>point</key>
-														<string>{140.00000000000003, 776.0000000000008}</string>
+														<string>{140.00000000000006, 776.00000000000057}</string>
 													</dict>
 												</array>
 											</dict>
@@ -53575,8 +53619,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 											<string>Redis 2.0.1 to 2.1.2</string>
 											<key>Points</key>
 											<array>
-												<string>{140.00000000000003, 751.00000000000068}</string>
-												<string>{140.00000000000003, 776.0000000000008}</string>
+												<string>{140.00000000000006, 751.00000000000057}</string>
+												<string>{140.00000000000006, 776.00000000000057}</string>
 											</array>
 											<key>Style</key>
 											<dict>
@@ -53643,19 +53687,19 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 														<key>element</key>
 														<string>MOVETO</string>
 														<key>point</key>
-														<string>{235.00000000000003, 749.99999999999955}</string>
+														<string>{235.00000000000009, 749.99999999999977}</string>
 													</dict>
 													<dict>
 														<key>element</key>
 														<string>LINETO</string>
 														<key>point</key>
-														<string>{234.61197916666666, 764.47916666666583}</string>
+														<string>{234.61197916666669, 764.47916666666606}</string>
 													</dict>
 													<dict>
 														<key>element</key>
 														<string>LINETO</string>
 														<key>point</key>
-														<string>{235.00000000000003, 774.99999999999943}</string>
+														<string>{235.00000000000009, 774.99999999999955}</string>
 													</dict>
 												</array>
 											</dict>
@@ -53663,9 +53707,9 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 											<string>Redis 2.0.1 to 2.1.2</string>
 											<key>Points</key>
 											<array>
-												<string>{235.00000000000003, 749.99999999999955}</string>
-												<string>{234.61197916666666, 764.47916666666583}</string>
-												<string>{235.00000000000003, 774.99999999999943}</string>
+												<string>{235.00000000000009, 749.99999999999977}</string>
+												<string>{234.61197916666669, 764.47916666666606}</string>
+												<string>{235.00000000000009, 774.99999999999955}</string>
 											</array>
 											<key>Style</key>
 											<dict>
@@ -54213,13 +54257,13 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 														<key>element</key>
 														<string>MOVETO</string>
 														<key>point</key>
-														<string>{379.99999999999994, 804.99999999999977}</string>
+														<string>{379.99999999999989, 804.99999999999989}</string>
 													</dict>
 													<dict>
 														<key>element</key>
 														<string>LINETO</string>
 														<key>point</key>
-														<string>{379.99999999999994, 829.99999999999989}</string>
+														<string>{379.99999999999989, 829.99999999999989}</string>
 													</dict>
 												</array>
 											</dict>
@@ -54227,8 +54271,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 											<string>Redis 2.1.2 to 2.2.0</string>
 											<key>Points</key>
 											<array>
-												<string>{379.99999999999994, 804.99999999999977}</string>
-												<string>{379.99999999999994, 829.99999999999989}</string>
+												<string>{379.99999999999989, 804.99999999999989}</string>
+												<string>{379.99999999999989, 829.99999999999989}</string>
 											</array>
 											<key>Style</key>
 											<dict>
@@ -54295,13 +54339,13 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 														<key>element</key>
 														<string>MOVETO</string>
 														<key>point</key>
-														<string>{235, 804.99999999999977}</string>
+														<string>{235.00000000000003, 804.99999999999989}</string>
 													</dict>
 													<dict>
 														<key>element</key>
 														<string>LINETO</string>
 														<key>point</key>
-														<string>{235, 829.99999999999989}</string>
+														<string>{235.00000000000003, 829.99999999999989}</string>
 													</dict>
 												</array>
 											</dict>
@@ -54309,8 +54353,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 											<string>Redis 2.1.2 to 2.2.0</string>
 											<key>Points</key>
 											<array>
-												<string>{235, 804.99999999999977}</string>
-												<string>{235, 829.99999999999989}</string>
+												<string>{235.00000000000003, 804.99999999999989}</string>
+												<string>{235.00000000000003, 829.99999999999989}</string>
 											</array>
 											<key>Style</key>
 											<dict>
@@ -54835,6 +54879,88 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<key>Graphics</key>
 									<array>
 										<dict>
+											<key>Class</key>
+											<string>LineGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Color</key>
+												<dict>
+													<key>space</key>
+													<string>gg22</string>
+													<key>w</key>
+													<string>0</string>
+												</dict>
+												<key>Font</key>
+												<string>Helvetica</string>
+												<key>Size</key>
+												<real>12</real>
+											</dict>
+											<key>ID</key>
+											<integer>670</integer>
+											<key>LogicalPath</key>
+											<dict>
+												<key>elements</key>
+												<array>
+													<dict>
+														<key>element</key>
+														<string>MOVETO</string>
+														<key>point</key>
+														<string>{535, 860}</string>
+													</dict>
+													<dict>
+														<key>element</key>
+														<string>LINETO</string>
+														<key>point</key>
+														<string>{535, 885}</string>
+													</dict>
+												</array>
+											</dict>
+											<key>Name</key>
+											<string>Redis 2.2.0 to 2.3.0</string>
+											<key>Points</key>
+											<array>
+												<string>{535, 860}</string>
+												<string>{535, 885}</string>
+											</array>
+											<key>Style</key>
+											<dict>
+												<key>fill</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>shadow</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>stroke</key>
+												<dict>
+													<key>Color</key>
+													<dict>
+														<key>b</key>
+														<real>0.56715000000000004</real>
+														<key>g</key>
+														<real>0.60053999999999996</real>
+														<key>r</key>
+														<real>0.0047153799999999999</real>
+														<key>space</key>
+														<string>srgb</string>
+													</dict>
+													<key>HeadArrow</key>
+													<string>FilledArrow</string>
+													<key>HeadScale</key>
+													<real>0.5</real>
+													<key>Legacy</key>
+													<false/>
+													<key>TailArrow</key>
+													<string>FilledBall</string>
+													<key>TailScale</key>
+													<real>0.5</real>
+												</dict>
+											</dict>
+										</dict>
+										<dict>
 											<key>Bounds</key>
 											<string>{{170.08928571428578, 837.63392857142856}, {20.357142857142854, 20.357142857142854}}</string>
 											<key>Class</key>
@@ -55316,8 +55442,494 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 							<key>Graphics</key>
 							<array>
 								<dict>
+									<key>Class</key>
+									<string>Group</string>
+									<key>Graphics</key>
+									<array>
+										<dict>
+											<key>Bounds</key>
+											<string>{{475.08928571428578, 892.63392857142856}, {20.357142857142854, 20.357142857142854}}</string>
+											<key>Class</key>
+											<string>ShapedGraphic</string>
+											<key>ID</key>
+											<integer>660</integer>
+											<key>ImageID</key>
+											<integer>38</integer>
+											<key>Name</key>
+											<string>Redis logo</string>
+											<key>Style</key>
+											<dict>
+												<key>fill</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>shadow</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>stroke</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+											</dict>
+											<key>Text</key>
+											<dict>
+												<key>TextAlongPathGlyphAnchor</key>
+												<string>center</string>
+											</dict>
+										</dict>
+										<dict>
+											<key>Class</key>
+											<string>Group</string>
+											<key>Graphics</key>
+											<array>
+												<dict>
+													<key>Bounds</key>
+													<string>{{543.48667582417579, 902.81250000000023}, {13.894051141166509, 8.9062499999999893}}</string>
+													<key>Class</key>
+													<string>ShapedGraphic</string>
+													<key>ID</key>
+													<integer>662</integer>
+													<key>ImageID</key>
+													<integer>31</integer>
+													<key>ManualSizeImage</key>
+													<string>YES</string>
+													<key>Scale</key>
+													<real>0.076923073002925335</real>
+													<key>ScaleY</key>
+													<real>0.076923079788684845</real>
+													<key>StretchImage</key>
+													<false/>
+													<key>Style</key>
+													<dict>
+														<key>fill</key>
+														<dict>
+															<key>Draws</key>
+															<string>NO</string>
+														</dict>
+														<key>shadow</key>
+														<dict>
+															<key>Draws</key>
+															<string>NO</string>
+														</dict>
+														<key>stroke</key>
+														<dict>
+															<key>Draws</key>
+															<string>NO</string>
+														</dict>
+													</dict>
+													<key>Text</key>
+													<dict>
+														<key>TextAlongPathGlyphAnchor</key>
+														<string>center</string>
+													</dict>
+												</dict>
+												<dict>
+													<key>Bounds</key>
+													<string>{{531.24107142857099, 902.81250000000023}, {10.204670329670313, 8.9062499999999964}}</string>
+													<key>Class</key>
+													<string>ShapedGraphic</string>
+													<key>ID</key>
+													<integer>663</integer>
+													<key>ImageID</key>
+													<integer>12</integer>
+													<key>ManualSizeImage</key>
+													<string>YES</string>
+													<key>Offset</key>
+													<string>{0.043062200956937788, 0.0047846889952153108}</string>
+													<key>Scale</key>
+													<real>0.10741758241758227</real>
+													<key>ScaleY</key>
+													<real>0.09375</real>
+													<key>Scaling</key>
+													<integer>1</integer>
+													<key>StretchImage</key>
+													<true/>
+													<key>Style</key>
+													<dict>
+														<key>fill</key>
+														<dict>
+															<key>Draws</key>
+															<string>NO</string>
+														</dict>
+														<key>shadow</key>
+														<dict>
+															<key>Draws</key>
+															<string>NO</string>
+														</dict>
+														<key>stroke</key>
+														<dict>
+															<key>Draws</key>
+															<string>NO</string>
+														</dict>
+													</dict>
+													<key>Text</key>
+													<dict>
+														<key>TextAlongPathGlyphAnchor</key>
+														<string>center</string>
+													</dict>
+												</dict>
+												<dict>
+													<key>Bounds</key>
+													<string>{{515.93406593406576, 902.81250000000023}, {13.818823855651161, 8.9062499999999964}}</string>
+													<key>Class</key>
+													<string>ShapedGraphic</string>
+													<key>ID</key>
+													<integer>664</integer>
+													<key>ImageID</key>
+													<integer>7</integer>
+													<key>Scaling</key>
+													<integer>1</integer>
+													<key>Style</key>
+													<dict>
+														<key>fill</key>
+														<dict>
+															<key>Draws</key>
+															<string>NO</string>
+														</dict>
+														<key>shadow</key>
+														<dict>
+															<key>Draws</key>
+															<string>NO</string>
+														</dict>
+														<key>stroke</key>
+														<dict>
+															<key>Draws</key>
+															<string>NO</string>
+														</dict>
+													</dict>
+													<key>Text</key>
+													<dict>
+														<key>TextAlongPathGlyphAnchor</key>
+														<string>center</string>
+													</dict>
+												</dict>
+												<dict>
+													<key>Bounds</key>
+													<string>{{500.62706043956007, 902.81250000000023}, {10.204670329670313, 8.9062499999999964}}</string>
+													<key>Class</key>
+													<string>ShapedGraphic</string>
+													<key>ID</key>
+													<integer>665</integer>
+													<key>ImageID</key>
+													<integer>6</integer>
+													<key>Scaling</key>
+													<integer>1</integer>
+													<key>Style</key>
+													<dict>
+														<key>fill</key>
+														<dict>
+															<key>Draws</key>
+															<string>NO</string>
+														</dict>
+														<key>shadow</key>
+														<dict>
+															<key>Draws</key>
+															<string>NO</string>
+														</dict>
+														<key>stroke</key>
+														<dict>
+															<key>Draws</key>
+															<string>NO</string>
+														</dict>
+													</dict>
+													<key>Text</key>
+													<dict>
+														<key>TextAlongPathGlyphAnchor</key>
+														<string>center</string>
+													</dict>
+												</dict>
+												<dict>
+													<key>Bounds</key>
+													<string>{{556.75274725274642, 902.81250000000034}, {10.204670329670314, 8.9062500000000018}}</string>
+													<key>Class</key>
+													<string>ShapedGraphic</string>
+													<key>ID</key>
+													<integer>666</integer>
+													<key>ImageID</key>
+													<integer>28</integer>
+													<key>Style</key>
+													<dict>
+														<key>fill</key>
+														<dict>
+															<key>Draws</key>
+															<string>NO</string>
+														</dict>
+														<key>shadow</key>
+														<dict>
+															<key>Draws</key>
+															<string>NO</string>
+														</dict>
+														<key>stroke</key>
+														<dict>
+															<key>Draws</key>
+															<string>NO</string>
+														</dict>
+													</dict>
+													<key>Text</key>
+													<dict>
+														<key>TextAlongPathGlyphAnchor</key>
+														<string>center</string>
+													</dict>
+												</dict>
+											</array>
+											<key>ID</key>
+											<integer>661</integer>
+											<key>Name</key>
+											<string>IaaS</string>
+											<key>Scaling</key>
+											<integer>-1</integer>
+											<key>Style</key>
+											<dict>
+												<key>fill</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>shadow</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>stroke</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+											</dict>
+										</dict>
+										<dict>
+											<key>Bounds</key>
+											<string>{{500.62706043956058, 900.26785714285722}, {71.158653846153896, 1.1874999999996143}}</string>
+											<key>Class</key>
+											<string>ShapedGraphic</string>
+											<key>FontInfo</key>
+											<dict>
+												<key>Color</key>
+												<dict>
+													<key>space</key>
+													<string>gg22</string>
+													<key>w</key>
+													<string>0</string>
+												</dict>
+												<key>Font</key>
+												<string>SourceSansPro-Regular</string>
+												<key>Size</key>
+												<real>8</real>
+											</dict>
+											<key>ID</key>
+											<integer>667</integer>
+											<key>Magnets</key>
+											<array>
+												<string>{1, 0}</string>
+												<string>{-1, 0}</string>
+												<string>{-0.41768083836098535, -0.5}</string>
+											</array>
+											<key>Name</key>
+											<string>Redis v2.3.0
+</string>
+											<key>Style</key>
+											<dict>
+												<key>fill</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>shadow</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>stroke</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+											</dict>
+											<key>Text</key>
+											<dict>
+												<key>Align</key>
+												<integer>0</integer>
+												<key>Pad</key>
+												<real>0.0</real>
+												<key>RTFD</key>
+												<data>
+								BAtzdHJlYW10
+								eXBlZIHoA4QB
+								QISEhBJOU0F0
+								dHJpYnV0ZWRT
+								dHJpbmcAhIQI
+								TlNPYmplY3QA
+								hZKEhIQITlNT
+								dHJpbmcBlIQB
+								Kw5SZWRpcyB2
+								Mi4zLjArCoaE
+								AmlJAQaShISE
+								DE5TRGljdGlv
+								bmFyeQCUhAFp
+								A5KElpYHTlND
+								b2xvcoaShISE
+								B05TQ29sb3IA
+								lIQBYwGEBGZm
+								ZmaDfPLwPYN8
+								8vA9g3zy8D0B
+								hpKElpYQTlNQ
+								YXJhZ3JhcGhT
+								dHlsZYaShISE
+								F05TTXV0YWJs
+								ZVBhcmFncmFw
+								aFN0eWxlAISE
+								EE5TUGFyYWdy
+								YXBoU3R5bGUA
+								lIQEQ0NAUwAA
+								hISEB05TQXJy
+								YXkAlJkAhoEA
+								AoQEWzFmXSSG
+								koSWlgZOU0Zv
+								bnSGkoSEhAZO
+								U0ZvbnQelJko
+								hAVbNDBjXQYA
+								AAAeAAAA//5I
+								AGUAbAB2AGUA
+								dABpAGMAYQAt
+								AEIAbwBsAGQA
+								AACEAWYImwCb
+								AZsAmwCGhpcC
+								CJKEmJkDkpmS
+								mpKckp2SopKE
+								pJkchAVbMjhj
+								XQYAAAAUAAAA
+								//5IAGUAbAB2
+								AGUAdABpAGMA
+								YQCkCJsAmwGb
+								AJsAhoaG
+												</data>
+												<key>Text</key>
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
+{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\b\fs16 \cf2 Redis 
+\f1\b0 v2.3.0+\
+}</string>
+												<key>TextAlongPathGlyphAnchor</key>
+												<string>center</string>
+												<key>VerticalPad</key>
+												<real>0.0</real>
+											</dict>
+										</dict>
+										<dict>
+											<key>Bounds</key>
+											<string>{{470, 885}, {130, 35.624999999999964}}</string>
+											<key>Class</key>
+											<string>ShapedGraphic</string>
+											<key>ID</key>
+											<integer>668</integer>
+											<key>Magnets</key>
+											<array>
+												<string>{0, 1}</string>
+												<string>{0, -1}</string>
+												<string>{1, 0}</string>
+												<string>{-1, 0}</string>
+											</array>
+											<key>Name</key>
+											<string>Redis</string>
+											<key>Style</key>
+											<dict>
+												<key>shadow</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>stroke</key>
+												<dict>
+													<key>Color</key>
+													<dict>
+														<key>b</key>
+														<real>0.78109200000000001</real>
+														<key>g</key>
+														<real>0.77117999999999998</real>
+														<key>r</key>
+														<real>0.76405999999999996</real>
+														<key>space</key>
+														<string>srgb</string>
+													</dict>
+													<key>CornerRadius</key>
+													<real>3</real>
+												</dict>
+											</dict>
+											<key>Text</key>
+											<dict>
+												<key>TextAlongPathGlyphAnchor</key>
+												<string>center</string>
+											</dict>
+										</dict>
+									</array>
+									<key>ID</key>
+									<integer>659</integer>
+									<key>Name</key>
+									<string>Group</string>
+									<key>Scaling</key>
+									<integer>-1</integer>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+									</dict>
+								</dict>
+							</array>
+							<key>ID</key>
+							<integer>658</integer>
+							<key>Name</key>
+							<string>Redis 2.3.0</string>
+							<key>Scaling</key>
+							<integer>-1</integer>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+						</dict>
+						<dict>
+							<key>Class</key>
+							<string>Group</string>
+							<key>Graphics</key>
+							<array>
+								<dict>
 									<key>Bounds</key>
-									<string>{{465, 590}, {140, 305}}</string>
+									<string>{{465, 589.99999999999989}, {140, 340.00000000000017}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -55359,7 +55971,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{315, 590}, {140, 305}}</string>
+									<string>{{315, 589.99999999999989}, {140, 340.00000000000017}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -55401,7 +56013,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{165, 590}, {140, 305}}</string>
+									<string>{{165, 589.99999999999989}, {140, 340.00000000000017}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -55443,7 +56055,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{15, 590}, {140, 305}}</string>
+									<string>{{15, 589.99999999999989}, {140, 340.00000000000017}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -55578,6 +56190,17 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 					<true/>
 				</dict>
 			</array>
+			<key>LayoutInfo</key>
+			<dict>
+				<key>Animate</key>
+				<string>NO</string>
+				<key>circoMinDist</key>
+				<real>18</real>
+				<key>layoutEngine</key>
+				<string>dot</string>
+				<key>neatoLineLength</key>
+				<real>0.20000000298023224</real>
+			</dict>
 			<key>Orientation</key>
 			<integer>2</integer>
 			<key>PrintOnePage</key>
@@ -65592,6 +66215,17 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 					<true/>
 				</dict>
 			</array>
+			<key>LayoutInfo</key>
+			<dict>
+				<key>Animate</key>
+				<string>NO</string>
+				<key>circoMinDist</key>
+				<real>18</real>
+				<key>layoutEngine</key>
+				<string>dot</string>
+				<key>neatoLineLength</key>
+				<real>0.20000000298023224</real>
+			</dict>
 			<key>Orientation</key>
 			<integer>2</integer>
 			<key>PrintOnePage</key>
@@ -74886,6 +75520,17 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 					<true/>
 				</dict>
 			</array>
+			<key>LayoutInfo</key>
+			<dict>
+				<key>Animate</key>
+				<string>NO</string>
+				<key>circoMinDist</key>
+				<real>18</real>
+				<key>layoutEngine</key>
+				<string>dot</string>
+				<key>neatoLineLength</key>
+				<real>0.20000000298023224</real>
+			</dict>
 			<key>Orientation</key>
 			<integer>2</integer>
 			<key>PrintOnePage</key>
@@ -74913,9 +75558,9 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>3</integer>
+		<integer>4</integer>
 		<key>Frame</key>
-		<string>{{230, 216}, {1561, 983}}</string>
+		<string>{{672, 285}, {1561, 983}}</string>
 		<key>ShowInfo</key>
 		<false/>
 		<key>Sidebar</key>
@@ -74925,7 +75570,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 		<key>Sidebar_Tab</key>
 		<integer>0</integer>
 		<key>VisibleRegion</key>
-		<string>{{-191.66666666666666, 405.33333333333331}, {820, 572}}</string>
+		<string>{{-72, 593.33333333333337}, {820, 571.99999999999989}}</string>
 		<key>WindowInfo_InspectorTab</key>
 		<array>
 			<string>com.omnigroup.OmniGraffle.inspectorGroup.object</string>
