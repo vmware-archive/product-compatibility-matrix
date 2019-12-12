@@ -80,7 +80,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2019-12-12 18:39:00 +0000</string>
+	<string>2019-12-12 18:46:38 +0000</string>
 	<key>Modifier</key>
 	<string>Miranda Limonczenko</string>
 	<key>NotesVisible</key>
@@ -44258,6 +44258,67 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 						<real>12</real>
 					</dict>
 					<key>ID</key>
+					<integer>446</integer>
+					<key>Layer</key>
+					<integer>0</integer>
+					<key>Name</key>
+					<string>Ops Man 2.3</string>
+					<key>Points</key>
+					<array>
+						<string>{310, 460}</string>
+						<string>{475, 460.0847332743885}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.56715000000000004</real>
+								<key>g</key>
+								<real>0.60053999999999996</real>
+								<key>r</key>
+								<real>0.0047153799999999999</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>HeadArrow</key>
+							<string>FilledArrow</string>
+							<key>HeadScale</key>
+							<real>0.5</real>
+							<key>Legacy</key>
+							<false/>
+							<key>TailArrow</key>
+							<string>FilledBall</string>
+							<key>TailScale</key>
+							<real>0.5</real>
+						</dict>
+					</dict>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>space</key>
+							<string>gg22</string>
+							<key>w</key>
+							<string>0</string>
+						</dict>
+						<key>Font</key>
+						<string>Helvetica</string>
+						<key>Size</key>
+						<real>12</real>
+					</dict>
+					<key>ID</key>
 					<integer>445</integer>
 					<key>Layer</key>
 					<integer>0</integer>
@@ -50711,7 +50772,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{14.244000000000597, 582}, {356.51199999999881, 18}}</string>
+					<string>{{5, 582}, {375, 18}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -50837,31 +50898,32 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 						BAtzdHJlYW10eXBlZIHoA4QBQISE
 						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
 						hIQITlNPYmplY3QAhZKEhIQITlNT
-						dHJpbmcBlIQBK38qIEluc3RlYWQg
-						b2YgZG9pbmcgYW4gdXBncmFkZSwg
-						U3ByaW5nIENsb3VkIFNlcnZpY2Vz
-						IHYzLjAueCBjYW4gYmUgZGVwbG95
-						ZWQgYWxvbmdzaWRlIFNwcmluZyBD
-						bG91ZCBTZXJ2aWNlcyB2MS41Lngg
-						YW5kIHYyLjAueC4ghoQCaUkBf5KE
-						hIQMTlNEaWN0aW9uYXJ5AJSEAWkD
-						koSWlgdOU0NvbG9yhpKEhIQHTlND
-						b2xvcgCUhAFjAYQEZmZmZoOjBnM+
-						gx8Rcz6DBARzPgGGkoSWlhBOU1Bh
-						cmFncmFwaFN0eWxlhpKEhIQXTlNN
-						dXRhYmxlUGFyYWdyYXBoU3R5bGUA
-						hIQQTlNQYXJhZ3JhcGhTdHlsZQCU
-						hARDQ0BTAgCEhIQHTlNBcnJheQCU
-						mQyShISECU5TVGV4dFRhYgCUhAJD
-						ZgAchpKEo6IAOIaShKOiAFSGkoSj
-						ogBwhpKEo6IAgYwAhpKEo6IAgagA
-						hpKEo6IAgcQAhpKEo6IAgeAAhpKE
-						o6IAgfwAhpKEo6IAgRgBhpKEo6IA
-						gTQBhpKEo6IAgVABhoYAhpKElpYG
-						TlNGb250hpKEhIQGTlNGb250HpSZ
-						JIQFWzM2Y10GAAAAHAAAAP/+SABl
-						AGwAdgBlAHQAaQBjAGEATgBlAHUA
-						ZQCEAWYGmwCbAZsAmwCGhoY=
+						dHJpbmcBlIQBK4GHACogSW5zdGVh
+						ZCBvZiBkb2luZyBhbiB1cGdyYWRl
+						LCBTcHJpbmcgQ2xvdWQgU2Vydmlj
+						ZXMgdjMuMC54IGNhbiBiZSBkZXBs
+						b3llZCBhbG9uZ3NpZGUgU3ByaW5n
+						IENsb3VkIFNlcnZpY2VzIHYxLjUu
+						eCwgdjIuMC54LCBhbmQgMi4xLngg
+						LoaEAmlJAYGHAJKEhIQMTlNEaWN0
+						aW9uYXJ5AJSEAWkDkoSWlgdOU0Nv
+						bG9yhpKEhIQHTlNDb2xvcgCUhAFj
+						AYQEZmZmZoOjBnM+gx8Rcz6DBARz
+						PgGGkoSWlhBOU1BhcmFncmFwaFN0
+						eWxlhpKEhIQXTlNNdXRhYmxlUGFy
+						YWdyYXBoU3R5bGUAhIQQTlNQYXJh
+						Z3JhcGhTdHlsZQCUhARDQ0BTAgCE
+						hIQHTlNBcnJheQCUmQyShISECU5T
+						VGV4dFRhYgCUhAJDZgAchpKEo6IA
+						OIaShKOiAFSGkoSjogBwhpKEo6IA
+						gYwAhpKEo6IAgagAhpKEo6IAgcQA
+						hpKEo6IAgeAAhpKEo6IAgfwAhpKE
+						o6IAgRgBhpKEo6IAgTQBhpKEo6IA
+						gVABhoYAhpKElpYGTlNGb250hpKE
+						hIQGTlNGb250HpSZJIQFWzM2Y10G
+						AAAAHAAAAP/+SABlAGwAdgBlAHQA
+						aQBjAGEATgBlAHUAZQCEAWYGmwCb
+						AZsAmwCGhoY=
 						</data>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf100
@@ -50870,7 +50932,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 {\*\expandedcolortbl;;\csgenericrgb\c23733\c23737\c23732;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
-\f0\fs12 \cf2 * Instead of doing an upgrade, Spring Cloud Services v3.0.x can be deployed alongside Spring Cloud Services v1.5.x and v2.0.x. }</string>
+\f0\fs12 \cf2 * Instead of doing an upgrade, Spring Cloud Services v3.0.x can be deployed alongside Spring Cloud Services v1.5.x, v2.0.x, and 2.1.x .}</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
@@ -59427,9 +59489,9 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 		<key>TopSlabHeight</key>
 		<real>33</real>
 		<key>VisibleRegion</key>
-		<string>{{-194, 58}, {1044, 851.33333333333337}}</string>
+		<string>{{-63, 156}, {783, 638.5}}</string>
 		<key>Zoom</key>
-		<real>1.5</real>
+		<real>2</real>
 		<key>ZoomValues</key>
 		<array>
 			<array>
@@ -59459,8 +59521,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 			</array>
 			<array>
 				<string>Spring Cloud</string>
+				<real>2</real>
 				<real>1.5</real>
-				<real>1</real>
 			</array>
 			<array>
 				<string>PCC and Push</string>
