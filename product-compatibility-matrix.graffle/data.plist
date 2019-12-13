@@ -78,7 +78,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2019-12-13 20:01:30 +0000</string>
+	<string>2019-12-13 20:17:23 +0000</string>
 	<key>Modifier</key>
 	<string>Jane Day</string>
 	<key>MovementHandleVisible</key>
@@ -67480,6 +67480,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										<string>{-1, 0}</string>
 										<string>{-0.41768083836098535, -0.5}</string>
 									</array>
+									<key>Name</key>
+									<string>Pivotal Cloud Cache v1.9.1+ </string>
 									<key>Style</key>
 									<dict>
 										<key>fill</key>
@@ -67517,7 +67519,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								KxxQaXZvdGFs
 								IENsb3VkIENh
 								Y2hlIHYxLjku
-								MCsghoQCaUkB
+								MSsghoQCaUkB
 								FJKEhIQMTlNE
 								aWN0aW9uYXJ5
 								AJSEAWkDkoSW
@@ -67567,9 +67569,9 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 \pard\pardeftab720\partightenfactor0
 
 \f0\b\fs16 \cf2 Pivotal Cloud Cache 
-\f1\b0 v1.9.0+ }</string>
+\f1\b0 v1.9.1+ }</string>
 										<key>TextAlongPathGlyphAnchor</key>
-										<string>left</string>
+										<string>center</string>
 										<key>VerticalPad</key>
 										<real>0.0</real>
 									</dict>
@@ -67626,7 +67628,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 							<key>ID</key>
 							<integer>533</integer>
 							<key>Name</key>
-							<string>PCC 1.9.0+ (click me for elements)</string>
+							<string>PCC 1.9.1+ (click me for elements)</string>
 							<key>Scaling</key>
 							<integer>-1</integer>
 							<key>Style</key>
@@ -69367,7 +69369,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>3</integer>
+		<integer>6</integer>
 		<key>Frame</key>
 		<string>{{779, 81}, {1781, 1336}}</string>
 		<key>ShowInfo</key>
@@ -69379,7 +69381,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 		<key>Sidebar_Tab</key>
 		<integer>0</integer>
 		<key>VisibleRegion</key>
-		<string>{{-169.5, 0}, {876, 807.33333333333337}}</string>
+		<string>{{-124.16666666666626, 0}, {876, 807.33333333333337}}</string>
 		<key>WindowInfo_InspectorTab</key>
 		<array>
 			<string>com.omnigroup.OmniGraffle.inspectorGroup.object</string>
