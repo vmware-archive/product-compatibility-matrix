@@ -78,9 +78,9 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2019-12-13 19:30:47 +0000</string>
+	<string>2019-12-13 20:01:30 +0000</string>
 	<key>Modifier</key>
-	<string>Ramia Davis</string>
+	<string>Jane Day</string>
 	<key>MovementHandleVisible</key>
 	<string>NO</string>
 	<key>NotesVisible</key>
@@ -38718,6 +38718,106 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									</dict>
 								</dict>
 								<dict>
+									<key>AllowConnections</key>
+									<string>NO</string>
+									<key>AllowToConnect</key>
+									<false/>
+									<key>Class</key>
+									<string>LineGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Color</key>
+										<dict>
+											<key>space</key>
+											<string>gg22</string>
+											<key>w</key>
+											<string>0</string>
+										</dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>12</real>
+									</dict>
+									<key>ID</key>
+									<integer>722</integer>
+									<key>LogicalPath</key>
+									<dict>
+										<key>elements</key>
+										<array>
+											<dict>
+												<key>element</key>
+												<string>MOVETO</string>
+												<key>point</key>
+												<string>{149.99999999999994, 505}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{149.77604166666657, 523.25260416666674}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{150.37239583333326, 571.77604166666663}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{149.99999999999994, 585.00000000000011}</string>
+											</dict>
+										</array>
+									</dict>
+									<key>Name</key>
+									<string>RabbitMQ 1.7.0 to 1.18.0+</string>
+									<key>Points</key>
+									<array>
+										<string>{149.99999999999994, 505}</string>
+										<string>{149.77604166666657, 523.25260416666674}</string>
+										<string>{150.37239583333326, 571.77604166666663}</string>
+										<string>{149.99999999999994, 585.00000000000011}</string>
+									</array>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Color</key>
+											<dict>
+												<key>b</key>
+												<real>0.56715000000000004</real>
+												<key>g</key>
+												<real>0.60053999999999996</real>
+												<key>r</key>
+												<real>0.0047153799999999999</real>
+												<key>space</key>
+												<string>srgb</string>
+											</dict>
+											<key>HeadArrow</key>
+											<string>FilledArrow</string>
+											<key>HeadScale</key>
+											<real>0.5</real>
+											<key>Legacy</key>
+											<false/>
+											<key>TailArrow</key>
+											<string>FilledBall</string>
+											<key>TailScale</key>
+											<real>0.5</real>
+										</dict>
+									</dict>
+								</dict>
+								<dict>
 									<key>Class</key>
 									<string>Group</string>
 									<key>Graphics</key>
@@ -69267,19 +69367,19 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>4</integer>
+		<integer>3</integer>
 		<key>Frame</key>
-		<string>{{914, 81}, {1781, 1336}}</string>
+		<string>{{779, 81}, {1781, 1336}}</string>
 		<key>ShowInfo</key>
 		<false/>
 		<key>Sidebar</key>
 		<true/>
 		<key>SidebarWidth</key>
-		<integer>315</integer>
+		<integer>451</integer>
 		<key>Sidebar_Tab</key>
 		<integer>0</integer>
 		<key>VisibleRegion</key>
-		<string>{{-92, 177.33333333333334}, {966.66666666666663, 807.33333333333326}}</string>
+		<string>{{-169.5, 0}, {876, 807.33333333333337}}</string>
 		<key>WindowInfo_InspectorTab</key>
 		<array>
 			<string>com.omnigroup.OmniGraffle.inspectorGroup.object</string>
