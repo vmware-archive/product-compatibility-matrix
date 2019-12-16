@@ -78,7 +78,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2019-12-13 21:07:42 +0000</string>
+	<string>2019-12-16 16:43:55 +0000</string>
 	<key>Modifier</key>
 	<string>Paige Calvert</string>
 	<key>MovementHandleVisible</key>
@@ -16982,7 +16982,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{54.84243697478982, 460}, {178.86554621848737, 19.37079831932715}}</string>
+					<string>{{54.84243697478982, 457.66666666666697}, {178.86554621848737, 19.37079831932715}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -17119,7 +17119,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{115.07887700534732, 475.18823529411821}, {11.070282658518268, 11.03088663482229}}</string>
+									<string>{{115.07887700534732, 475.52156862745215}, {11.070282658518268, 11.03088663482229}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -17230,7 +17230,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{100.91386554621855, 476.10802139037497}, {12.523241464417637, 9.1978609625666259}}</string>
+									<string>{{100.91386554621855, 476.44135472370891}, {12.523241464417637, 9.1978609625666259}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -17294,7 +17294,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{69.121568627450841, 476.70588235294093}, {13.456319493305088, 9.9369747899159382}}</string>
+							<string>{{69.121568627450841, 477.03921568627487}, {13.456319493305088, 9.9369747899159382}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -17324,7 +17324,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{54.878571428571519, 476.70588235294093}, {9.9369747899159382, 9.9369747899159382}}</string>
+							<string>{{54.878571428571519, 477.03921568627487}, {9.9369747899159382, 9.9369747899159382}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -17354,7 +17354,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{86.345658263305296, 476.70588235294093}, {9.9369747899159382, 9.9369747899159382}}</string>
+							<string>{{86.345658263305296, 477.03921568627487}, {9.9369747899159382, 9.9369747899159382}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -61859,7 +61859,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 		<key>CurrentSheet</key>
 		<integer>1</integer>
 		<key>Frame</key>
-		<string>{{-91, 1211}, {1807, 1148}}</string>
+		<string>{{113, 0}, {1807, 1148}}</string>
 		<key>ShowInfo</key>
 		<false/>
 		<key>Sidebar</key>
@@ -61869,7 +61869,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 		<key>Sidebar_Tab</key>
 		<integer>0</integer>
 		<key>VisibleRegion</key>
-		<string>{{-136.9999999999998, 239.33333333333334}, {903.33333333333326, 692}}</string>
+		<string>{{-113.33333333333333, 230}, {903.33333333333337, 692}}</string>
 		<key>WindowInfo_InspectorTab</key>
 		<array>
 			<string>com.omnigroup.OmniGraffle.inspectorGroup.object</string>
