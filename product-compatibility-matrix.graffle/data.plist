@@ -5,7 +5,7 @@
 	<key>ApplicationVersion</key>
 	<array>
 		<string>com.omnigroup.OmniGraffle7</string>
-		<string>198.5.0</string>
+		<string>196.16.0.337432</string>
 	</array>
 	<key>Creator</key>
 	<string>Molly Crowther</string>
@@ -80,9 +80,9 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2019-12-12 23:04:02 +0000</string>
+	<string>2019-12-17 15:40:07 +0000</string>
 	<key>Modifier</key>
-	<string>Ramia Davis</string>
+	<string>Samia Nneji</string>
 	<key>MovementHandleVisible</key>
 	<string>NO</string>
 	<key>NotesVisible</key>
@@ -107,6 +107,11 @@
 		<array>
 			<string>float</string>
 			<string>18</string>
+		</array>
+		<key>NSPaperName</key>
+		<array>
+			<string>string</string>
+			<string>na-letter</string>
 		</array>
 		<key>NSPaperSize</key>
 		<array>
@@ -285,8 +290,8 @@
 								<key>Pad</key>
 								<real>20</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \deftab720
@@ -770,8 +775,8 @@
 								hoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -1402,8 +1407,8 @@
 								hoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -2034,8 +2039,8 @@
 								hoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -2586,8 +2591,8 @@
 								hoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -3027,8 +3032,8 @@
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -3163,8 +3168,8 @@
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -3267,8 +3272,8 @@
 								hoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -3407,8 +3412,8 @@
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -3555,8 +3560,8 @@
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -3693,8 +3698,8 @@
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -3829,8 +3834,8 @@
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -4128,8 +4133,8 @@
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -4276,8 +4281,8 @@
 								mwCbAIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -4414,8 +4419,8 @@ Last updated on: &lt;%ModificationDate%&gt;}</string>
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -4519,8 +4524,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -4696,8 +4701,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AJsAhoaG
 								</data>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -4799,8 +4804,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwCbAIaGhg==
 								</data>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -5179,8 +5184,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -5718,8 +5723,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -6257,8 +6262,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -6796,8 +6801,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -7263,8 +7268,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -8021,8 +8026,8 @@ Segment
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -8592,8 +8597,8 @@ Segment
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -9128,8 +9133,8 @@ Segment
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -9736,8 +9741,8 @@ Segment
 								mwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -10240,8 +10245,8 @@ Segment
 								mwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -10737,8 +10742,8 @@ Segment
 								hoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -11233,8 +11238,8 @@ Segment
 								hoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -11645,8 +11650,8 @@ Segment
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -12388,8 +12393,8 @@ Segment
 								<key>Pad</key>
 								<real>20</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \deftab720
@@ -12875,8 +12880,8 @@ Segment
 								hoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -13509,8 +13514,8 @@ Segment
 								hoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -14141,8 +14146,8 @@ Segment
 								hoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -14693,8 +14698,8 @@ Segment
 								hoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -15134,8 +15139,8 @@ Segment
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -15270,8 +15275,8 @@ Segment
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -15374,8 +15379,8 @@ Segment
 								hoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -15514,8 +15519,8 @@ Segment
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -15662,8 +15667,8 @@ Segment
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -15800,8 +15805,8 @@ Segment
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -15936,8 +15941,8 @@ Segment
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -16234,8 +16239,8 @@ Segment
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -16382,8 +16387,8 @@ Segment
 								mwCbAIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -16520,8 +16525,8 @@ Last updated on: &lt;%ModificationDate%&gt;}</string>
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -16625,8 +16630,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -16846,8 +16851,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwCbAIaGhg==
 								</data>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -17123,8 +17128,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwCbAIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -17539,8 +17544,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -18088,8 +18093,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -18637,8 +18642,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwCbAIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -19088,8 +19093,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwCbAIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -19539,8 +19544,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -19696,8 +19701,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AIaGhg==
 														</data>
 														<key>Text</key>
-														<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+														<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -20175,8 +20180,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -20334,8 +20339,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwCGhoY=
 														</data>
 														<key>Text</key>
-														<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+														<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -20814,8 +20819,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -20973,8 +20978,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwCGhoY=
 														</data>
 														<key>Text</key>
-														<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+														<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -21479,8 +21484,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwCbAIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -21638,8 +21643,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwCGhoY=
 														</data>
 														<key>Text</key>
-														<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+														<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -22199,8 +22204,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwCbAIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -22358,8 +22363,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwCGhoY=
 														</data>
 														<key>Text</key>
-														<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+														<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -22919,8 +22924,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -23078,8 +23083,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwCGhoY=
 														</data>
 														<key>Text</key>
-														<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+														<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -23639,8 +23644,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwCbAIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -23798,8 +23803,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwCGhoY=
 														</data>
 														<key>Text</key>
-														<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+														<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -24195,8 +24200,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -24897,8 +24902,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -25018,8 +25023,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -25134,8 +25139,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -25423,8 +25428,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								<key>Pad</key>
 								<real>20</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \deftab720
@@ -25908,8 +25913,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -26540,8 +26545,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -27172,8 +27177,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -27724,8 +27729,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -28165,8 +28170,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -28301,8 +28306,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -28405,8 +28410,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -28545,8 +28550,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -28693,8 +28698,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -28831,8 +28836,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -28967,8 +28972,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -29265,8 +29270,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwCbAIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -29414,8 +29419,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwCbAIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -29552,8 +29557,8 @@ Last updated on: &lt;%ModificationDate%&gt;}</string>
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -29657,8 +29662,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -29796,8 +29801,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 						mwCbAZsAmwCGhoY=
 						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -30011,8 +30016,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -30665,8 +30670,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -31448,8 +31453,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -31905,8 +31910,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -32731,8 +32736,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								lwEBhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -33231,8 +33236,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AJsAhoaXAQGG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -33724,8 +33729,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AJsAhoaXAQGG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -34252,8 +34257,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AJsAhoaXAQGG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -34787,8 +34792,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								<key>Pad</key>
 								<real>20</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \deftab720
@@ -35272,8 +35277,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -35904,8 +35909,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -36536,8 +36541,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -37090,8 +37095,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -37531,8 +37536,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -37667,8 +37672,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -37771,8 +37776,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -37911,8 +37916,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -38059,8 +38064,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -38197,8 +38202,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -38333,8 +38338,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -38631,8 +38636,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -38781,8 +38786,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwCbAIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -38919,8 +38924,8 @@ Last updated on: &lt;%ModificationDate%&gt;}</string>
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -39024,8 +39029,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -39164,8 +39169,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 						hg==
 						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -39187,7 +39192,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{20, 740.7760009765625}, {491.44, 28.447998046875}}</string>
+							<string>{{20, 800.7760009765625}, {491.44, 28.447998046875}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FitText</key>
@@ -39233,8 +39238,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								<key>Align</key>
 								<integer>0</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \deftab720
@@ -39806,8 +39811,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -40451,8 +40456,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -40768,19 +40773,19 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>MOVETO</string>
 												<key>point</key>
-												<string>{210, 560}</string>
+												<string>{200, 560}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{210.37760416666663, 575.48697916666663}</string>
+												<string>{200.37760416666663, 575.48697916666663}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{210, 695}</string>
+												<string>{200, 695}</string>
 											</dict>
 										</array>
 									</dict>
@@ -40788,9 +40793,9 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<string>RabbitMQ 1.15.3 to 1.17.1+</string>
 									<key>Points</key>
 									<array>
-										<string>{210, 560}</string>
-										<string>{210.37760416666663, 575.48697916666663}</string>
-										<string>{210, 695}</string>
+										<string>{200, 560}</string>
+										<string>{200.37760416666663, 575.48697916666663}</string>
+										<string>{200, 695}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -41283,8 +41288,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -41616,25 +41621,25 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>MOVETO</string>
 												<key>point</key>
-												<string>{245, 615}</string>
+												<string>{230, 615}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{244.77604166666663, 633.25260416666663}</string>
+												<string>{229.77604166666663, 633.25260416666663}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{245.37239583333331, 681.77604166666663}</string>
+												<string>{230.37239583333331, 681.77604166666663}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{245, 695}</string>
+												<string>{230, 695}</string>
 											</dict>
 										</array>
 									</dict>
@@ -41642,10 +41647,10 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<string>RabbitMQ 1.16.3 to 1.17.1+</string>
 									<key>Points</key>
 									<array>
-										<string>{245, 615}</string>
-										<string>{244.77604166666663, 633.25260416666663}</string>
-										<string>{245.37239583333331, 681.77604166666663}</string>
-										<string>{245, 695}</string>
+										<string>{230, 615}</string>
+										<string>{229.77604166666663, 633.25260416666663}</string>
+										<string>{230.37239583333331, 681.77604166666663}</string>
+										<string>{230, 695}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -42268,8 +42273,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -42430,15 +42435,22 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
+												<string>{120.51302083333333, 684.83072916666663}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
 												<string>{120.0494791666668, 695}</string>
 											</dict>
 										</array>
 									</dict>
 									<key>Name</key>
-									<string>RabbitMQ 1.70.0 to 1.17.1+</string>
+									<string>RabbitMQ 1.17.0 to 1.17.1+</string>
 									<key>Points</key>
 									<array>
 										<string>{120.0494791666668, 670}</string>
+										<string>{120.51302083333333, 684.83072916666663}</string>
 										<string>{120.0494791666668, 695}</string>
 									</array>
 									<key>Style</key>
@@ -42527,7 +42539,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</array>
 									</dict>
 									<key>Name</key>
-									<string>RabbitMQ 1.70.0 to 1.17.1+</string>
+									<string>RabbitMQ 1.17.0 to 1.17.1+</string>
 									<key>Points</key>
 									<array>
 										<string>{280.04947916666674, 670}</string>
@@ -42620,12 +42632,212 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</array>
 									</dict>
 									<key>Name</key>
-									<string>RabbitMQ 1.70.0 to 1.17.1+</string>
+									<string>RabbitMQ 1.17.0 to 1.17.1+</string>
 									<key>Points</key>
 									<array>
 										<string>{415.04947916666674, 670}</string>
 										<string>{415.71614583333337, 683.42708333333337}</string>
 										<string>{415.04947916666674, 695}</string>
+									</array>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Color</key>
+											<dict>
+												<key>b</key>
+												<real>0.56715000000000004</real>
+												<key>g</key>
+												<real>0.60053999999999996</real>
+												<key>r</key>
+												<real>0.0047153799999999999</real>
+												<key>space</key>
+												<string>srgb</string>
+											</dict>
+											<key>HeadArrow</key>
+											<string>FilledArrow</string>
+											<key>HeadScale</key>
+											<real>0.5</real>
+											<key>Legacy</key>
+											<false/>
+											<key>TailArrow</key>
+											<string>FilledBall</string>
+											<key>TailScale</key>
+											<real>0.5</real>
+										</dict>
+									</dict>
+								</dict>
+								<dict>
+									<key>AllowConnections</key>
+									<string>NO</string>
+									<key>AllowToConnect</key>
+									<false/>
+									<key>Class</key>
+									<string>LineGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Color</key>
+										<dict>
+											<key>space</key>
+											<string>gg22</string>
+											<key>w</key>
+											<string>0</string>
+										</dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>12</real>
+									</dict>
+									<key>ID</key>
+									<integer>711</integer>
+									<key>LogicalPath</key>
+									<dict>
+										<key>elements</key>
+										<array>
+											<dict>
+												<key>element</key>
+												<string>MOVETO</string>
+												<key>point</key>
+												<string>{250, 670}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{249.77604166666663, 688.25260416666663}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{250.37239583333331, 736.77604166666663}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{250, 750}</string>
+											</dict>
+										</array>
+									</dict>
+									<key>Name</key>
+									<string>RabbitMQ 1.17.0 to 1.18.2+</string>
+									<key>Points</key>
+									<array>
+										<string>{250, 670}</string>
+										<string>{249.77604166666663, 688.25260416666663}</string>
+										<string>{250.37239583333331, 736.77604166666663}</string>
+										<string>{250, 750}</string>
+									</array>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Color</key>
+											<dict>
+												<key>b</key>
+												<real>0.56715000000000004</real>
+												<key>g</key>
+												<real>0.60053999999999996</real>
+												<key>r</key>
+												<real>0.0047153799999999999</real>
+												<key>space</key>
+												<string>srgb</string>
+											</dict>
+											<key>HeadArrow</key>
+											<string>FilledArrow</string>
+											<key>HeadScale</key>
+											<real>0.5</real>
+											<key>Legacy</key>
+											<false/>
+											<key>TailArrow</key>
+											<string>FilledBall</string>
+											<key>TailScale</key>
+											<real>0.5</real>
+										</dict>
+									</dict>
+								</dict>
+								<dict>
+									<key>AllowConnections</key>
+									<string>NO</string>
+									<key>AllowToConnect</key>
+									<false/>
+									<key>Class</key>
+									<string>LineGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Color</key>
+										<dict>
+											<key>space</key>
+											<string>gg22</string>
+											<key>w</key>
+											<string>0</string>
+										</dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>12</real>
+									</dict>
+									<key>ID</key>
+									<integer>710</integer>
+									<key>LogicalPath</key>
+									<dict>
+										<key>elements</key>
+										<array>
+											<dict>
+												<key>element</key>
+												<string>MOVETO</string>
+												<key>point</key>
+												<string>{380, 670}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{379.77604166666663, 688.25260416666663}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{380.37239583333331, 736.77604166666663}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{380, 750}</string>
+											</dict>
+										</array>
+									</dict>
+									<key>Name</key>
+									<string>RabbitMQ 1.17.0 to 1.18.2+</string>
+									<key>Points</key>
+									<array>
+										<string>{380, 670}</string>
+										<string>{379.77604166666663, 688.25260416666663}</string>
+										<string>{380.37239583333331, 736.77604166666663}</string>
+										<string>{380, 750}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -42967,8 +43179,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -43092,6 +43304,333 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 							<string>Group</string>
 							<key>Graphics</key>
 							<array>
+								<dict>
+									<key>AllowConnections</key>
+									<string>NO</string>
+									<key>AllowToConnect</key>
+									<false/>
+									<key>Class</key>
+									<string>LineGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Color</key>
+										<dict>
+											<key>space</key>
+											<string>gg22</string>
+											<key>w</key>
+											<string>0</string>
+										</dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>12</real>
+									</dict>
+									<key>ID</key>
+									<integer>709</integer>
+									<key>LogicalPath</key>
+									<dict>
+										<key>elements</key>
+										<array>
+											<dict>
+												<key>element</key>
+												<string>MOVETO</string>
+												<key>point</key>
+												<string>{280, 725}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{280.3359375, 739.234375}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{280.11458333333337, 736.21875}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{280, 750}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{280, 750}</string>
+											</dict>
+										</array>
+									</dict>
+									<key>Name</key>
+									<string>RabbitMQ 1.17.1 to 1.18.2</string>
+									<key>Points</key>
+									<array>
+										<string>{280, 725}</string>
+										<string>{280, 725}</string>
+										<string>{280.3359375, 739.234375}</string>
+										<string>{280.11458333333337, 736.21875}</string>
+										<string>{280, 750}</string>
+										<string>{279.09895833333331, 745.26302083333337}</string>
+										<string>{280, 750}</string>
+									</array>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Color</key>
+											<dict>
+												<key>b</key>
+												<real>0.56715000000000004</real>
+												<key>g</key>
+												<real>0.60053999999999996</real>
+												<key>r</key>
+												<real>0.0047153799999999999</real>
+												<key>space</key>
+												<string>srgb</string>
+											</dict>
+											<key>HeadArrow</key>
+											<string>FilledArrow</string>
+											<key>HeadScale</key>
+											<real>0.5</real>
+											<key>Legacy</key>
+											<false/>
+											<key>TailArrow</key>
+											<string>FilledBall</string>
+											<key>TailScale</key>
+											<real>0.5</real>
+										</dict>
+									</dict>
+								</dict>
+								<dict>
+									<key>AllowConnections</key>
+									<string>NO</string>
+									<key>AllowToConnect</key>
+									<false/>
+									<key>Class</key>
+									<string>LineGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Color</key>
+										<dict>
+											<key>space</key>
+											<string>gg22</string>
+											<key>w</key>
+											<string>0</string>
+										</dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>12</real>
+									</dict>
+									<key>ID</key>
+									<integer>708</integer>
+									<key>LogicalPath</key>
+									<dict>
+										<key>elements</key>
+										<array>
+											<dict>
+												<key>element</key>
+												<string>MOVETO</string>
+												<key>point</key>
+												<string>{415, 725}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{415.3359375, 739.234375}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{415.11458333333337, 736.21875}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{415, 750}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{415, 750}</string>
+											</dict>
+										</array>
+									</dict>
+									<key>Name</key>
+									<string>RabbitMQ 1.17.1 to 1.18.2</string>
+									<key>Points</key>
+									<array>
+										<string>{415, 725}</string>
+										<string>{415, 725}</string>
+										<string>{415.3359375, 739.234375}</string>
+										<string>{415.11458333333337, 736.21875}</string>
+										<string>{415, 750}</string>
+										<string>{414.09895833333331, 745.26302083333337}</string>
+										<string>{415, 750}</string>
+									</array>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Color</key>
+											<dict>
+												<key>b</key>
+												<real>0.56715000000000004</real>
+												<key>g</key>
+												<real>0.60053999999999996</real>
+												<key>r</key>
+												<real>0.0047153799999999999</real>
+												<key>space</key>
+												<string>srgb</string>
+											</dict>
+											<key>HeadArrow</key>
+											<string>FilledArrow</string>
+											<key>HeadScale</key>
+											<real>0.5</real>
+											<key>Legacy</key>
+											<false/>
+											<key>TailArrow</key>
+											<string>FilledBall</string>
+											<key>TailScale</key>
+											<real>0.5</real>
+										</dict>
+									</dict>
+								</dict>
+								<dict>
+									<key>AllowConnections</key>
+									<string>NO</string>
+									<key>AllowToConnect</key>
+									<false/>
+									<key>Class</key>
+									<string>LineGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Color</key>
+										<dict>
+											<key>space</key>
+											<string>gg22</string>
+											<key>w</key>
+											<string>0</string>
+										</dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>12</real>
+									</dict>
+									<key>ID</key>
+									<integer>707</integer>
+									<key>LogicalPath</key>
+									<dict>
+										<key>elements</key>
+										<array>
+											<dict>
+												<key>element</key>
+												<string>MOVETO</string>
+												<key>point</key>
+												<string>{545, 725}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{545.3359375, 739.234375}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{545.11458333333337, 736.21875}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{545, 750}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{545, 750}</string>
+											</dict>
+										</array>
+									</dict>
+									<key>Name</key>
+									<string>RabbitMQ 1.17.1 to 1.18.2</string>
+									<key>Points</key>
+									<array>
+										<string>{545, 725}</string>
+										<string>{545, 725}</string>
+										<string>{545.3359375, 739.234375}</string>
+										<string>{545.11458333333337, 736.21875}</string>
+										<string>{545, 750}</string>
+										<string>{544.09895833333326, 745.26302083333337}</string>
+										<string>{545, 750}</string>
+									</array>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Color</key>
+											<dict>
+												<key>b</key>
+												<real>0.56715000000000004</real>
+												<key>g</key>
+												<real>0.60053999999999996</real>
+												<key>r</key>
+												<real>0.0047153799999999999</real>
+												<key>space</key>
+												<string>srgb</string>
+											</dict>
+											<key>HeadArrow</key>
+											<string>FilledArrow</string>
+											<key>HeadScale</key>
+											<real>0.5</real>
+											<key>Legacy</key>
+											<false/>
+											<key>TailArrow</key>
+											<string>FilledBall</string>
+											<key>TailScale</key>
+											<real>0.5</real>
+										</dict>
+									</dict>
+								</dict>
 								<dict>
 									<key>Class</key>
 									<string>Group</string>
@@ -43394,8 +43933,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -43520,8 +44059,437 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 							<key>Graphics</key>
 							<array>
 								<dict>
+									<key>Class</key>
+									<string>Group</string>
+									<key>Graphics</key>
+									<array>
+										<dict>
+											<key>Bounds</key>
+											<string>{{256.12499999999989, 768.66666666666697}, {14.344780219780196, 9.9999999999999964}}</string>
+											<key>Class</key>
+											<string>ShapedGraphic</string>
+											<key>ID</key>
+											<integer>698</integer>
+											<key>ImageID</key>
+											<integer>31</integer>
+											<key>ManualSizeImage</key>
+											<string>YES</string>
+											<key>Scale</key>
+											<real>0.076923073002925335</real>
+											<key>ScaleY</key>
+											<real>0.076923079788684845</real>
+											<key>StretchImage</key>
+											<false/>
+											<key>Style</key>
+											<dict>
+												<key>fill</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>shadow</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>stroke</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+											</dict>
+											<key>Text</key>
+											<dict>
+												<key>TextAlongPathGlyphAnchor</key>
+												<string>center</string>
+											</dict>
+										</dict>
+										<dict>
+											<key>Bounds</key>
+											<string>{{243.48214285714312, 768.66666666666697}, {10.535714285714267, 10.000000000000004}}</string>
+											<key>Class</key>
+											<string>ShapedGraphic</string>
+											<key>ID</key>
+											<integer>699</integer>
+											<key>ImageID</key>
+											<integer>12</integer>
+											<key>ManualSizeImage</key>
+											<string>YES</string>
+											<key>Offset</key>
+											<string>{0.043062200956937788, 0.0047846889952153108}</string>
+											<key>Scale</key>
+											<real>0.11090225563909759</real>
+											<key>ScaleY</key>
+											<real>0.10526315867900848</real>
+											<key>Scaling</key>
+											<integer>1</integer>
+											<key>StretchImage</key>
+											<true/>
+											<key>Style</key>
+											<dict>
+												<key>fill</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>shadow</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>stroke</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+											</dict>
+											<key>Text</key>
+											<dict>
+												<key>TextAlongPathGlyphAnchor</key>
+												<string>center</string>
+											</dict>
+										</dict>
+										<dict>
+											<key>Bounds</key>
+											<string>{{227.67857142857179, 768.66666666666697}, {14.267112528313966, 10.000000000000004}}</string>
+											<key>Class</key>
+											<string>ShapedGraphic</string>
+											<key>ID</key>
+											<integer>700</integer>
+											<key>ImageID</key>
+											<integer>7</integer>
+											<key>Scaling</key>
+											<integer>1</integer>
+											<key>Style</key>
+											<dict>
+												<key>fill</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>shadow</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>stroke</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+											</dict>
+											<key>Text</key>
+											<dict>
+												<key>TextAlongPathGlyphAnchor</key>
+												<string>center</string>
+											</dict>
+										</dict>
+										<dict>
+											<key>Bounds</key>
+											<string>{{211.87500000000023, 768.66666666666697}, {10.535714285714267, 10.000000000000004}}</string>
+											<key>Class</key>
+											<string>ShapedGraphic</string>
+											<key>ID</key>
+											<integer>701</integer>
+											<key>ImageID</key>
+											<integer>6</integer>
+											<key>Scaling</key>
+											<integer>1</integer>
+											<key>Style</key>
+											<dict>
+												<key>fill</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>shadow</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>stroke</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+											</dict>
+											<key>Text</key>
+											<dict>
+												<key>TextAlongPathGlyphAnchor</key>
+												<string>center</string>
+											</dict>
+										</dict>
+										<dict>
+											<key>Bounds</key>
+											<string>{{269.82142857142901, 768.66666666666697}, {10.535714285714274, 10.000000000000012}}</string>
+											<key>Class</key>
+											<string>ShapedGraphic</string>
+											<key>ID</key>
+											<integer>702</integer>
+											<key>ImageID</key>
+											<integer>28</integer>
+											<key>Style</key>
+											<dict>
+												<key>fill</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>shadow</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>stroke</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+											</dict>
+											<key>Text</key>
+											<dict>
+												<key>TextAlongPathGlyphAnchor</key>
+												<string>center</string>
+											</dict>
+										</dict>
+									</array>
+									<key>ID</key>
+									<integer>697</integer>
+									<key>Name</key>
+									<string>IaaS</string>
+									<key>Scaling</key>
+									<integer>-1</integer>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+									</dict>
+								</dict>
+								<dict>
 									<key>Bounds</key>
-									<string>{{315, 394.75}, {145, 345.25}}</string>
+									<string>{{208.60714285714278, 750.50000000000045}, {131.69642857142853, 20.000000000000007}}</string>
+									<key>Class</key>
+									<string>ShapedGraphic</string>
+									<key>ID</key>
+									<integer>703</integer>
+									<key>Name</key>
+									<string>RabbitMQ v1.18.2</string>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+									</dict>
+									<key>Text</key>
+									<dict>
+										<key>Align</key>
+										<integer>0</integer>
+										<key>RTFD</key>
+										<data>
+								BAtzdHJlYW10
+								eXBlZIHoA4QB
+								QISEhBJOU0F0
+								dHJpYnV0ZWRT
+								dHJpbmcAhIQI
+								TlNPYmplY3QA
+								hZKEhIQITlNT
+								dHJpbmcBlIQB
+								KxFSYWJiaXRN
+								USB2MS4xOC4y
+								K4aEAmlJAQmS
+								hISEDE5TRGlj
+								dGlvbmFyeQCU
+								hAFpA5KElpYH
+								TlNDb2xvcoaS
+								hISEB05TQ29s
+								b3IAlIQBYwGE
+								BGZmZmaDfPLw
+								PYN88vA9g3zy
+								8D0BhpKElpYQ
+								TlNQYXJhZ3Jh
+								cGhTdHlsZYaS
+								hISEF05TTXV0
+								YWJsZVBhcmFn
+								cmFwaFN0eWxl
+								AISEEE5TUGFy
+								YWdyYXBoU3R5
+								bGUAlIQEQ0NA
+								UwAAhISEB05T
+								QXJyYXkAlJkA
+								hoEAAoQEWzFm
+								XSSGkoSWlgZO
+								U0ZvbnSGkoSE
+								hAZOU0ZvbnQe
+								lJkohAVbNDBj
+								XQYAAAAeAAAA
+								//5IAGUAbAB2
+								AGUAdABpAGMA
+								YQAtAEIAbwBs
+								AGQAAACEAWYI
+								mwCbAZsAmwCG
+								hpcCCJKEmJkD
+								kpmSmpKckp2S
+								opKEpJkchAVb
+								MjhjXQYAAAAU
+								AAAA//5IAGUA
+								bAB2AGUAdABp
+								AGMAYQCkCJsA
+								mwGbAJsAhoaG
+										</data>
+										<key>Text</key>
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
+{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\b\fs16 \cf2 RabbitMQ 
+\f1\b0 v1.18.2+}</string>
+										<key>TextAlongPathGlyphAnchor</key>
+										<string>center</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>Bounds</key>
+									<string>{{181.67261904761932, 754.5}, {21.071428571428555, 20.000000000000007}}</string>
+									<key>Class</key>
+									<string>ShapedGraphic</string>
+									<key>ID</key>
+									<integer>704</integer>
+									<key>ImageID</key>
+									<integer>44</integer>
+									<key>Name</key>
+									<string>RabbitMQ logo</string>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+									</dict>
+									<key>Text</key>
+									<dict>
+										<key>TextAlongPathGlyphAnchor</key>
+										<string>center</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>Bounds</key>
+									<string>{{175, 747.5}, {435, 35}}</string>
+									<key>Class</key>
+									<string>ShapedGraphic</string>
+									<key>ID</key>
+									<integer>705</integer>
+									<key>Magnets</key>
+									<array>
+										<string>{0, 1}</string>
+										<string>{0, -1}</string>
+										<string>{1, 0}</string>
+										<string>{-1, 0}</string>
+									</array>
+									<key>Name</key>
+									<string>RabbitMQ</string>
+									<key>Style</key>
+									<dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Color</key>
+											<dict>
+												<key>b</key>
+												<real>0.78109200000000001</real>
+												<key>g</key>
+												<real>0.77117999999999998</real>
+												<key>r</key>
+												<real>0.76405999999999996</real>
+												<key>space</key>
+												<string>srgb</string>
+											</dict>
+											<key>CornerRadius</key>
+											<real>3</real>
+										</dict>
+									</dict>
+									<key>Text</key>
+									<dict>
+										<key>TextAlongPathGlyphAnchor</key>
+										<string>center</string>
+									</dict>
+								</dict>
+							</array>
+							<key>ID</key>
+							<integer>693</integer>
+							<key>Name</key>
+							<string>RabbitMQ 1.18.2</string>
+							<key>Scaling</key>
+							<integer>-1</integer>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+						</dict>
+						<dict>
+							<key>Class</key>
+							<string>Group</string>
+							<key>Graphics</key>
+							<array>
+								<dict>
+									<key>Bounds</key>
+									<string>{{315, 394.75}, {145, 405.25000000000006}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -43563,7 +44531,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{175, 394.75}, {130, 345.25}}</string>
+									<string>{{175, 394.75}, {130, 405.25000000000006}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -43605,7 +44573,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{15, 394.75}, {140, 345.25}}</string>
+									<string>{{15, 394.75}, {140, 405.25000000000006}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -43649,7 +44617,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{470, 394.75}, {145, 345.25}}</string>
+									<string>{{470, 394.75}, {145, 405.25000000000006}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -43758,7 +44726,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<array>
 										<dict>
 											<key>Bounds</key>
-											<string>{{251.3559322033899, 1002.7118644067816}, {13.846153846153838, 10.169491525423723}}</string>
+											<string>{{251.3559322033899, 1052.7118644067816}, {13.846153846153838, 10.169491525423723}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -43799,7 +44767,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{239.15254237288144, 1002.7118644067816}, {10.169491525423719, 10.169491525423732}}</string>
+											<string>{{239.15254237288144, 1052.7118644067816}, {10.169491525423719, 10.169491525423732}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -43844,7 +44812,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{223.89830508474586, 1002.7118644067816}, {13.771185893460199, 10.169491525423732}}</string>
+											<string>{{223.89830508474586, 1052.7118644067816}, {13.771185893460199, 10.169491525423732}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -43879,7 +44847,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{208.64406779661016, 1002.7118644067816}, {10.169491525423719, 10.169491525423732}}</string>
+											<string>{{208.64406779661016, 1052.7118644067816}, {10.169491525423719, 10.169491525423732}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -43914,7 +44882,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{264.57627118644069, 1002.7118644067816}, {10.169491525423728, 10.169491525423739}}</string>
+											<string>{{264.57627118644069, 1052.7118644067816}, {10.169491525423728, 10.169491525423739}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -43973,7 +44941,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{180.16949152542378, 992.03389830508684}, {20.338983050847457, 20.338983050847464}}</string>
+									<string>{{180.16949152542378, 1042.033898305087}, {20.338983050847457, 20.338983050847464}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -44008,7 +44976,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{205.59322033898309, 990.1271186440697}, {232.53772660813854, 9.2796610169493761}}</string>
+									<string>{{205.59322033898309, 1040.1271186440697}, {232.53772660813854, 9.2796610169493761}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -44113,8 +45081,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwCbAIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -44130,7 +45098,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{170, 984.40677966101907}, {440, 35.593220338983073}}</string>
+									<string>{{170, 1034.4067796610191}, {440, 35.593220338983073}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -44234,25 +45202,25 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>MOVETO</string>
 												<key>point</key>
-												<string>{235, 958.38983050847469}</string>
+												<string>{235, 1008.3898305084748}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{235.1328125, 961.39322916666663}</string>
+												<string>{235.1328125, 1011.3932291666667}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{235, 976.74739583333337}</string>
+												<string>{235, 1026.7473958333335}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{235.27083333333334, 985}</string>
+												<string>{235.27083333333334, 1035}</string>
 											</dict>
 										</array>
 									</dict>
@@ -44260,10 +45228,10 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<string>SSO 1.10.0 to 1.11.0</string>
 									<key>Points</key>
 									<array>
-										<string>{235, 958.38983050847469}</string>
-										<string>{235.1328125, 961.39322916666663}</string>
-										<string>{235, 976.74739583333337}</string>
-										<string>{235.27083333333334, 985}</string>
+										<string>{235, 1008.3898305084748}</string>
+										<string>{235.1328125, 1011.3932291666667}</string>
+										<string>{235, 1026.7473958333335}</string>
+										<string>{235.27083333333334, 1035}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -44332,13 +45300,13 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>MOVETO</string>
 												<key>point</key>
-												<string>{385, 958.38983050847469}</string>
+												<string>{385, 1008.3898305084748}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{385, 985}</string>
+												<string>{385, 1035}</string>
 											</dict>
 										</array>
 									</dict>
@@ -44346,8 +45314,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<string>SSO 1.10.0 to 1.11.0</string>
 									<key>Points</key>
 									<array>
-										<string>{385, 958.38983050847469}</string>
-										<string>{385, 985}</string>
+										<string>{385, 1008.3898305084748}</string>
+										<string>{385, 1035}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -44394,7 +45362,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<array>
 										<dict>
 											<key>Bounds</key>
-											<string>{{251.3559322033899, 948.30508474576254}, {13.846153846153838, 10.169491525423723}}</string>
+											<string>{{251.3559322033899, 998.30508474576254}, {13.846153846153838, 10.169491525423723}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -44435,7 +45403,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{239.15254237288144, 948.30508474576254}, {10.169491525423719, 10.169491525423732}}</string>
+											<string>{{239.15254237288144, 998.30508474576254}, {10.169491525423719, 10.169491525423732}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -44480,7 +45448,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{223.89830508474586, 948.30508474576254}, {13.771185893460199, 10.169491525423732}}</string>
+											<string>{{223.89830508474586, 998.30508474576254}, {13.771185893460199, 10.169491525423732}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -44515,7 +45483,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{208.64406779661016, 948.30508474576254}, {10.169491525423719, 10.169491525423732}}</string>
+											<string>{{208.64406779661016, 998.30508474576254}, {10.169491525423719, 10.169491525423732}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -44550,7 +45518,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{264.57627118644069, 948.30508474576254}, {10.169491525423728, 10.169491525423739}}</string>
+											<string>{{264.57627118644069, 998.30508474576254}, {10.169491525423728, 10.169491525423739}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -44609,7 +45577,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{180.16949152542378, 937.62711864406776}, {20.338983050847457, 20.338983050847464}}</string>
+									<string>{{180.16949152542378, 987.62711864406776}, {20.338983050847457, 20.338983050847464}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -44644,7 +45612,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{205.59322033898309, 935.72033898305062}, {232.53772660813854, 9.2796610169493761}}</string>
+									<string>{{205.59322033898309, 985.72033898305062}, {232.53772660813854, 9.2796610169493761}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -44749,8 +45717,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwCbAIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -44766,7 +45734,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{170, 930}, {440, 35.593220338983073}}</string>
+									<string>{{170, 980}, {440, 35.593220338983073}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -44870,25 +45838,25 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>MOVETO</string>
 												<key>point</key>
-												<string>{235, 838.38983050847469}</string>
+												<string>{235, 888.38983050847469}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{235.1328125, 841.39322916666663}</string>
+												<string>{235.1328125, 891.39322916666663}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{235, 856.74739583333337}</string>
+												<string>{235, 906.74739583333337}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{235.27083333333334, 865}</string>
+												<string>{235.27083333333334, 915}</string>
 											</dict>
 										</array>
 									</dict>
@@ -44896,10 +45864,10 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<string>SSO 1.8.0 to 1.9.0</string>
 									<key>Points</key>
 									<array>
-										<string>{235, 838.38983050847469}</string>
-										<string>{235.1328125, 841.39322916666663}</string>
-										<string>{235, 856.74739583333337}</string>
-										<string>{235.27083333333334, 865}</string>
+										<string>{235, 888.38983050847469}</string>
+										<string>{235.1328125, 891.39322916666663}</string>
+										<string>{235, 906.74739583333337}</string>
+										<string>{235.27083333333334, 915}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -44968,13 +45936,13 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>MOVETO</string>
 												<key>point</key>
-												<string>{85, 838.38983050847469}</string>
+												<string>{85, 888.38983050847469}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{85, 865}</string>
+												<string>{85, 915}</string>
 											</dict>
 										</array>
 									</dict>
@@ -44982,8 +45950,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<string>SSO 1.8.0 to 1.9.0</string>
 									<key>Points</key>
 									<array>
-										<string>{85, 838.38983050847469}</string>
-										<string>{85, 865}</string>
+										<string>{85, 888.38983050847469}</string>
+										<string>{85, 915}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -45030,7 +45998,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<array>
 										<dict>
 											<key>Bounds</key>
-											<string>{{101.44067796610167, 821.10169491525426}, {13.846153846153838, 10.169491525423723}}</string>
+											<string>{{101.44067796610167, 871.10169491525426}, {13.846153846153838, 10.169491525423723}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -45071,7 +46039,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{89.237288135593218, 821.10169491525414}, {10.169491525423719, 10.169491525423732}}</string>
+											<string>{{89.237288135593218, 871.10169491525414}, {10.169491525423719, 10.169491525423732}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -45116,7 +46084,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{73.98305084745769, 821.10169491525414}, {13.771185893460199, 10.169491525423732}}</string>
+											<string>{{73.98305084745769, 871.10169491525414}, {13.771185893460199, 10.169491525423732}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -45151,7 +46119,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{58.728813559321978, 821.10169491525414}, {10.169491525423719, 10.169491525423732}}</string>
+											<string>{{58.728813559321978, 871.10169491525414}, {10.169491525423719, 10.169491525423732}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -45186,7 +46154,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{114.6610169491525, 821.10169491525414}, {10.169491525423728, 10.169491525423739}}</string>
+											<string>{{114.6610169491525, 871.10169491525414}, {10.169491525423728, 10.169491525423739}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -45245,7 +46213,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{30.254237288135577, 810.42372881355936}, {20.338983050847457, 20.338983050847464}}</string>
+									<string>{{30.254237288135577, 860.42372881355936}, {20.338983050847457, 20.338983050847464}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -45280,7 +46248,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{55.677966101694892, 813.51694915254234}, {232.53772660813854, 0.12711864406779663}}</string>
+									<string>{{55.677966101694892, 863.51694915254234}, {232.53772660813854, 0.12711864406779663}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -45383,8 +46351,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -45400,7 +46368,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{20.084745762711805, 802.7966101694916}, {289.9152542372882, 35.593220338983073}}</string>
+									<string>{{20.084745762711805, 852.7966101694916}, {289.9152542372882, 35.593220338983073}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -45504,19 +46472,19 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>MOVETO</string>
 												<key>point</key>
-												<string>{385, 900}</string>
+												<string>{385, 950}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{385.58072916666669, 925.37760416666663}</string>
+												<string>{385.58072916666669, 975.37760416666663}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{385, 930}</string>
+												<string>{385, 980}</string>
 											</dict>
 										</array>
 									</dict>
@@ -45524,9 +46492,9 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<string>SSO 1.9.0 to 1.10.0</string>
 									<key>Points</key>
 									<array>
-										<string>{385, 900}</string>
-										<string>{385.58072916666669, 925.37760416666663}</string>
-										<string>{385, 930}</string>
+										<string>{385, 950}</string>
+										<string>{385.58072916666669, 975.37760416666663}</string>
+										<string>{385, 980}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -45595,13 +46563,13 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>MOVETO</string>
 												<key>point</key>
-												<string>{235, 900}</string>
+												<string>{235, 950}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{235, 930}</string>
+												<string>{235, 980}</string>
 											</dict>
 										</array>
 									</dict>
@@ -45609,8 +46577,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<string>SSO 1.9.0 to 1.10.0</string>
 									<key>Points</key>
 									<array>
-										<string>{235, 900}</string>
-										<string>{235, 930}</string>
+										<string>{235, 950}</string>
+										<string>{235, 980}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -45657,7 +46625,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<array>
 										<dict>
 											<key>Bounds</key>
-											<string>{{101.3559322033899, 883.30508474576254}, {13.846153846153838, 10.169491525423723}}</string>
+											<string>{{101.3559322033899, 933.30508474576254}, {13.846153846153838, 10.169491525423723}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -45698,7 +46666,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{89.152542372881442, 883.30508474576254}, {10.169491525423719, 10.169491525423732}}</string>
+											<string>{{89.152542372881442, 933.30508474576254}, {10.169491525423719, 10.169491525423732}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -45743,7 +46711,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{73.898305084745857, 883.30508474576254}, {13.771185893460199, 10.169491525423732}}</string>
+											<string>{{73.898305084745857, 933.30508474576254}, {13.771185893460199, 10.169491525423732}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -45778,7 +46746,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{58.644067796610159, 883.30508474576254}, {10.169491525423719, 10.169491525423732}}</string>
+											<string>{{58.644067796610159, 933.30508474576254}, {10.169491525423719, 10.169491525423732}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -45813,7 +46781,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{114.57627118644069, 883.30508474576254}, {10.169491525423728, 10.169491525423739}}</string>
+											<string>{{114.57627118644069, 933.30508474576254}, {10.169491525423728, 10.169491525423739}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -45872,7 +46840,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{30.169491525423773, 872.62711864406776}, {20.338983050847457, 20.338983050847464}}</string>
+									<string>{{30.169491525423773, 922.62711864406776}, {20.338983050847457, 20.338983050847464}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -45907,7 +46875,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{55.593220338983087, 875.72033898305062}, {232.53772660813854, 0.12711864406779663}}</string>
+									<string>{{55.593220338983087, 925.72033898305062}, {232.53772660813854, 0.12711864406779663}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>FontInfo</key>
@@ -46010,8 +46978,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -46027,7 +46995,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{20, 865}, {440, 35.593220338983073}}</string>
+									<string>{{20, 915}, {440, 35.593220338983073}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -46104,7 +47072,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 							<array>
 								<dict>
 									<key>Bounds</key>
-									<string>{{320.08474576271192, 780}, {142.37288135593218, 284.99999999999989}}</string>
+									<string>{{320.08474576271192, 830}, {142.37288135593218, 264.99999999999989}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -46150,7 +47118,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{167.54237288135593, 780}, {142.37288135593218, 284.99999999999989}}</string>
+									<string>{{167.54237288135593, 830}, {142.37288135593218, 264.99999999999989}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -46192,7 +47160,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{15, 780}, {142.37288135593218, 284.99999999999989}}</string>
+									<string>{{15, 830}, {142.37288135593218, 264.99999999999989}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -46234,7 +47202,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{472.62711864406776, 780}, {142.37288135593218, 284.99999999999989}}</string>
+									<string>{{472.62711864406776, 830}, {142.37288135593218, 264.99999999999989}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -46553,8 +47521,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								<key>Pad</key>
 								<real>20</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \deftab720
@@ -47038,8 +48006,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -47670,8 +48638,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -48302,8 +49270,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -48856,8 +49824,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -49297,8 +50265,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -49433,8 +50401,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -49537,8 +50505,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -49677,8 +50645,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -49825,8 +50793,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -49963,8 +50931,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -50099,8 +51067,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -50397,8 +51365,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwCbAIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -50547,8 +51515,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwCbAIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -50685,8 +51653,8 @@ Last updated on: &lt;%ModificationDate%&gt;}</string>
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -50790,8 +51758,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -50930,8 +51898,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 						hg==
 						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -51372,8 +52340,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AIaGlwEBhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -51866,8 +52834,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hpcBAYY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -52540,8 +53508,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -52710,8 +53678,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								<key>Align</key>
 								<integer>0</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \deftab720
@@ -53487,8 +54455,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -54107,8 +55075,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -54737,8 +55705,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AJsAhoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -55385,8 +56353,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AJsAhoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -55951,8 +56919,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AJsAhoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -56437,8 +57405,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AJsAhoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -56999,8 +57967,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								<key>Pad</key>
 								<real>20</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \deftab720
@@ -57486,8 +58454,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -58118,8 +59086,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -58750,8 +59718,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -59302,8 +60270,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -59743,8 +60711,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -59879,8 +60847,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -59983,8 +60951,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -60123,8 +61091,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -60271,8 +61239,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -60409,8 +61377,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -60545,8 +61513,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -60843,8 +61811,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwCbAIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -60993,8 +61961,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwCbAIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -61131,8 +62099,8 @@ Last updated on: &lt;%ModificationDate%&gt;}</string>
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -61236,8 +62204,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -61759,8 +62727,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -62380,8 +63348,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -63106,8 +64074,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -63895,8 +64863,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -64348,8 +65316,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -64913,8 +65881,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AZsAmwCGhoY=
 								</data>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red61\green61\blue61;}
 {\*\expandedcolortbl;;\csgenericrgb\c23733\c23737\c23732;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
@@ -65460,8 +66428,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -65915,8 +66883,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -66375,8 +67343,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwCGhoY=
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -66785,8 +67753,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 						hg==
 						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -67024,8 +67992,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								<key>Pad</key>
 								<real>20</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \deftab720
@@ -67509,8 +68477,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -68141,8 +69109,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -68773,8 +69741,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -69325,8 +70293,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoaG
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -69766,8 +70734,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -69902,8 +70870,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -70006,8 +70974,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -70146,8 +71114,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -70294,8 +71262,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -70432,8 +71400,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								AIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -70568,8 +71536,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -70865,8 +71833,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -71014,8 +71982,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwCbAIaGhg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -71152,8 +72120,8 @@ Last updated on: &lt;%ModificationDate%&gt;}</string>
 								AZsAmwCGhoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -71257,8 +72225,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -71864,8 +72832,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -72403,8 +73371,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hg==
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -73194,8 +74162,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -73822,8 +74790,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hg==
 												</data>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -74385,8 +75353,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -74840,8 +75808,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								hoY=
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -75256,8 +76224,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<key>Text</key>
 									<dict>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;\f1\fnil\fcharset0 HelveticaNeue;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;\f1\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
@@ -75481,8 +76449,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								mwGbAJsAhoaG
 										</data>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
 {\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
 \deftab720
@@ -76090,8 +77058,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 						hg==
 						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red62\green77\blue86;}
 {\*\expandedcolortbl;;\csgenericrgb\c24314\c30196\c33725;}
 \deftab720
@@ -76199,7 +77167,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 		<key>Sidebar_Tab</key>
 		<integer>0</integer>
 		<key>VisibleRegion</key>
-		<string>{{-96.166666666666671, 487.33333333333331}, {820, 572}}</string>
+		<string>{{-212.5, 316}, {820, 572}}</string>
 		<key>WindowInfo_InspectorTab</key>
 		<array>
 			<string>com.omnigroup.OmniGraffle.inspectorGroup.object</string>
