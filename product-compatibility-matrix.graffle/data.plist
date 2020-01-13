@@ -78,9 +78,9 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2019-12-27 18:42:01 +0000</string>
+	<string>2020-01-13 10:40:48 +0000</string>
 	<key>Modifier</key>
-	<string>Jane Day</string>
+	<string>Richard Johnson</string>
 	<key>MovementHandleVisible</key>
 	<string>NO</string>
 	<key>NotesVisible</key>
@@ -105,6 +105,11 @@
 		<array>
 			<string>float</string>
 			<string>18</string>
+		</array>
+		<key>NSPaperName</key>
+		<array>
+			<string>string</string>
+			<string>na-letter</string>
 		</array>
 		<key>NSPaperSize</key>
 		<array>
@@ -36831,6 +36836,92 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										<real>12</real>
 									</dict>
 									<key>ID</key>
+									<integer>726</integer>
+									<key>LogicalPath</key>
+									<dict>
+										<key>elements</key>
+										<array>
+											<dict>
+												<key>element</key>
+												<string>MOVETO</string>
+												<key>point</key>
+												<string>{540, 559.99999999999943}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{540, 585}</string>
+											</dict>
+										</array>
+									</dict>
+									<key>Name</key>
+									<string>RabbitMQ 1.17.1 to 1.18.2+</string>
+									<key>Points</key>
+									<array>
+										<string>{540, 559.99999999999943}</string>
+										<string>{540, 585}</string>
+									</array>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Color</key>
+											<dict>
+												<key>b</key>
+												<real>0.56715000000000004</real>
+												<key>g</key>
+												<real>0.60053999999999996</real>
+												<key>r</key>
+												<real>0.0047153799999999999</real>
+												<key>space</key>
+												<string>srgb</string>
+											</dict>
+											<key>HeadArrow</key>
+											<string>FilledArrow</string>
+											<key>HeadScale</key>
+											<real>0.5</real>
+											<key>Legacy</key>
+											<false/>
+											<key>TailArrow</key>
+											<string>FilledBall</string>
+											<key>TailScale</key>
+											<real>0.5</real>
+										</dict>
+									</dict>
+								</dict>
+								<dict>
+									<key>AllowConnections</key>
+									<string>NO</string>
+									<key>AllowToConnect</key>
+									<false/>
+									<key>Class</key>
+									<string>LineGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Color</key>
+										<dict>
+											<key>space</key>
+											<string>gg22</string>
+											<key>w</key>
+											<string>0</string>
+										</dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>12</real>
+									</dict>
+									<key>ID</key>
 									<integer>713</integer>
 									<key>LogicalPath</key>
 									<dict>
@@ -36840,13 +36931,13 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>MOVETO</string>
 												<key>point</key>
-												<string>{390.04947916666686, 560}</string>
+												<string>{390.04947916666708, 559.99999999999943}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{390.04947916666686, 585}</string>
+												<string>{390.04947916666708, 585}</string>
 											</dict>
 										</array>
 									</dict>
@@ -36854,8 +36945,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<string>RabbitMQ 1.17.1 to 1.18.2+</string>
 									<key>Points</key>
 									<array>
-										<string>{390.04947916666686, 560}</string>
-										<string>{390.04947916666686, 585}</string>
+										<string>{390.04947916666708, 559.99999999999943}</string>
+										<string>{390.04947916666708, 585}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -36926,13 +37017,13 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>MOVETO</string>
 												<key>point</key>
-												<string>{85.049479166666828, 560}</string>
+												<string>{85.049479166666842, 559.99999999999943}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{85.049479166666828, 585}</string>
+												<string>{85.049479166666842, 585}</string>
 											</dict>
 										</array>
 									</dict>
@@ -36940,8 +37031,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<string>RabbitMQ 1.17.1 to 1.18.2+</string>
 									<key>Points</key>
 									<array>
-										<string>{85.049479166666828, 560}</string>
-										<string>{85.049479166666828, 585}</string>
+										<string>{85.049479166666842, 559.99999999999943}</string>
+										<string>{85.049479166666842, 585}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -37012,13 +37103,13 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>MOVETO</string>
 												<key>point</key>
-												<string>{205.0494791666668, 560}</string>
+												<string>{205.04947916666688, 559.99999999999943}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{205.0494791666668, 585}</string>
+												<string>{205.04947916666688, 585}</string>
 											</dict>
 										</array>
 									</dict>
@@ -37026,8 +37117,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<string>RabbitMQ 1.17.1 to 1.18.2+</string>
 									<key>Points</key>
 									<array>
-										<string>{205.0494791666668, 560}</string>
-										<string>{205.0494791666668, 585}</string>
+										<string>{205.04947916666688, 559.99999999999943}</string>
+										<string>{205.04947916666688, 585}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -37419,7 +37510,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{25, 530}, {430, 34.597701149425269}}</string>
+									<string>{{25, 530}, {585, 34.597701149425269}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -37501,7 +37592,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<array>
 										<dict>
 											<key>Bounds</key>
-											<string>{{100.19252873563228, 605.67337164750984}, {14.179897688518365, 9.8850574712643642}}</string>
+											<string>{{104.51293103448286, 605.49605493863282}, {14.059729064039395, 9.8012857977790713}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -37542,7 +37633,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{87.694991789819653, 605.67337164750984}, {10.414614121510661, 9.8850574712643731}}</string>
+											<string>{{92.121305418719501, 605.49605493863282}, {10.326354679802945, 9.8012857977790802}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -37554,9 +37645,9 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 											<key>Offset</key>
 											<string>{0.043062200956937788, 0.0047846889952153108}</string>
 											<key>Scale</key>
-											<real>0.10962751706853331</real>
+											<real>0.10869847031371524</real>
 											<key>ScaleY</key>
-											<real>0.10405323654413223</real>
+											<real>0.10317143052816391</real>
 											<key>Scaling</key>
 											<integer>1</integer>
 											<key>StretchImage</key>
@@ -37587,7 +37678,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{72.073070607553717, 605.67337164750984}, {14.103122729137951, 9.8850574712643731}}</string>
+											<string>{{76.631773399015131, 605.49605493863282}, {13.983604739907969, 9.8012857977790802}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -37622,7 +37713,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{56.451149425287596, 605.67337164750984}, {10.414614121510661, 9.8850574712643731}}</string>
+											<string>{{61.142241379310597, 605.49605493863282}, {10.326354679802945, 9.8012857977790802}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -37657,7 +37748,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{113.73152709359644, 605.67337164750984}, {10.414614121510668, 9.8850574712643819}}</string>
+											<string>{{117.93719211822699, 605.49605493863271}, {10.326354679802952, 9.801285797779089}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -37716,7 +37807,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{51.902846195949664, 587.38601532567066}, {130.18267651888337, 19.770114942528746}}</string>
+									<string>{{56.632483092594157, 587.36367621274132}, {129.07943349753691, 19.60257159555816}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -37813,7 +37904,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{26.595922276956927, 591.669540229885}, {20.82922824302133, 19.770114942528746}}</string>
+									<string>{{31.54002463054205, 591.6109000584454}, {20.652709359605897, 19.60257159555816}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -37848,7 +37939,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{20, 584.75}, {590, 34.597701149425269}}</string>
+									<string>{{25, 584.75000000000011}, {585, 34.304500292226749}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -66934,9 +67025,9 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>2</integer>
+		<integer>3</integer>
 		<key>Frame</key>
-		<string>{{495, 81}, {2065, 1336}}</string>
+		<string>{{667, 76}, {2004, 1341}}</string>
 		<key>ShowInfo</key>
 		<false/>
 		<key>Sidebar</key>
@@ -66946,7 +67037,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 		<key>Sidebar_Tab</key>
 		<integer>0</integer>
 		<key>VisibleRegion</key>
-		<string>{{-181.5, 230.5}, {799, 605.5}}</string>
+		<string>{{0.5, 230.5}, {776, 615.5}}</string>
 		<key>WindowInfo_InspectorTab</key>
 		<array>
 			<string>com.omnigroup.OmniGraffle.inspectorGroup.object</string>
