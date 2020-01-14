@@ -78,7 +78,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2020-01-13 10:40:48 +0000</string>
+	<string>2020-01-14 12:22:57 +0000</string>
 	<key>Modifier</key>
 	<string>Richard Johnson</string>
 	<key>MovementHandleVisible</key>
@@ -35192,6 +35192,178 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										<real>12</real>
 									</dict>
 									<key>ID</key>
+									<integer>749</integer>
+									<key>LogicalPath</key>
+									<dict>
+										<key>elements</key>
+										<array>
+											<dict>
+												<key>element</key>
+												<string>MOVETO</string>
+												<key>point</key>
+												<string>{289.99999999999994, 439.99999999999994}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{289.99999999999994, 575}</string>
+											</dict>
+										</array>
+									</dict>
+									<key>Name</key>
+									<string>RabbitMQ 1.16.3 to 1.17.5</string>
+									<key>Points</key>
+									<array>
+										<string>{289.99999999999994, 439.99999999999994}</string>
+										<string>{289.99999999999994, 575}</string>
+									</array>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Color</key>
+											<dict>
+												<key>b</key>
+												<real>0.56715000000000004</real>
+												<key>g</key>
+												<real>0.60053999999999996</real>
+												<key>r</key>
+												<real>0.0047153799999999999</real>
+												<key>space</key>
+												<string>srgb</string>
+											</dict>
+											<key>HeadArrow</key>
+											<string>FilledArrow</string>
+											<key>HeadScale</key>
+											<real>0.5</real>
+											<key>Legacy</key>
+											<false/>
+											<key>TailArrow</key>
+											<string>FilledBall</string>
+											<key>TailScale</key>
+											<real>0.5</real>
+										</dict>
+									</dict>
+								</dict>
+								<dict>
+									<key>AllowConnections</key>
+									<string>NO</string>
+									<key>AllowToConnect</key>
+									<false/>
+									<key>Class</key>
+									<string>LineGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Color</key>
+										<dict>
+											<key>space</key>
+											<string>gg22</string>
+											<key>w</key>
+											<string>0</string>
+										</dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>12</real>
+									</dict>
+									<key>ID</key>
+									<integer>748</integer>
+									<key>LogicalPath</key>
+									<dict>
+										<key>elements</key>
+										<array>
+											<dict>
+												<key>element</key>
+												<string>MOVETO</string>
+												<key>point</key>
+												<string>{54.999999999999943, 439.99999999999994}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{54.999999999999943, 575}</string>
+											</dict>
+										</array>
+									</dict>
+									<key>Name</key>
+									<string>RabbitMQ 1.16.3 to 1.17.5</string>
+									<key>Points</key>
+									<array>
+										<string>{54.999999999999943, 439.99999999999994}</string>
+										<string>{54.999999999999943, 575}</string>
+									</array>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Color</key>
+											<dict>
+												<key>b</key>
+												<real>0.56715000000000004</real>
+												<key>g</key>
+												<real>0.60053999999999996</real>
+												<key>r</key>
+												<real>0.0047153799999999999</real>
+												<key>space</key>
+												<string>srgb</string>
+											</dict>
+											<key>HeadArrow</key>
+											<string>FilledArrow</string>
+											<key>HeadScale</key>
+											<real>0.5</real>
+											<key>Legacy</key>
+											<false/>
+											<key>TailArrow</key>
+											<string>FilledBall</string>
+											<key>TailScale</key>
+											<real>0.5</real>
+										</dict>
+									</dict>
+								</dict>
+								<dict>
+									<key>AllowConnections</key>
+									<string>NO</string>
+									<key>AllowToConnect</key>
+									<false/>
+									<key>Class</key>
+									<string>LineGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Color</key>
+										<dict>
+											<key>space</key>
+											<string>gg22</string>
+											<key>w</key>
+											<string>0</string>
+										</dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>12</real>
+									</dict>
+									<key>ID</key>
 									<integer>720</integer>
 									<key>LogicalPath</key>
 									<dict>
@@ -35201,31 +35373,19 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>MOVETO</string>
 												<key>point</key>
-												<string>{203, 449.99999999999994}</string>
+												<string>{188, 439.99999999999994}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{203.3359375, 464.234375}</string>
+												<string>{188, 465}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{203.11458333333337, 461.21874999999994}</string>
-											</dict>
-											<dict>
-												<key>element</key>
-												<string>LINETO</string>
-												<key>point</key>
-												<string>{203, 474.99999999999994}</string>
-											</dict>
-											<dict>
-												<key>element</key>
-												<string>LINETO</string>
-												<key>point</key>
-												<string>{203, 474.99999999999994}</string>
+												<string>{188, 465}</string>
 											</dict>
 										</array>
 									</dict>
@@ -35233,13 +35393,11 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<string>RabbitMQ 1.16.3 to 1.17.0</string>
 									<key>Points</key>
 									<array>
-										<string>{203, 449.99999999999994}</string>
-										<string>{203, 449.99999999999994}</string>
-										<string>{203.3359375, 464.234375}</string>
-										<string>{203.11458333333337, 461.21874999999994}</string>
-										<string>{203, 474.99999999999994}</string>
-										<string>{202.09895833333331, 470.26302083333337}</string>
-										<string>{203, 474.99999999999994}</string>
+										<string>{188, 439.99999999999994}</string>
+										<string>{188, 439.99999999999994}</string>
+										<string>{188, 465}</string>
+										<string>{187.09895833333331, 460.26302083333343}</string>
+										<string>{188, 465}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -35310,25 +35468,13 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>MOVETO</string>
 												<key>point</key>
-												<string>{134.99999999999994, 450}</string>
+												<string>{144.99999999999994, 439.99999999999994}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{134.77604166666657, 468.25260416666669}</string>
-											</dict>
-											<dict>
-												<key>element</key>
-												<string>LINETO</string>
-												<key>point</key>
-												<string>{135.37239583333326, 516.77604166666663}</string>
-											</dict>
-											<dict>
-												<key>element</key>
-												<string>LINETO</string>
-												<key>point</key>
-												<string>{134.99999999999994, 530.00000000000011}</string>
+												<string>{144.99999999999994, 520}</string>
 											</dict>
 										</array>
 									</dict>
@@ -35336,10 +35482,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<string>RabbitMQ 1.16.3 to 1.17.1+</string>
 									<key>Points</key>
 									<array>
-										<string>{134.99999999999994, 450}</string>
-										<string>{134.77604166666657, 468.25260416666669}</string>
-										<string>{135.37239583333326, 516.77604166666663}</string>
-										<string>{134.99999999999994, 530.00000000000011}</string>
+										<string>{144.99999999999994, 439.99999999999994}</string>
+										<string>{144.99999999999994, 520}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -35410,31 +35554,19 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>MOVETO</string>
 												<key>point</key>
-												<string>{84.999999999999986, 449.99999999999994}</string>
+												<string>{84.999999999999986, 439.99999999999994}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{85.3359375, 464.234375}</string>
+												<string>{84.999999999999986, 465}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{85.114583333333371, 461.21874999999994}</string>
-											</dict>
-											<dict>
-												<key>element</key>
-												<string>LINETO</string>
-												<key>point</key>
-												<string>{84.999999999999986, 474.99999999999994}</string>
-											</dict>
-											<dict>
-												<key>element</key>
-												<string>LINETO</string>
-												<key>point</key>
-												<string>{84.999999999999986, 474.99999999999994}</string>
+												<string>{84.999999999999986, 465}</string>
 											</dict>
 										</array>
 									</dict>
@@ -35442,13 +35574,11 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<string>RabbitMQ 1.16.3 to 1.17.0</string>
 									<key>Points</key>
 									<array>
-										<string>{84.999999999999986, 449.99999999999994}</string>
-										<string>{84.999999999999986, 449.99999999999994}</string>
-										<string>{85.3359375, 464.234375}</string>
-										<string>{85.114583333333371, 461.21874999999994}</string>
-										<string>{84.999999999999986, 474.99999999999994}</string>
-										<string>{84.098958333333329, 470.26302083333337}</string>
-										<string>{84.999999999999986, 474.99999999999994}</string>
+										<string>{84.999999999999986, 439.99999999999994}</string>
+										<string>{84.999999999999986, 439.99999999999994}</string>
+										<string>{84.999999999999986, 465}</string>
+										<string>{84.098958333333329, 460.26302083333343}</string>
+										<string>{84.999999999999986, 465}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -35519,25 +35649,13 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>MOVETO</string>
 												<key>point</key>
-												<string>{234.99999999999994, 450}</string>
+												<string>{239.99999999999994, 439.99999999999994}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{234.77604166666657, 468.25260416666669}</string>
-											</dict>
-											<dict>
-												<key>element</key>
-												<string>LINETO</string>
-												<key>point</key>
-												<string>{235.37239583333326, 516.77604166666663}</string>
-											</dict>
-											<dict>
-												<key>element</key>
-												<string>LINETO</string>
-												<key>point</key>
-												<string>{234.99999999999994, 530.00000000000011}</string>
+												<string>{239.99999999999994, 520}</string>
 											</dict>
 										</array>
 									</dict>
@@ -35545,10 +35663,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<string>RabbitMQ 1.16.3 to 1.17.1+</string>
 									<key>Points</key>
 									<array>
-										<string>{234.99999999999994, 450}</string>
-										<string>{234.77604166666657, 468.25260416666669}</string>
-										<string>{235.37239583333326, 516.77604166666663}</string>
-										<string>{234.99999999999994, 530.00000000000011}</string>
+										<string>{239.99999999999994, 439.99999999999994}</string>
+										<string>{239.99999999999994, 520}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -35595,7 +35711,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<array>
 										<dict>
 											<key>Bounds</key>
-											<string>{{104.45238095238057, 438.16666666666652}, {14.344780219780196, 9.9999999999999964}}</string>
+											<string>{{104.45238095238057, 428.16666666666652}, {14.344780219780196, 9.9999999999999964}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -35636,7 +35752,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{91.809523809523768, 438.16666666666652}, {10.535714285714267, 10.000000000000004}}</string>
+											<string>{{91.809523809523768, 428.16666666666652}, {10.535714285714267, 10.000000000000004}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -35681,7 +35797,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{76.005952380952465, 438.16666666666652}, {14.267112528313966, 10.000000000000004}}</string>
+											<string>{{76.005952380952465, 428.16666666666652}, {14.267112528313966, 10.000000000000004}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -35716,7 +35832,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{60.202380952380913, 438.16666666666652}, {10.535714285714267, 10.000000000000004}}</string>
+											<string>{{60.202380952380913, 428.16666666666652}, {10.535714285714267, 10.000000000000004}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -35751,7 +35867,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{118.14880952380963, 438.16666666666652}, {10.535714285714274, 10.000000000000012}}</string>
+											<string>{{118.14880952380963, 428.16666666666652}, {10.535714285714274, 10.000000000000012}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -35810,7 +35926,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{54.934523809523569, 420}, {131.69642857142853, 20.000000000000007}}</string>
+									<string>{{54.934523809523569, 410}, {131.69642857142853, 20.000000000000007}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -35905,7 +36021,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{30, 423.99999999999955}, {21.071428571428555, 20.000000000000007}}</string>
+									<string>{{30, 413.99999999999955}, {21.071428571428555, 20.000000000000007}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -35940,7 +36056,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{25, 417.5}, {275, 35}}</string>
+									<string>{{25, 407.5}, {275, 35}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -36037,6 +36153,264 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										<real>12</real>
 									</dict>
 									<key>ID</key>
+									<integer>747</integer>
+									<key>LogicalPath</key>
+									<dict>
+										<key>elements</key>
+										<array>
+											<dict>
+												<key>element</key>
+												<string>MOVETO</string>
+												<key>point</key>
+												<string>{214.99999999999994, 495}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{214.99999999999994, 575.00000000000011}</string>
+											</dict>
+										</array>
+									</dict>
+									<key>Name</key>
+									<string>RabbitMQ 1.17.0 to 1.17.5</string>
+									<key>Points</key>
+									<array>
+										<string>{214.99999999999994, 495}</string>
+										<string>{214.99999999999994, 575.00000000000011}</string>
+									</array>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Color</key>
+											<dict>
+												<key>b</key>
+												<real>0.56715000000000004</real>
+												<key>g</key>
+												<real>0.60053999999999996</real>
+												<key>r</key>
+												<real>0.0047153799999999999</real>
+												<key>space</key>
+												<string>srgb</string>
+											</dict>
+											<key>HeadArrow</key>
+											<string>FilledArrow</string>
+											<key>HeadScale</key>
+											<real>0.5</real>
+											<key>Legacy</key>
+											<false/>
+											<key>TailArrow</key>
+											<string>FilledBall</string>
+											<key>TailScale</key>
+											<real>0.5</real>
+										</dict>
+									</dict>
+								</dict>
+								<dict>
+									<key>AllowConnections</key>
+									<string>NO</string>
+									<key>AllowToConnect</key>
+									<false/>
+									<key>Class</key>
+									<string>LineGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Color</key>
+										<dict>
+											<key>space</key>
+											<string>gg22</string>
+											<key>w</key>
+											<string>0</string>
+										</dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>12</real>
+									</dict>
+									<key>ID</key>
+									<integer>746</integer>
+									<key>LogicalPath</key>
+									<dict>
+										<key>elements</key>
+										<array>
+											<dict>
+												<key>element</key>
+												<string>MOVETO</string>
+												<key>point</key>
+												<string>{134.99999999999994, 495}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{134.99999999999994, 575.00000000000011}</string>
+											</dict>
+										</array>
+									</dict>
+									<key>Name</key>
+									<string>RabbitMQ 1.17.0 to 1.17.5</string>
+									<key>Points</key>
+									<array>
+										<string>{134.99999999999994, 495}</string>
+										<string>{134.99999999999994, 575.00000000000011}</string>
+									</array>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Color</key>
+											<dict>
+												<key>b</key>
+												<real>0.56715000000000004</real>
+												<key>g</key>
+												<real>0.60053999999999996</real>
+												<key>r</key>
+												<real>0.0047153799999999999</real>
+												<key>space</key>
+												<string>srgb</string>
+											</dict>
+											<key>HeadArrow</key>
+											<string>FilledArrow</string>
+											<key>HeadScale</key>
+											<real>0.5</real>
+											<key>Legacy</key>
+											<false/>
+											<key>TailArrow</key>
+											<string>FilledBall</string>
+											<key>TailScale</key>
+											<real>0.5</real>
+										</dict>
+									</dict>
+								</dict>
+								<dict>
+									<key>AllowConnections</key>
+									<string>NO</string>
+									<key>AllowToConnect</key>
+									<false/>
+									<key>Class</key>
+									<string>LineGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Color</key>
+										<dict>
+											<key>space</key>
+											<string>gg22</string>
+											<key>w</key>
+											<string>0</string>
+										</dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>12</real>
+									</dict>
+									<key>ID</key>
+									<integer>743</integer>
+									<key>LogicalPath</key>
+									<dict>
+										<key>elements</key>
+										<array>
+											<dict>
+												<key>element</key>
+												<string>MOVETO</string>
+												<key>point</key>
+												<string>{264.0494791666668, 495.00000000000017}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{264.0494791666668, 630}</string>
+											</dict>
+										</array>
+									</dict>
+									<key>Name</key>
+									<string>RabbitMQ 1.70.0 to 1.18.2+</string>
+									<key>Points</key>
+									<array>
+										<string>{264.0494791666668, 495.00000000000017}</string>
+										<string>{264.0494791666668, 630}</string>
+									</array>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Color</key>
+											<dict>
+												<key>b</key>
+												<real>0.56715000000000004</real>
+												<key>g</key>
+												<real>0.60053999999999996</real>
+												<key>r</key>
+												<real>0.0047153799999999999</real>
+												<key>space</key>
+												<string>srgb</string>
+											</dict>
+											<key>HeadArrow</key>
+											<string>FilledArrow</string>
+											<key>HeadScale</key>
+											<real>0.5</real>
+											<key>Legacy</key>
+											<false/>
+											<key>TailArrow</key>
+											<string>FilledBall</string>
+											<key>TailScale</key>
+											<real>0.5</real>
+										</dict>
+									</dict>
+								</dict>
+								<dict>
+									<key>AllowConnections</key>
+									<string>NO</string>
+									<key>AllowToConnect</key>
+									<false/>
+									<key>Class</key>
+									<string>LineGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Color</key>
+										<dict>
+											<key>space</key>
+											<string>gg22</string>
+											<key>w</key>
+											<string>0</string>
+										</dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>12</real>
+									</dict>
+									<key>ID</key>
 									<integer>725</integer>
 									<key>LogicalPath</key>
 									<dict>
@@ -36046,13 +36420,13 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>MOVETO</string>
 												<key>point</key>
-												<string>{204.0494791666668, 505.00000000000017}</string>
+												<string>{189.0494791666668, 495.00000000000017}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{204.0494791666668, 530}</string>
+												<string>{189.0494791666668, 520}</string>
 											</dict>
 										</array>
 									</dict>
@@ -36060,8 +36434,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<string>RabbitMQ 1.70.0 to 1.17.1+</string>
 									<key>Points</key>
 									<array>
-										<string>{204.0494791666668, 505.00000000000017}</string>
-										<string>{204.0494791666668, 530}</string>
+										<string>{189.0494791666668, 495.00000000000017}</string>
+										<string>{189.0494791666668, 520}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -36132,13 +36506,13 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>MOVETO</string>
 												<key>point</key>
-												<string>{85.049479166666799, 505.00000000000017}</string>
+												<string>{85.049479166666799, 495.00000000000017}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{85.049479166666799, 530}</string>
+												<string>{85.049479166666799, 520}</string>
 											</dict>
 										</array>
 									</dict>
@@ -36146,8 +36520,8 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<string>RabbitMQ 1.70.0 to 1.17.1+</string>
 									<key>Points</key>
 									<array>
-										<string>{85.049479166666799, 505.00000000000017}</string>
-										<string>{85.049479166666799, 530}</string>
+										<string>{85.049479166666799, 495.00000000000017}</string>
+										<string>{85.049479166666799, 520}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -36218,136 +36592,22 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>MOVETO</string>
 												<key>point</key>
-												<string>{149.99999999999994, 505}</string>
+												<string>{154.99999999999994, 495}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{149.77604166666657, 523.25260416666674}</string>
-											</dict>
-											<dict>
-												<key>element</key>
-												<string>LINETO</string>
-												<key>point</key>
-												<string>{150.37239583333326, 571.77604166666663}</string>
-											</dict>
-											<dict>
-												<key>element</key>
-												<string>LINETO</string>
-												<key>point</key>
-												<string>{149.99999999999994, 585.00000000000011}</string>
+												<string>{154.99999999999994, 630.00000000000011}</string>
 											</dict>
 										</array>
 									</dict>
 									<key>Name</key>
-									<string>RabbitMQ 1.7.0 to 1.18.2+</string>
+									<string>RabbitMQ 1.17.0 to 1.18.2+</string>
 									<key>Points</key>
 									<array>
-										<string>{149.99999999999994, 505}</string>
-										<string>{149.77604166666657, 523.25260416666674}</string>
-										<string>{150.37239583333326, 571.77604166666663}</string>
-										<string>{149.99999999999994, 585.00000000000011}</string>
-									</array>
-									<key>Style</key>
-									<dict>
-										<key>fill</key>
-										<dict>
-											<key>Draws</key>
-											<string>NO</string>
-										</dict>
-										<key>shadow</key>
-										<dict>
-											<key>Draws</key>
-											<string>NO</string>
-										</dict>
-										<key>stroke</key>
-										<dict>
-											<key>Color</key>
-											<dict>
-												<key>b</key>
-												<real>0.56715000000000004</real>
-												<key>g</key>
-												<real>0.60053999999999996</real>
-												<key>r</key>
-												<real>0.0047153799999999999</real>
-												<key>space</key>
-												<string>srgb</string>
-											</dict>
-											<key>HeadArrow</key>
-											<string>FilledArrow</string>
-											<key>HeadScale</key>
-											<real>0.5</real>
-											<key>Legacy</key>
-											<false/>
-											<key>TailArrow</key>
-											<string>FilledBall</string>
-											<key>TailScale</key>
-											<real>0.5</real>
-										</dict>
-									</dict>
-								</dict>
-								<dict>
-									<key>AllowConnections</key>
-									<string>NO</string>
-									<key>AllowToConnect</key>
-									<false/>
-									<key>Class</key>
-									<string>LineGraphic</string>
-									<key>FontInfo</key>
-									<dict>
-										<key>Color</key>
-										<dict>
-											<key>space</key>
-											<string>gg22</string>
-											<key>w</key>
-											<string>0</string>
-										</dict>
-										<key>Font</key>
-										<string>Helvetica</string>
-										<key>Size</key>
-										<real>12</real>
-									</dict>
-									<key>ID</key>
-									<integer>724</integer>
-									<key>LogicalPath</key>
-									<dict>
-										<key>elements</key>
-										<array>
-											<dict>
-												<key>element</key>
-												<string>MOVETO</string>
-												<key>point</key>
-												<string>{284.22395833333337, 505}</string>
-											</dict>
-											<dict>
-												<key>element</key>
-												<string>LINETO</string>
-												<key>point</key>
-												<string>{284, 523.25260416666674}</string>
-											</dict>
-											<dict>
-												<key>element</key>
-												<string>LINETO</string>
-												<key>point</key>
-												<string>{284.59635416666669, 571.77604166666663}</string>
-											</dict>
-											<dict>
-												<key>element</key>
-												<string>LINETO</string>
-												<key>point</key>
-												<string>{284.22395833333337, 585.00000000000011}</string>
-											</dict>
-										</array>
-									</dict>
-									<key>Name</key>
-									<string>RabbitMQ 1.7.0 to 1.18.2+</string>
-									<key>Points</key>
-									<array>
-										<string>{284.22395833333337, 505}</string>
-										<string>{284, 523.25260416666674}</string>
-										<string>{284.59635416666669, 571.77604166666663}</string>
-										<string>{284.22395833333337, 585.00000000000011}</string>
+										<string>{154.99999999999994, 495}</string>
+										<string>{154.99999999999994, 630.00000000000011}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -36394,7 +36654,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<array>
 										<dict>
 											<key>Bounds</key>
-											<string>{{106.12499999999989, 493.66666666666697}, {14.344780219780196, 9.9999999999999964}}</string>
+											<string>{{106.12499999999989, 483.66666666666697}, {14.344780219780196, 9.9999999999999964}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -36435,7 +36695,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{93.482142857143089, 493.66666666666697}, {10.535714285714267, 10.000000000000004}}</string>
+											<string>{{93.482142857143089, 483.66666666666697}, {10.535714285714267, 10.000000000000004}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -36480,7 +36740,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{77.678571428571786, 493.66666666666697}, {14.267112528313966, 10.000000000000004}}</string>
+											<string>{{77.678571428571786, 483.66666666666697}, {14.267112528313966, 10.000000000000004}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -36515,7 +36775,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{61.875000000000234, 493.66666666666697}, {10.535714285714267, 10.000000000000004}}</string>
+											<string>{{61.875000000000234, 483.66666666666697}, {10.535714285714267, 10.000000000000004}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -36550,7 +36810,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{119.82142857142895, 493.66666666666697}, {10.535714285714274, 10.000000000000012}}</string>
+											<string>{{119.82142857142895, 483.66666666666697}, {10.535714285714274, 10.000000000000012}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -36609,7 +36869,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{58.607142857142776, 475.50000000000045}, {131.69642857142853, 20.000000000000007}}</string>
+									<string>{{58.607142857142776, 465.50000000000045}, {131.69642857142853, 20.000000000000007}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -36704,7 +36964,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{31.672619047619321, 479.5}, {21.071428571428555, 20.000000000000007}}</string>
+									<string>{{31.672619047619321, 469.5}, {21.071428571428555, 20.000000000000007}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -36739,7 +36999,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{25, 472.5}, {275, 35}}</string>
+									<string>{{25, 462.5}, {275, 35}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -36836,7 +37096,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										<real>12</real>
 									</dict>
 									<key>ID</key>
-									<integer>726</integer>
+									<integer>745</integer>
 									<key>LogicalPath</key>
 									<dict>
 										<key>elements</key>
@@ -36845,13 +37105,99 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>MOVETO</string>
 												<key>point</key>
-												<string>{540, 559.99999999999943}</string>
+												<string>{190.04947916666686, 549.99999999999943}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{540, 585}</string>
+												<string>{190.04947916666686, 575}</string>
+											</dict>
+										</array>
+									</dict>
+									<key>Name</key>
+									<string>RabbitMQ 1.17.1 to 1.17.5</string>
+									<key>Points</key>
+									<array>
+										<string>{190.04947916666686, 549.99999999999943}</string>
+										<string>{190.04947916666686, 575}</string>
+									</array>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Color</key>
+											<dict>
+												<key>b</key>
+												<real>0.56715000000000004</real>
+												<key>g</key>
+												<real>0.60053999999999996</real>
+												<key>r</key>
+												<real>0.0047153799999999999</real>
+												<key>space</key>
+												<string>srgb</string>
+											</dict>
+											<key>HeadArrow</key>
+											<string>FilledArrow</string>
+											<key>HeadScale</key>
+											<real>0.5</real>
+											<key>Legacy</key>
+											<false/>
+											<key>TailArrow</key>
+											<string>FilledBall</string>
+											<key>TailScale</key>
+											<real>0.5</real>
+										</dict>
+									</dict>
+								</dict>
+								<dict>
+									<key>AllowConnections</key>
+									<string>NO</string>
+									<key>AllowToConnect</key>
+									<false/>
+									<key>Class</key>
+									<string>LineGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Color</key>
+										<dict>
+											<key>space</key>
+											<string>gg22</string>
+											<key>w</key>
+											<string>0</string>
+										</dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>12</real>
+									</dict>
+									<key>ID</key>
+									<integer>742</integer>
+									<key>LogicalPath</key>
+									<dict>
+										<key>elements</key>
+										<array>
+											<dict>
+												<key>element</key>
+												<string>MOVETO</string>
+												<key>point</key>
+												<string>{240.04947916666686, 549.99999999999943}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{240.04947916666686, 630}</string>
 											</dict>
 										</array>
 									</dict>
@@ -36859,8 +37205,180 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<string>RabbitMQ 1.17.1 to 1.18.2+</string>
 									<key>Points</key>
 									<array>
-										<string>{540, 559.99999999999943}</string>
-										<string>{540, 585}</string>
+										<string>{240.04947916666686, 549.99999999999943}</string>
+										<string>{240.04947916666686, 630}</string>
+									</array>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Color</key>
+											<dict>
+												<key>b</key>
+												<real>0.56715000000000004</real>
+												<key>g</key>
+												<real>0.60053999999999996</real>
+												<key>r</key>
+												<real>0.0047153799999999999</real>
+												<key>space</key>
+												<string>srgb</string>
+											</dict>
+											<key>HeadArrow</key>
+											<string>FilledArrow</string>
+											<key>HeadScale</key>
+											<real>0.5</real>
+											<key>Legacy</key>
+											<false/>
+											<key>TailArrow</key>
+											<string>FilledBall</string>
+											<key>TailScale</key>
+											<real>0.5</real>
+										</dict>
+									</dict>
+								</dict>
+								<dict>
+									<key>AllowConnections</key>
+									<string>NO</string>
+									<key>AllowToConnect</key>
+									<false/>
+									<key>Class</key>
+									<string>LineGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Color</key>
+										<dict>
+											<key>space</key>
+											<string>gg22</string>
+											<key>w</key>
+											<string>0</string>
+										</dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>12</real>
+									</dict>
+									<key>ID</key>
+									<integer>741</integer>
+									<key>LogicalPath</key>
+									<dict>
+										<key>elements</key>
+										<array>
+											<dict>
+												<key>element</key>
+												<string>MOVETO</string>
+												<key>point</key>
+												<string>{145.04947916666686, 549.99999999999943}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{145.04947916666686, 630}</string>
+											</dict>
+										</array>
+									</dict>
+									<key>Name</key>
+									<string>RabbitMQ 1.17.1 to 1.18.2+</string>
+									<key>Points</key>
+									<array>
+										<string>{145.04947916666686, 549.99999999999943}</string>
+										<string>{145.04947916666686, 630}</string>
+									</array>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Color</key>
+											<dict>
+												<key>b</key>
+												<real>0.56715000000000004</real>
+												<key>g</key>
+												<real>0.60053999999999996</real>
+												<key>r</key>
+												<real>0.0047153799999999999</real>
+												<key>space</key>
+												<string>srgb</string>
+											</dict>
+											<key>HeadArrow</key>
+											<string>FilledArrow</string>
+											<key>HeadScale</key>
+											<real>0.5</real>
+											<key>Legacy</key>
+											<false/>
+											<key>TailArrow</key>
+											<string>FilledBall</string>
+											<key>TailScale</key>
+											<real>0.5</real>
+										</dict>
+									</dict>
+								</dict>
+								<dict>
+									<key>AllowConnections</key>
+									<string>NO</string>
+									<key>AllowToConnect</key>
+									<false/>
+									<key>Class</key>
+									<string>LineGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Color</key>
+										<dict>
+											<key>space</key>
+											<string>gg22</string>
+											<key>w</key>
+											<string>0</string>
+										</dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>12</real>
+									</dict>
+									<key>ID</key>
+									<integer>740</integer>
+									<key>LogicalPath</key>
+									<dict>
+										<key>elements</key>
+										<array>
+											<dict>
+												<key>element</key>
+												<string>MOVETO</string>
+												<key>point</key>
+												<string>{355.04947916666708, 549.99999999999943}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{355.04947916666708, 630}</string>
+											</dict>
+										</array>
+									</dict>
+									<key>Name</key>
+									<string>RabbitMQ 1.17.1 to 1.18.2+</string>
+									<key>Points</key>
+									<array>
+										<string>{355.04947916666708, 549.99999999999943}</string>
+										<string>{355.04947916666708, 630}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -36931,22 +37449,22 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>MOVETO</string>
 												<key>point</key>
-												<string>{390.04947916666708, 559.99999999999943}</string>
+												<string>{390.04947916666708, 549.99999999999943}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{390.04947916666708, 585}</string>
+												<string>{390.04947916666708, 575}</string>
 											</dict>
 										</array>
 									</dict>
 									<key>Name</key>
-									<string>RabbitMQ 1.17.1 to 1.18.2+</string>
+									<string>RabbitMQ 1.17.1 to 1.17.5</string>
 									<key>Points</key>
 									<array>
-										<string>{390.04947916666708, 559.99999999999943}</string>
-										<string>{390.04947916666708, 585}</string>
+										<string>{390.04947916666708, 549.99999999999943}</string>
+										<string>{390.04947916666708, 575}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -37017,108 +37535,22 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 												<key>element</key>
 												<string>MOVETO</string>
 												<key>point</key>
-												<string>{85.049479166666842, 559.99999999999943}</string>
+												<string>{85.049479166666856, 549.99999999999943}</string>
 											</dict>
 											<dict>
 												<key>element</key>
 												<string>LINETO</string>
 												<key>point</key>
-												<string>{85.049479166666842, 585}</string>
+												<string>{85.049479166666856, 575}</string>
 											</dict>
 										</array>
 									</dict>
 									<key>Name</key>
-									<string>RabbitMQ 1.17.1 to 1.18.2+</string>
+									<string>RabbitMQ 1.17.1 to 1.17.5</string>
 									<key>Points</key>
 									<array>
-										<string>{85.049479166666842, 559.99999999999943}</string>
-										<string>{85.049479166666842, 585}</string>
-									</array>
-									<key>Style</key>
-									<dict>
-										<key>fill</key>
-										<dict>
-											<key>Draws</key>
-											<string>NO</string>
-										</dict>
-										<key>shadow</key>
-										<dict>
-											<key>Draws</key>
-											<string>NO</string>
-										</dict>
-										<key>stroke</key>
-										<dict>
-											<key>Color</key>
-											<dict>
-												<key>b</key>
-												<real>0.56715000000000004</real>
-												<key>g</key>
-												<real>0.60053999999999996</real>
-												<key>r</key>
-												<real>0.0047153799999999999</real>
-												<key>space</key>
-												<string>srgb</string>
-											</dict>
-											<key>HeadArrow</key>
-											<string>FilledArrow</string>
-											<key>HeadScale</key>
-											<real>0.5</real>
-											<key>Legacy</key>
-											<false/>
-											<key>TailArrow</key>
-											<string>FilledBall</string>
-											<key>TailScale</key>
-											<real>0.5</real>
-										</dict>
-									</dict>
-								</dict>
-								<dict>
-									<key>AllowConnections</key>
-									<string>NO</string>
-									<key>AllowToConnect</key>
-									<false/>
-									<key>Class</key>
-									<string>LineGraphic</string>
-									<key>FontInfo</key>
-									<dict>
-										<key>Color</key>
-										<dict>
-											<key>space</key>
-											<string>gg22</string>
-											<key>w</key>
-											<string>0</string>
-										</dict>
-										<key>Font</key>
-										<string>Helvetica</string>
-										<key>Size</key>
-										<real>12</real>
-									</dict>
-									<key>ID</key>
-									<integer>710</integer>
-									<key>LogicalPath</key>
-									<dict>
-										<key>elements</key>
-										<array>
-											<dict>
-												<key>element</key>
-												<string>MOVETO</string>
-												<key>point</key>
-												<string>{205.04947916666688, 559.99999999999943}</string>
-											</dict>
-											<dict>
-												<key>element</key>
-												<string>LINETO</string>
-												<key>point</key>
-												<string>{205.04947916666688, 585}</string>
-											</dict>
-										</array>
-									</dict>
-									<key>Name</key>
-									<string>RabbitMQ 1.17.1 to 1.18.2+</string>
-									<key>Points</key>
-									<array>
-										<string>{205.04947916666688, 559.99999999999943}</string>
-										<string>{205.04947916666688, 585}</string>
+										<string>{85.049479166666856, 549.99999999999943}</string>
+										<string>{85.049479166666856, 575}</string>
 									</array>
 									<key>Style</key>
 									<dict>
@@ -37165,7 +37597,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 									<array>
 										<dict>
 											<key>Bounds</key>
-											<string>{{105.19252873563228, 550.92337164750984}, {14.179897688518365, 9.8850574712643642}}</string>
+											<string>{{105.19252873563228, 540.92337164750984}, {14.179897688518365, 9.8850574712643642}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -37206,7 +37638,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{92.694991789819653, 550.92337164750984}, {10.414614121510661, 9.8850574712643731}}</string>
+											<string>{{92.694991789819653, 540.92337164750984}, {10.414614121510661, 9.8850574712643731}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -37251,7 +37683,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{77.073070607553717, 550.92337164750984}, {14.103122729137951, 9.8850574712643731}}</string>
+											<string>{{77.073070607553717, 540.92337164750984}, {14.103122729137951, 9.8850574712643731}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -37286,7 +37718,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{61.451149425287589, 550.92337164750984}, {10.414614121510661, 9.8850574712643731}}</string>
+											<string>{{61.451149425287589, 540.92337164750984}, {10.414614121510661, 9.8850574712643731}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -37321,7 +37753,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{118.73152709359644, 550.92337164750984}, {10.414614121510668, 9.8850574712643819}}</string>
+											<string>{{118.73152709359644, 540.92337164750984}, {10.414614121510668, 9.8850574712643819}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -37380,7 +37812,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{56.902846195949664, 532.63601532567066}, {130.18267651888337, 19.770114942528746}}</string>
+									<string>{{56.902846195949664, 522.63601532567066}, {130.18267651888337, 19.770114942528746}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -37475,7 +37907,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{31.595922276956927, 536.919540229885}, {20.82922824302133, 19.770114942528746}}</string>
+									<string>{{31.595922276956927, 526.919540229885}, {20.82922824302133, 19.770114942528746}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -37510,7 +37942,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{25, 530}, {585, 34.597701149425269}}</string>
+									<string>{{25, 520}, {425, 34.597701149425269}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -37586,13 +38018,784 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 							<key>Graphics</key>
 							<array>
 								<dict>
+									<key>AllowConnections</key>
+									<string>NO</string>
+									<key>AllowToConnect</key>
+									<false/>
+									<key>Class</key>
+									<string>LineGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Color</key>
+										<dict>
+											<key>space</key>
+											<string>gg22</string>
+											<key>w</key>
+											<string>0</string>
+										</dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>12</real>
+									</dict>
+									<key>ID</key>
+									<integer>744</integer>
+									<key>LogicalPath</key>
+									<dict>
+										<key>elements</key>
+										<array>
+											<dict>
+												<key>element</key>
+												<string>MOVETO</string>
+												<key>point</key>
+												<string>{540.04947916666708, 604.9999999999992}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{540.04947916666708, 630}</string>
+											</dict>
+										</array>
+									</dict>
+									<key>Name</key>
+									<string>RabbitMQ 1.17.5 to 1.18.2+</string>
+									<key>Points</key>
+									<array>
+										<string>{540.04947916666708, 604.9999999999992}</string>
+										<string>{540.04947916666708, 630}</string>
+									</array>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Color</key>
+											<dict>
+												<key>b</key>
+												<real>0.56715000000000004</real>
+												<key>g</key>
+												<real>0.60053999999999996</real>
+												<key>r</key>
+												<real>0.0047153799999999999</real>
+												<key>space</key>
+												<string>srgb</string>
+											</dict>
+											<key>HeadArrow</key>
+											<string>FilledArrow</string>
+											<key>HeadScale</key>
+											<real>0.5</real>
+											<key>Legacy</key>
+											<false/>
+											<key>TailArrow</key>
+											<string>FilledBall</string>
+											<key>TailScale</key>
+											<real>0.5</real>
+										</dict>
+									</dict>
+								</dict>
+								<dict>
+									<key>AllowConnections</key>
+									<string>NO</string>
+									<key>AllowToConnect</key>
+									<false/>
+									<key>Class</key>
+									<string>LineGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Color</key>
+										<dict>
+											<key>space</key>
+											<string>gg22</string>
+											<key>w</key>
+											<string>0</string>
+										</dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>12</real>
+									</dict>
+									<key>ID</key>
+									<integer>728</integer>
+									<key>LogicalPath</key>
+									<dict>
+										<key>elements</key>
+										<array>
+											<dict>
+												<key>element</key>
+												<string>MOVETO</string>
+												<key>point</key>
+												<string>{390.04947916666708, 604.9999999999992}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{390.04947916666708, 630}</string>
+											</dict>
+										</array>
+									</dict>
+									<key>Name</key>
+									<string>RabbitMQ 1.17.5 to 1.18.2+</string>
+									<key>Points</key>
+									<array>
+										<string>{390.04947916666708, 604.9999999999992}</string>
+										<string>{390.04947916666708, 630}</string>
+									</array>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Color</key>
+											<dict>
+												<key>b</key>
+												<real>0.56715000000000004</real>
+												<key>g</key>
+												<real>0.60053999999999996</real>
+												<key>r</key>
+												<real>0.0047153799999999999</real>
+												<key>space</key>
+												<string>srgb</string>
+											</dict>
+											<key>HeadArrow</key>
+											<string>FilledArrow</string>
+											<key>HeadScale</key>
+											<real>0.5</real>
+											<key>Legacy</key>
+											<false/>
+											<key>TailArrow</key>
+											<string>FilledBall</string>
+											<key>TailScale</key>
+											<real>0.5</real>
+										</dict>
+									</dict>
+								</dict>
+								<dict>
+									<key>AllowConnections</key>
+									<string>NO</string>
+									<key>AllowToConnect</key>
+									<false/>
+									<key>Class</key>
+									<string>LineGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Color</key>
+										<dict>
+											<key>space</key>
+											<string>gg22</string>
+											<key>w</key>
+											<string>0</string>
+										</dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>12</real>
+									</dict>
+									<key>ID</key>
+									<integer>729</integer>
+									<key>LogicalPath</key>
+									<dict>
+										<key>elements</key>
+										<array>
+											<dict>
+												<key>element</key>
+												<string>MOVETO</string>
+												<key>point</key>
+												<string>{85.049479166666842, 604.9999999999992}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{85.049479166666842, 630}</string>
+											</dict>
+										</array>
+									</dict>
+									<key>Name</key>
+									<string>RabbitMQ 1.17.5 to 1.18.2+</string>
+									<key>Points</key>
+									<array>
+										<string>{85.049479166666842, 604.9999999999992}</string>
+										<string>{85.049479166666842, 630}</string>
+									</array>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Color</key>
+											<dict>
+												<key>b</key>
+												<real>0.56715000000000004</real>
+												<key>g</key>
+												<real>0.60053999999999996</real>
+												<key>r</key>
+												<real>0.0047153799999999999</real>
+												<key>space</key>
+												<string>srgb</string>
+											</dict>
+											<key>HeadArrow</key>
+											<string>FilledArrow</string>
+											<key>HeadScale</key>
+											<real>0.5</real>
+											<key>Legacy</key>
+											<false/>
+											<key>TailArrow</key>
+											<string>FilledBall</string>
+											<key>TailScale</key>
+											<real>0.5</real>
+										</dict>
+									</dict>
+								</dict>
+								<dict>
+									<key>AllowConnections</key>
+									<string>NO</string>
+									<key>AllowToConnect</key>
+									<false/>
+									<key>Class</key>
+									<string>LineGraphic</string>
+									<key>FontInfo</key>
+									<dict>
+										<key>Color</key>
+										<dict>
+											<key>space</key>
+											<string>gg22</string>
+											<key>w</key>
+											<string>0</string>
+										</dict>
+										<key>Font</key>
+										<string>Helvetica</string>
+										<key>Size</key>
+										<real>12</real>
+									</dict>
+									<key>ID</key>
+									<integer>730</integer>
+									<key>LogicalPath</key>
+									<dict>
+										<key>elements</key>
+										<array>
+											<dict>
+												<key>element</key>
+												<string>MOVETO</string>
+												<key>point</key>
+												<string>{190.04947916666686, 604.9999999999992}</string>
+											</dict>
+											<dict>
+												<key>element</key>
+												<string>LINETO</string>
+												<key>point</key>
+												<string>{190.04947916666686, 630}</string>
+											</dict>
+										</array>
+									</dict>
+									<key>Name</key>
+									<string>RabbitMQ 1.17.5 to 1.18.2+</string>
+									<key>Points</key>
+									<array>
+										<string>{190.04947916666686, 604.9999999999992}</string>
+										<string>{190.04947916666686, 630}</string>
+									</array>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Color</key>
+											<dict>
+												<key>b</key>
+												<real>0.56715000000000004</real>
+												<key>g</key>
+												<real>0.60053999999999996</real>
+												<key>r</key>
+												<real>0.0047153799999999999</real>
+												<key>space</key>
+												<string>srgb</string>
+											</dict>
+											<key>HeadArrow</key>
+											<string>FilledArrow</string>
+											<key>HeadScale</key>
+											<real>0.5</real>
+											<key>Legacy</key>
+											<false/>
+											<key>TailArrow</key>
+											<string>FilledBall</string>
+											<key>TailScale</key>
+											<real>0.5</real>
+										</dict>
+									</dict>
+								</dict>
+								<dict>
 									<key>Class</key>
 									<string>Group</string>
 									<key>Graphics</key>
 									<array>
 										<dict>
 											<key>Bounds</key>
-											<string>{{104.51293103448286, 605.49605493863282}, {14.059729064039395, 9.8012857977790713}}</string>
+											<string>{{105.19252873563228, 595.92337164750984}, {14.179897688518365, 9.8850574712643642}}</string>
+											<key>Class</key>
+											<string>ShapedGraphic</string>
+											<key>ID</key>
+											<integer>732</integer>
+											<key>ImageID</key>
+											<integer>31</integer>
+											<key>ManualSizeImage</key>
+											<string>YES</string>
+											<key>Scale</key>
+											<real>0.076923073002925335</real>
+											<key>ScaleY</key>
+											<real>0.076923079788684845</real>
+											<key>StretchImage</key>
+											<false/>
+											<key>Style</key>
+											<dict>
+												<key>fill</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>shadow</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>stroke</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+											</dict>
+											<key>Text</key>
+											<dict>
+												<key>TextAlongPathGlyphAnchor</key>
+												<string>center</string>
+											</dict>
+										</dict>
+										<dict>
+											<key>Bounds</key>
+											<string>{{92.694991789819653, 595.92337164750984}, {10.414614121510661, 9.8850574712643731}}</string>
+											<key>Class</key>
+											<string>ShapedGraphic</string>
+											<key>ID</key>
+											<integer>733</integer>
+											<key>ImageID</key>
+											<integer>12</integer>
+											<key>ManualSizeImage</key>
+											<string>YES</string>
+											<key>Offset</key>
+											<string>{0.043062200956937788, 0.0047846889952153108}</string>
+											<key>Scale</key>
+											<real>0.10962751706853331</real>
+											<key>ScaleY</key>
+											<real>0.10405323654413223</real>
+											<key>Scaling</key>
+											<integer>1</integer>
+											<key>StretchImage</key>
+											<true/>
+											<key>Style</key>
+											<dict>
+												<key>fill</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>shadow</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>stroke</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+											</dict>
+											<key>Text</key>
+											<dict>
+												<key>TextAlongPathGlyphAnchor</key>
+												<string>center</string>
+											</dict>
+										</dict>
+										<dict>
+											<key>Bounds</key>
+											<string>{{77.073070607553717, 595.92337164750984}, {14.103122729137951, 9.8850574712643731}}</string>
+											<key>Class</key>
+											<string>ShapedGraphic</string>
+											<key>ID</key>
+											<integer>734</integer>
+											<key>ImageID</key>
+											<integer>7</integer>
+											<key>Scaling</key>
+											<integer>1</integer>
+											<key>Style</key>
+											<dict>
+												<key>fill</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>shadow</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>stroke</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+											</dict>
+											<key>Text</key>
+											<dict>
+												<key>TextAlongPathGlyphAnchor</key>
+												<string>center</string>
+											</dict>
+										</dict>
+										<dict>
+											<key>Bounds</key>
+											<string>{{61.451149425287589, 595.92337164750984}, {10.414614121510661, 9.8850574712643731}}</string>
+											<key>Class</key>
+											<string>ShapedGraphic</string>
+											<key>ID</key>
+											<integer>735</integer>
+											<key>ImageID</key>
+											<integer>6</integer>
+											<key>Scaling</key>
+											<integer>1</integer>
+											<key>Style</key>
+											<dict>
+												<key>fill</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>shadow</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>stroke</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+											</dict>
+											<key>Text</key>
+											<dict>
+												<key>TextAlongPathGlyphAnchor</key>
+												<string>center</string>
+											</dict>
+										</dict>
+										<dict>
+											<key>Bounds</key>
+											<string>{{118.73152709359644, 595.92337164750984}, {10.414614121510668, 9.8850574712643819}}</string>
+											<key>Class</key>
+											<string>ShapedGraphic</string>
+											<key>ID</key>
+											<integer>736</integer>
+											<key>ImageID</key>
+											<integer>28</integer>
+											<key>Style</key>
+											<dict>
+												<key>fill</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>shadow</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+												<key>stroke</key>
+												<dict>
+													<key>Draws</key>
+													<string>NO</string>
+												</dict>
+											</dict>
+											<key>Text</key>
+											<dict>
+												<key>TextAlongPathGlyphAnchor</key>
+												<string>center</string>
+											</dict>
+										</dict>
+									</array>
+									<key>ID</key>
+									<integer>731</integer>
+									<key>Name</key>
+									<string>IaaS</string>
+									<key>Scaling</key>
+									<integer>-1</integer>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+									</dict>
+								</dict>
+								<dict>
+									<key>Bounds</key>
+									<string>{{56.902846195949664, 577.63601532567066}, {130.18267651888337, 19.770114942528746}}</string>
+									<key>Class</key>
+									<string>ShapedGraphic</string>
+									<key>ID</key>
+									<integer>737</integer>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+									</dict>
+									<key>Text</key>
+									<dict>
+										<key>Align</key>
+										<integer>0</integer>
+										<key>RTFD</key>
+										<data>
+								BAtzdHJlYW10
+								eXBlZIHoA4QB
+								QISEhBJOU0F0
+								dHJpYnV0ZWRT
+								dHJpbmcAhIQI
+								TlNPYmplY3QA
+								hZKEhIQITlNT
+								dHJpbmcBlIQB
+								KxBSYWJiaXRN
+								USB2MS4xNy41
+								hoQCaUkBCZKE
+								hIQMTlNEaWN0
+								aW9uYXJ5AJSE
+								AWkDkoSWlgdO
+								U0NvbG9yhpKE
+								hIQHTlNDb2xv
+								cgCUhAFjAYQE
+								ZmZmZoN88vA9
+								g3zy8D2DfPLw
+								PQGGkoSWlhBO
+								U1BhcmFncmFw
+								aFN0eWxlhpKE
+								hIQXTlNNdXRh
+								YmxlUGFyYWdy
+								YXBoU3R5bGUA
+								hIQQTlNQYXJh
+								Z3JhcGhTdHls
+								ZQCUhARDQ0BT
+								AACEhIQHTlNB
+								cnJheQCUmQCG
+								gQAChARbMWZd
+								JIaShJaWBk5T
+								Rm9udIaShISE
+								Bk5TRm9udB6U
+								mSiEBVs0MGNd
+								BgAAAB4AAAD/
+								/kgAZQBsAHYA
+								ZQB0AGkAYwBh
+								AC0AQgBvAGwA
+								ZAAAAIQBZgib
+								AJsBmwCbAIaG
+								lwIHkoSYmQOS
+								mZKakpySnZKi
+								koSkmRyEBVsy
+								OGNdBgAAABQA
+								AAD//kgAZQBs
+								AHYAZQB0AGkA
+								YwBhAKQImwCb
+								AZsAmwCGhoY=
+										</data>
+										<key>Text</key>
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf2511
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red30\green30\blue30;}
+{\*\expandedcolortbl;;\csgenericrgb\c11765\c11765\c11765;}
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\b\fs16 \cf2 RabbitMQ 
+\f1\b0 v1.17.5}</string>
+										<key>TextAlongPathGlyphAnchor</key>
+										<string>center</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>Bounds</key>
+									<string>{{31.595922276956927, 581.919540229885}, {20.82922824302133, 19.770114942528746}}</string>
+									<key>Class</key>
+									<string>ShapedGraphic</string>
+									<key>ID</key>
+									<integer>738</integer>
+									<key>ImageID</key>
+									<integer>44</integer>
+									<key>Name</key>
+									<string>RabbitMQ logo</string>
+									<key>Style</key>
+									<dict>
+										<key>fill</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+									</dict>
+									<key>Text</key>
+									<dict>
+										<key>TextAlongPathGlyphAnchor</key>
+										<string>center</string>
+									</dict>
+								</dict>
+								<dict>
+									<key>Bounds</key>
+									<string>{{25, 575}, {585, 34.597701149425269}}</string>
+									<key>Class</key>
+									<string>ShapedGraphic</string>
+									<key>ID</key>
+									<integer>739</integer>
+									<key>Magnets</key>
+									<array>
+										<string>{0, 1}</string>
+										<string>{0, -1}</string>
+										<string>{1, 0}</string>
+										<string>{-1, 0}</string>
+									</array>
+									<key>Name</key>
+									<string>RabbitMQ</string>
+									<key>Style</key>
+									<dict>
+										<key>shadow</key>
+										<dict>
+											<key>Draws</key>
+											<string>NO</string>
+										</dict>
+										<key>stroke</key>
+										<dict>
+											<key>Color</key>
+											<dict>
+												<key>b</key>
+												<real>0.78109200000000001</real>
+												<key>g</key>
+												<real>0.77117999999999998</real>
+												<key>r</key>
+												<real>0.76405999999999996</real>
+												<key>space</key>
+												<string>srgb</string>
+											</dict>
+											<key>CornerRadius</key>
+											<real>3</real>
+										</dict>
+									</dict>
+									<key>Text</key>
+									<dict>
+										<key>TextAlongPathGlyphAnchor</key>
+										<string>center</string>
+									</dict>
+								</dict>
+							</array>
+							<key>ID</key>
+							<integer>727</integer>
+							<key>Name</key>
+							<string>RabbitMQ 1.17.5 (click me for elements)</string>
+							<key>Scaling</key>
+							<integer>-1</integer>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+							</dict>
+						</dict>
+						<dict>
+							<key>Class</key>
+							<string>Group</string>
+							<key>Graphics</key>
+							<array>
+								<dict>
+									<key>Class</key>
+									<string>Group</string>
+									<key>Graphics</key>
+									<array>
+										<dict>
+											<key>Bounds</key>
+											<string>{{104.51293103448286, 650.49605493863282}, {14.059729064039395, 9.8012857977790713}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -37633,7 +38836,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{92.121305418719501, 605.49605493863282}, {10.326354679802945, 9.8012857977790802}}</string>
+											<string>{{92.121305418719501, 650.49605493863282}, {10.326354679802945, 9.8012857977790802}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -37678,7 +38881,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{76.631773399015131, 605.49605493863282}, {13.983604739907969, 9.8012857977790802}}</string>
+											<string>{{76.631773399015131, 650.49605493863282}, {13.983604739907969, 9.8012857977790802}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -37713,7 +38916,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{61.142241379310597, 605.49605493863282}, {10.326354679802945, 9.8012857977790802}}</string>
+											<string>{{61.142241379310597, 650.49605493863282}, {10.326354679802945, 9.8012857977790802}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -37748,7 +38951,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 										</dict>
 										<dict>
 											<key>Bounds</key>
-											<string>{{117.93719211822699, 605.49605493863271}, {10.326354679802952, 9.801285797779089}}</string>
+											<string>{{117.93719211822699, 650.49605493863271}, {10.326354679802952, 9.801285797779089}}</string>
 											<key>Class</key>
 											<string>ShapedGraphic</string>
 											<key>ID</key>
@@ -37807,7 +39010,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{56.632483092594157, 587.36367621274132}, {129.07943349753691, 19.60257159555816}}</string>
+									<string>{{56.632483092594157, 632.36367621274132}, {129.07943349753691, 19.60257159555816}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -37904,7 +39107,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{31.54002463054205, 591.6109000584454}, {20.652709359605897, 19.60257159555816}}</string>
+									<string>{{31.54002463054205, 636.6109000584454}, {20.652709359605897, 19.60257159555816}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -37939,7 +39142,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 								</dict>
 								<dict>
 									<key>Bounds</key>
-									<string>{{25, 584.75000000000011}, {585, 34.304500292226749}}</string>
+									<string>{{25, 629.75000000000011}, {585, 34.304500292226749}}</string>
 									<key>Class</key>
 									<string>ShapedGraphic</string>
 									<key>ID</key>
@@ -67027,7 +68230,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 		<key>CurrentSheet</key>
 		<integer>3</integer>
 		<key>Frame</key>
-		<string>{{667, 76}, {2004, 1341}}</string>
+		<string>{{587, 76}, {2004, 1341}}</string>
 		<key>ShowInfo</key>
 		<false/>
 		<key>Sidebar</key>
@@ -67037,7 +68240,7 @@ After every product is upgraded, the operator can then safely upgrade Ops Manage
 		<key>Sidebar_Tab</key>
 		<integer>0</integer>
 		<key>VisibleRegion</key>
-		<string>{{0.5, 230.5}, {776, 615.5}}</string>
+		<string>{{-74, 217.5}, {776, 615.5}}</string>
 		<key>WindowInfo_InspectorTab</key>
 		<array>
 			<string>com.omnigroup.OmniGraffle.inspectorGroup.object</string>
